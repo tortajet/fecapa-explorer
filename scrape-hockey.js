@@ -5,8 +5,11 @@ async function scrapeMatches() {
   const browser = await chromium.launch();
   const page = await browser.newPage();
   
-  await page.goto('https://www.hoqueipatins.fecapa.cat/ag/');
-  await page.waitForTimeout(3000);
+  await page.goto('https://www.hoqueipatins.fecapa.cat/ag/', { 
+    waitUntil: 'networkidle',
+    timeout: 60000 
+  });
+  await page.waitForTimeout(5000);
   
   const matches = await page.evaluate(() => {
     const data = [];
