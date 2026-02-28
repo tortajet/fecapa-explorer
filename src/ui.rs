@@ -27,6 +27,73 @@ pub fn render_title(f: &mut Frame, area: Rect) {
 pub fn render_partidos_table(f: &mut Frame, area: Rect, app: &App) {
     let table_height = (area.height as usize).saturating_sub(2);
     let offset = app.partido_seleccionado.saturating_sub(table_height / 2);
+    let width = area.width as usize;
+
+    let (_, constraints, header): (Vec<&str>, Vec<Constraint>, Vec<&str>) = if width < 90 {
+        (
+            vec!["COMP", "FECHA", "HORA", "LOCAL", "VIS", "RES"],
+            vec![
+                Constraint::Min(15),
+                Constraint::Length(10),
+                Constraint::Length(6),
+                Constraint::Min(12),
+                Constraint::Min(12),
+                Constraint::Length(8),
+            ],
+            vec!["COMP", "FECHA", "HORA", "LOCAL", "VIS", "RES"],
+        )
+    } else if width < 120 {
+        (
+            vec!["COMPETICIÓN", "FECHA", "HORA", "LOCAL", "VISITANTE", "RES"],
+            vec![
+                Constraint::Min(20),
+                Constraint::Length(10),
+                Constraint::Length(6),
+                Constraint::Min(15),
+                Constraint::Min(15),
+                Constraint::Length(8),
+            ],
+            vec!["COMPETICIÓN", "FECHA", "HORA", "LOCAL", "VISITANTE", "RES"],
+        )
+    } else {
+        (
+            vec![
+                "COMPETICIÓN",
+                "FECHA",
+                "HORA",
+                "LOCAL",
+                "VISITANTE",
+                "RES",
+                "PISTA",
+            ],
+            vec![
+                Constraint::Min(25),
+                Constraint::Length(10),
+                Constraint::Length(6),
+                Constraint::Min(20),
+                Constraint::Min(20),
+                Constraint::Length(8),
+                Constraint::Min(25),
+            ],
+            vec![
+                "COMPETICIÓN",
+                "FECHA",
+                "HORA",
+                "LOCAL",
+                "VISITANTE",
+                "RES",
+                "PISTA",
+            ],
+        )
+    };
+
+    let max_lens = if width < 90 {
+        (15, 10, 5, 10, 10)
+    } else if width < 120 {
+        (20, 10, 5, 13, 13)
+    } else {
+        (25, 10, 6, 20, 20)
+    };
 
     let rows: Vec<Row> = app
         .partidos
@@ -44,54 +111,61 @@ pub fn render_partidos_table(f: &mut Frame, area: Rect, app: &App) {
                 Style::default()
             };
 
-            Row::new(vec![
-                Cell::from(truncate(&p.competicion, 25)),
-                Cell::from(truncate(&p.data, 10)),
-                Cell::from(truncate(&p.hora, 6)),
-                Cell::from(truncate(&p.local, 20)),
-                Cell::from(truncate(&p.visitante, 20)),
-                Cell::from(if p.resultado.is_empty() {
-                    "-".to_string()
-                } else {
-                    p.resultado.clone()
-                }),
-                Cell::from(truncate(&p.pista, 25)),
-            ])
-            .style(style)
+            let cells = if width < 90 {
+                vec![
+                    Cell::from(truncate(&p.competicion, max_lens.0)),
+                    Cell::from(truncate(&p.data, max_lens.1)),
+                    Cell::from(truncate(&p.hora, max_lens.2)),
+                    Cell::from(truncate(&p.local, max_lens.3)),
+                    Cell::from(truncate(&p.visitante, max_lens.4)),
+                    Cell::from(if p.resultado.is_empty() {
+                        "-".to_string()
+                    } else {
+                        p.resultado.clone()
+                    }),
+                ]
+            } else if width < 120 {
+                vec![
+                    Cell::from(truncate(&p.competicion, max_lens.0)),
+                    Cell::from(truncate(&p.data, max_lens.1)),
+                    Cell::from(truncate(&p.hora, max_lens.2)),
+                    Cell::from(truncate(&p.local, max_lens.3)),
+                    Cell::from(truncate(&p.visitante, max_lens.4)),
+                    Cell::from(if p.resultado.is_empty() {
+                        "-".to_string()
+                    } else {
+                        p.resultado.clone()
+                    }),
+                ]
+            } else {
+                vec![
+                    Cell::from(truncate(&p.competicion, max_lens.0)),
+                    Cell::from(truncate(&p.data, max_lens.1)),
+                    Cell::from(truncate(&p.hora, max_lens.2)),
+                    Cell::from(truncate(&p.local, max_lens.3)),
+                    Cell::from(truncate(&p.visitante, max_lens.4)),
+                    Cell::from(if p.resultado.is_empty() {
+                        "-".to_string()
+                    } else {
+                        p.resultado.clone()
+                    }),
+                    Cell::from(truncate(&p.pista, 25)),
+                ]
+            };
+
+            Row::new(cells).style(style)
         })
         .collect();
 
-    let table = Table::new(
-        rows,
-        [
-            Constraint::Min(25),
-            Constraint::Length(10),
-            Constraint::Length(6),
-            Constraint::Min(20),
-            Constraint::Min(20),
-            Constraint::Length(8),
-            Constraint::Min(25),
-        ],
-    )
-    .header(
-        Row::new(vec![
-            "COMPETICIÓN",
-            "FECHA",
-            "HORA",
-            "LOCAL",
-            "VISITANTE",
-            "RES",
-            "PISTA",
-        ])
-        .style(Style::default().fg(Color::Yellow).bold()),
-    )
-    .block(
-        Block::bordered()
-            .title(" Partidos ")
-            .border_style(Style::default().fg(Color::Cyan))
-            .borders(Borders::ALL),
-    )
-    .highlight_symbol(">> ");
+    let table = Table::new(rows, constraints)
+        .header(Row::new(header).style(Style::default().fg(Color::Yellow).bold()))
+        .block(
+            Block::bordered()
+                .title(" Partidos ")
+                .border_style(Style::default().fg(Color::Cyan))
+                .borders(Borders::ALL),
+        )
+        .highlight_symbol(">> ");
 
     f.render_widget(table, area);
 }
