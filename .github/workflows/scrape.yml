@@ -7,14 +7,21 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+          fetch-depth: 0
         
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -35,3 +42,4 @@ jobs:
         with:
           commit_message: "chore: update partidos.json (scraped data)"
           file_pattern: partidos.json
+          commit_options: '--no-verify'
