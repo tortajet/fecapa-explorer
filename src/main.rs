@@ -334,12 +334,18 @@ fn main() -> io::Result<()> {
 
             match app.vista_actual {
                 Vista::Partidos => {
+                    let table_height = (chunks[1].height as usize).saturating_sub(2);
+                    let offset = app.partido_seleccionado.saturating_sub(table_height / 2);
+
                     let rows: Vec<Row> = app
                         .partidos
                         .iter()
+                        .skip(offset)
+                        .take(table_height)
                         .enumerate()
                         .map(|(i, p)| {
-                            let style = if i == app.partido_seleccionado {
+                            let real_index = offset + i;
+                            let style = if real_index == app.partido_seleccionado {
                                 Style::default().bg(Color::Blue).fg(Color::White)
                             } else if p.resultado.is_empty() {
                                 Style::default().fg(Color::Green)
