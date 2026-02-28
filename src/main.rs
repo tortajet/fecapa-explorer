@@ -53,6 +53,7 @@ enum Vista {
     Partidos,
     Filtros,
     Detalles,
+    Buscar,
 }
 
 struct App {
@@ -64,6 +65,7 @@ struct App {
     vista_actual: Vista,
     mensaje: String,
     scraping: bool,
+    buscar_texto: String,
 }
 
 impl App {
@@ -94,6 +96,7 @@ impl App {
             vista_actual: Vista::Partidos,
             mensaje: format!("{} partidos cargados", num_partidos),
             scraping: false,
+            buscar_texto: String::new(),
         }
     }
 
@@ -139,6 +142,37 @@ impl App {
         if !self.filtros.is_empty() {
             self.aplicar_filtro();
         }
+    }
+
+    fn aplicar_busqueda(&mut self) {
+        if self.buscar_texto.is_empty() {
+            self.partidos = self.todos_partidos.clone();
+            self.mensaje = format!("Mostrando todos los partidos: {}", self.partidos.len());
+            return;
+        }
+
+        let buscar = self.buscar_texto.to_uppercase();
+
+        self.partidos = self
+            .todos_partidos
+            .iter()
+            .filter(|p| {
+                let texto = format!(
+                    "{} {} {} {} {}",
+                    p.competicion, p.local, p.visitante, p.pista, p.resultado
+                )
+                .to_uppercase();
+                texto.contains(&buscar)
+            })
+            .cloned()
+            .collect();
+
+        self.mensaje = format!(
+            "Buscando: \"{}\" - {} partidos",
+            self.buscar_texto,
+            self.partidos.len()
+        );
+        self.partido_seleccionado = 0;
     }
 }
 
@@ -445,6 +479,17 @@ fn main() -> io::Result<()> {
                         f.render_widget(paragraph, chunks[1]);
                     }
                 }
+                Vista::Buscar => {
+                    let search_prompt = Paragraph::new(format!("/{}", app.buscar_texto))
+                        .style(Style::default().fg(Color::Yellow))
+                        .block(
+                            Block::bordered()
+                                .title(" BUSCAR (contiene) ")
+                                .border_style(Style::default().fg(Color::Green))
+                                .borders(Borders::ALL),
+                        );
+                    f.render_widget(search_prompt, chunks[1]);
+                }
             }
 
             let status_text = if app.scraping {
@@ -455,7 +500,7 @@ fn main() -> io::Result<()> {
                 }
             } else {
                 format!(
-                    "{} | Filtro: {} | ↑↓ Navegar | Enter Ver | F Filtros | R Refrescar | Q Salir",
+                    "{} | Filtro: {} | ↑↓ Navegar | Enter Ver | F Filtros | / Buscar | R Refrescar | Q Salir",
                     app.mensaje,
                     app.filtros
                         .get(app.filtro_seleccionado)
@@ -517,6 +562,10 @@ fn main() -> io::Result<()> {
                             | crossterm::event::KeyCode::Char('F') => {
                                 app.vista_actual = Vista::Filtros;
                             }
+                            crossterm::event::KeyCode::Char('/') => {
+                                app.buscar_texto.clear();
+                                app.vista_actual = Vista::Buscar;
+                            }
                             crossterm::event::KeyCode::Char('e')
                             | crossterm::event::KeyCode::Enter => {
                                 app.vista_actual = Vista::Detalles;
@@ -556,6 +605,26 @@ fn main() -> io::Result<()> {
                         Vista::Detalles => match key.code {
                             crossterm::event::KeyCode::Esc => {
                                 app.vista_actual = Vista::Partidos;
+                            }
+                            _ => {}
+                        },
+                        Vista::Buscar => match key.code {
+                            crossterm::event::KeyCode::Esc => {
+                                app.buscar_texto.clear();
+                                app.partidos = app.todos_partidos.clone();
+                                app.mensaje = format!("{} partidos", app.partidos.len());
+                                app.vista_actual = Vista::Partidos;
+                            }
+                            crossterm::event::KeyCode::Enter => {
+                                app.vista_actual = Vista::Partidos;
+                            }
+                            crossterm::event::KeyCode::Backspace => {
+                                app.buscar_texto.pop();
+                                app.aplicar_busqueda();
+                            }
+                            crossterm::event::KeyCode::Char(c) => {
+                                app.buscar_texto.push(c);
+                                app.aplicar_busqueda();
                             }
                             _ => {}
                         },
