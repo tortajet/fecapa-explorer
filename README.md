@@ -10,21 +10,19 @@ Aplicación TUI en Rust para explorar partidos de hockey patines de la FECAPA.
 ## Instalación
 
 ```bash
-# Compilar
-cargo build --release
+# Instalar dependencias Node.js
+npm install
 
-# O simplemente ejecuta
-./target/release/fecapa-explorer
+# Compilar aplicación Rust
+cargo build --release
 ```
 
 ## Uso
 
-Controles:
-- **↑/↓** - Navegar por los partidos
-- **Enter** - Ver detalles del partido
-- **F** - Seleccionar filtro
-- **R** - Refrescar (hace scraping de la web)
-- **Q** - Salir
+```bash
+# Ejecutar aplicación
+./target/release/fecapa-explorer
+```
 
 ### Opciones
 
@@ -32,6 +30,14 @@ Controles:
 # Ejecutar con modo debug
 ./target/release/fecapa-explorer --debug
 ```
+
+## Controles
+
+- **↑/↓** - Navegar por los partidos
+- **Enter** - Ver detalles del partido
+- **F** - Seleccionar filtro
+- **R** - Refrescar (hace scraping de la web)
+- **Q** - Salir
 
 ## Configuración
 
@@ -49,13 +55,45 @@ Los filtros se configuran en `equipos.json`:
 }
 ```
 
+## Android
+
+El scraping usa Playwright que no está soportado en Android. Para usar en Android:
+
+1. **Opción 1**: Ejecutar el scraping en un PC/servidor y copiar `partidos.json` al móvil
+2. **Opción 2**: Usar la aplicación solo para ver datos (sin hacer scraping)
+
+### En Termux:
+
+```bash
+# Instalar Rust
+pkg install rust
+
+# Instalar Node.js
+pkg install nodejs
+
+# Clonar y entrar en el proyecto
+git clone https://github.com/tortajet/fecapa-explorer
+cd fecapa-explorer
+
+# Instalar dependencias
+npm install
+
+# Compilar
+cargo build --release
+
+# Ejecutar (solo para ver datos, el scraping no funcionará)
+./target/release/fecapa-explorer
+```
+
+Para obtener datos actualizados en Android, copia el archivo `partidos.json` desde un PC.
+
 ## Estructura
 
 ```
 fecapa-explorer/
 ├── src/main.rs        # Aplicación principal en Rust
-├── scrape-hockey.js   # Script de scraping en Node.js
-├── equipos.json       # Configuración de filtros
+├── scrape-hockey.js  # Script de scraping en Node.js
+├── equipos.json      # Configuración de filtros
 ├── Cargo.toml        # Dependencias Rust
 └── README.md        # Este archivo
 ```

@@ -40,7 +40,6 @@ async function scrapeMatches() {
     return data;
   });
   
-  // Save to file
   fs.writeFileSync('partidos.json', JSON.stringify(matches, null, 2));
   console.log(`Guardados ${matches.length} partidos en partidos.json`);
   
