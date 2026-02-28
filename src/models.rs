@@ -32,4 +32,17 @@ pub enum Vista {
     Filtros,
     Detalles,
     Buscar,
+    Confirm,
+}
+
+#[derive(Debug, Clone, PartialEq)]
+pub enum ConfirmType {
+    DeleteFilter,
+    AddFilter,
+}
+
+impl Default for Vista {
+    fn default() -> Self {
+        Vista::Partidos
+    }
 }

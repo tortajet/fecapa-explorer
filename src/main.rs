@@ -51,6 +51,9 @@ fn main() -> io::Result<()> {
                 Vista::Buscar => {
                     ui::render_buscar(f, chunks[1], &app);
                 }
+                Vista::Confirm => {
+                    ui::render_confirm(f, chunks[1], &app);
+                }
             }
 
             ui::render_status(f, chunks[2], &app);
@@ -143,6 +146,14 @@ fn main() -> io::Result<()> {
                                 app.aplicar_filtro();
                                 app.vista_actual = Vista::Partidos;
                             }
+                            crossterm::event::KeyCode::Char('d')
+                            | crossterm::event::KeyCode::Char('D') => {
+                                if app.filtro_seleccionado > 0 {
+                                    app.confirm_type = Some(models::ConfirmType::DeleteFilter);
+                                    app.confirm_seleccion = 1;
+                                    app.vista_actual = Vista::Confirm;
+                                }
+                            }
                             crossterm::event::KeyCode::Up => {
                                 if app.filtro_seleccionado > 0 {
                                     app.filtro_seleccionado -= 1;
@@ -158,6 +169,49 @@ fn main() -> io::Result<()> {
                         Vista::Detalles => match key.code {
                             crossterm::event::KeyCode::Esc => {
                                 app.vista_actual = Vista::Partidos;
+                                app.detalle_seleccion = 0;
+                            }
+                            crossterm::event::KeyCode::Up => {
+                                if app.detalle_seleccion > 0 {
+                                    app.detalle_seleccion -= 1;
+                                }
+                            }
+                            crossterm::event::KeyCode::Down => {
+                                if app.detalle_seleccion < 5 {
+                                    app.detalle_seleccion += 1;
+                                }
+                            }
+                            crossterm::event::KeyCode::Char('a')
+                            | crossterm::event::KeyCode::Char('A') => {
+                                let (nombre, mensaje) = if let Some(p) =
+                                    app.partidos.get(app.partido_seleccionado)
+                                {
+                                    (p.local.clone(), format!("✅ Filtro '{}' añadido", p.local))
+                                } else {
+                                    (String::new(), String::new())
+                                };
+                                if !nombre.is_empty() {
+                                    app.agregar_filtro(nombre.clone(), nombre, String::new());
+                                    app.mensaje = mensaje;
+                                    app.vista_actual = Vista::Partidos;
+                                }
+                            }
+                            crossterm::event::KeyCode::Char('c')
+                            | crossterm::event::KeyCode::Char('C') => {
+                                let (nombre, mensaje) =
+                                    if let Some(p) = app.partidos.get(app.partido_seleccionado) {
+                                        (
+                                            p.competicion.clone(),
+                                            format!("✅ Filtro '{}' añadido", p.competicion),
+                                        )
+                                    } else {
+                                        (String::new(), String::new())
+                                    };
+                                if !nombre.is_empty() {
+                                    app.agregar_filtro(nombre.clone(), String::new(), nombre);
+                                    app.mensaje = mensaje;
+                                    app.vista_actual = Vista::Partidos;
+                                }
                             }
                             _ => {}
                         },
@@ -176,6 +230,43 @@ fn main() -> io::Result<()> {
                             crossterm::event::KeyCode::Char(c) => {
                                 app.buscar_texto.push(c);
                                 app.aplicar_busqueda();
+                            }
+                            _ => {}
+                        },
+                        Vista::Confirm => match key.code {
+                            crossterm::event::KeyCode::Esc => {
+                                app.confirm_type = None;
+                                app.vista_actual = Vista::Filtros;
+                            }
+                            crossterm::event::KeyCode::Up | crossterm::event::KeyCode::Down => {
+                                if app.confirm_seleccion == 0 {
+                                    app.confirm_seleccion = 1;
+                                } else {
+                                    app.confirm_seleccion = 0;
+                                }
+                            }
+                            crossterm::event::KeyCode::Enter => {
+                                if app.confirm_seleccion == 0 {
+                                    match app.confirm_type {
+                                        Some(models::ConfirmType::DeleteFilter) => {
+                                            app.eliminar_filtro();
+                                        }
+                                        Some(models::ConfirmType::AddFilter) => {
+                                            if let Some(p) =
+                                                app.partidos.get(app.partido_seleccionado)
+                                            {
+                                                let nombre = p.local.clone();
+                                                let buscar = p.local.clone();
+                                                let categoria = p.competicion.clone();
+                                                app.agregar_filtro(nombre, buscar, categoria);
+                                                app.mensaje = "✅ Filtro añadido".to_string();
+                                            }
+                                        }
+                                        None => {}
+                                    }
+                                }
+                                app.confirm_type = None;
+                                app.vista_actual = Vista::Partidos;
                             }
                             _ => {}
                         },

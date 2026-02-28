@@ -208,45 +208,55 @@ pub fn render_filtros_list(f: &mut Frame, area: Rect, app: &App) {
 
 pub fn render_detalles(f: &mut Frame, area: Rect, app: &App) {
     if let Some(p) = app.partidos.get(app.partido_seleccionado) {
-        let text = vec![
-            Line::from(vec![Span::raw("")]),
-            Line::from(vec![Span::styled(
-                "Partido:",
-                Style::default().bold().fg(Color::Cyan),
-            )]),
-            Line::from(vec![
-                Span::raw(&p.local),
-                Span::raw(" vs "),
-                Span::raw(&p.visitante),
-            ]),
-            Line::from(vec![Span::raw("")]),
-            Line::from(vec![
-                Span::styled("Competición:", Style::default().bold()),
-                Span::raw(&p.competicion),
-            ]),
-            Line::from(vec![
-                Span::styled("Fecha:", Style::default().bold()),
-                Span::raw(&p.data),
-            ]),
-            Line::from(vec![
-                Span::styled("Hora:", Style::default().bold()),
-                Span::raw(&p.hora),
-            ]),
-            Line::from(vec![
-                Span::styled("Resultado:", Style::default().bold()),
-                Span::raw(&p.resultado),
-            ]),
-            Line::from(vec![
-                Span::styled("Pista:", Style::default().bold()),
-                Span::raw(&p.pista),
-            ]),
+        let fields = vec![
+            ("Partido", format!("{} vs {}", p.local, p.visitante)),
+            ("Competición", p.competicion.clone()),
+            ("Fecha", p.data.clone()),
+            ("Hora", p.hora.clone()),
+            (
+                "Resultado",
+                if p.resultado.is_empty() {
+                    "-".to_string()
+                } else {
+                    p.resultado.clone()
+                },
+            ),
+            ("Pista", p.pista.clone()),
         ];
-        let paragraph = Paragraph::new(text).block(
-            Block::bordered()
-                .title(" Detalles ")
-                .border_style(Style::default().fg(Color::Cyan))
-                .borders(Borders::ALL),
-        );
+
+        let text: Vec<Line> = fields
+            .iter()
+            .enumerate()
+            .map(|(i, (label, value))| {
+                let is_selected = i == app.detalle_seleccion;
+                let style = if is_selected {
+                    Style::default()
+                        .bold()
+                        .fg(Color::Yellow)
+                        .bg(Color::DarkGray)
+                } else {
+                    Style::default().bold()
+                };
+                let value_style = if is_selected {
+                    Style::default().fg(Color::White).bg(Color::DarkGray)
+                } else {
+                    Style::default()
+                };
+                Line::from(vec![
+                    Span::styled(format!("{}: ", label), style),
+                    Span::styled(value, value_style),
+                ])
+            })
+            .collect();
+
+        let paragraph = Paragraph::new(text)
+            .block(
+                Block::bordered()
+                    .title(" Detalles - ↑↓ Navegar | A Añadir filtro | D Añadir competicion | Esc Volver ")
+                    .border_style(Style::default().fg(Color::Cyan))
+                    .borders(Borders::ALL),
+            )
+            .wrap(ratatui::widgets::Wrap { trim: false });
         f.render_widget(paragraph, area);
     }
 }
@@ -261,6 +271,57 @@ pub fn render_buscar(f: &mut Frame, area: Rect, app: &App) {
                 .borders(Borders::ALL),
         );
     f.render_widget(search_prompt, area);
+}
+
+pub fn render_confirm(f: &mut Frame, area: Rect, app: &App) {
+    let pregunta = match app.confirm_type {
+        Some(crate::models::ConfirmType::DeleteFilter) => "Eliminar este filtro?",
+        Some(crate::models::ConfirmType::AddFilter) => "Añadir este filtro?",
+        None => "",
+    };
+
+    let opciones = vec!["Sí", "No"];
+    let items: Vec<ListItem> = opciones
+        .iter()
+        .enumerate()
+        .map(|(i, opt)| {
+            let style = if i == app.confirm_seleccion {
+                Style::default().bg(Color::Blue).fg(Color::White)
+            } else {
+                Style::default()
+            };
+            ListItem::new(*opt).style(style)
+        })
+        .collect();
+
+    let list = List::new(items)
+        .block(
+            Block::bordered()
+                .title(pregunta)
+                .border_style(Style::default().fg(Color::Yellow))
+                .borders(Borders::ALL),
+        )
+        .highlight_symbol(">> ");
+
+    let centered_area = Layout::default()
+        .direction(Direction::Vertical)
+        .constraints([
+            Constraint::Percentage(40),
+            Constraint::Length(5),
+            Constraint::Percentage(40),
+        ])
+        .split(area)[1];
+
+    let horizontal_area = Layout::default()
+        .direction(Direction::Horizontal)
+        .constraints([
+            Constraint::Percentage(30),
+            Constraint::Length(20),
+            Constraint::Percentage(30),
+        ])
+        .split(centered_area)[1];
+
+    f.render_widget(list, horizontal_area);
 }
 
 pub fn render_status(f: &mut Frame, area: Rect, app: &App) {

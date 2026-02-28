@@ -1,5 +1,5 @@
-use crate::commands::{cargar_filtros, cargar_partidos};
-use crate::models::{Filtro, Partido, Vista};
+use crate::commands::{cargar_filtros, cargar_partidos, guardar_filtros};
+use crate::models::{ConfirmType, Filtro, Partido, Vista};
 
 pub struct App {
     pub partidos: Vec<Partido>,
@@ -11,6 +11,9 @@ pub struct App {
     pub mensaje: String,
     pub scraping: bool,
     pub buscar_texto: String,
+    pub confirm_type: Option<ConfirmType>,
+    pub confirm_seleccion: usize,
+    pub detalle_seleccion: usize,
 }
 
 impl App {
@@ -41,6 +44,9 @@ impl App {
             mensaje: format!("{} partidos cargados", num_partidos),
             scraping: false,
             buscar_texto: String::new(),
+            confirm_type: None,
+            confirm_seleccion: 1,
+            detalle_seleccion: 0,
         }
     }
 
@@ -122,5 +128,29 @@ impl App {
         self.buscar_texto.clear();
         self.partidos = self.todos_partidos.clone();
         self.mensaje = format!("{} partidos", self.partidos.len());
+    }
+
+    pub fn eliminar_filtro(&mut self) {
+        if self.filtro_seleccionado == 0 {
+            return;
+        }
+        self.filtros.remove(self.filtro_seleccionado);
+        if self.filtro_seleccionado >= self.filtros.len() {
+            self.filtro_seleccionado = self.filtros.len().saturating_sub(1);
+        }
+        guardar_filtros(&self.filtros);
+        self.aplicar_filtro();
+    }
+
+    pub fn agregar_filtro(&mut self, nombre: String, buscar: String, categoria: String) {
+        let nuevo_filtro = Filtro {
+            nombre,
+            buscar,
+            categoria,
+        };
+        self.filtros.push(nuevo_filtro);
+        guardar_filtros(&self.filtros);
+        self.filtro_seleccionado = self.filtros.len() - 1;
+        self.aplicar_filtro();
     }
 }

@@ -49,6 +49,16 @@ pub fn cargar_filtros() -> Vec<Filtro> {
     }]
 }
 
+pub fn guardar_filtros(filtros: &[Filtro]) {
+    let final_path = find_file_path("equipos.json");
+    let config = crate::models::EquipoConfig {
+        filtros: filtros.to_vec(),
+    };
+    if let Ok(json) = serde_json::to_string_pretty(&config) {
+        let _ = fs::write(final_path, json);
+    }
+}
+
 pub fn cargar_partidos() -> Vec<Partido> {
     let final_path = find_file_path("partidos.json");
 
