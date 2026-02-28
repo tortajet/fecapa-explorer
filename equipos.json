@@ -1,0 +1,19 @@
+{
+  "filtros": [
+    {
+      "nombre": "FEM 11 - Sant Celoni",
+      "buscar": "SANT CELONI",
+      "categoria": "FEM 11"
+    },
+    {
+      "nombre": "BCN BENJAMÍ OR P4",
+      "buscar": "SANT CELONI",
+      "categoria": "BCN BENJAMÍ OR"
+    },
+    {
+      "nombre": "ALEVÍ PLATA CC4",
+      "buscar": "SANT CELONI",
+      "categoria": "ALEVÍ PLATA CC4"
+    }
+  ]
+}
