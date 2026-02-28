@@ -16,6 +16,12 @@ use ratatui::{
 use serde::{Deserialize, Serialize};
 use std::{fs, io, thread, time::Duration};
 
+fn is_android() -> bool {
+    std::env::consts::OS == "android"
+        || std::env::var("ANDROID_ROOT").is_ok()
+        || std::env::var("TERMUX_VERSION").is_ok()
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 struct Filtro {
     nombre: String,
@@ -246,6 +252,26 @@ fn scrape_partidos() -> Result<Vec<Partido>, String> {
     Ok(partidos)
 }
 
+fn download_partidos() -> Result<Vec<Partido>, String> {
+    let url = "https://raw.githubusercontent.com/tortajet/fecapa-explorer/main/partidos.json";
+
+    let client = reqwest::blocking::Client::builder()
+        .timeout(Duration::from_secs(30))
+        .build()
+        .map_err(|e| e.to_string())?;
+
+    let response = client.get(url).send().map_err(|e| e.to_string())?;
+
+    if !response.status().is_success() {
+        return Err(format!("HTTP error: {}", response.status()));
+    }
+
+    let data = response.text().map_err(|e| e.to_string())?;
+    let partidos: Vec<Partido> = serde_json::from_str(&data).map_err(|e| e.to_string())?;
+
+    Ok(partidos)
+}
+
 fn main() -> io::Result<()> {
     enable_raw_mode()?;
     let mut stdout = io::stdout();
@@ -422,7 +448,11 @@ fn main() -> io::Result<()> {
             }
 
             let status_text = if app.scraping {
-                "⏳ Extrayendo partidos de la web...".to_string()
+                if is_android() {
+                    "⏳ Descargando partidos de GitHub...".to_string()
+                } else {
+                    "⏳ Extrayendo partidos de la web...".to_string()
+                }
             } else {
                 format!(
                     "{} | Filtro: {} | ↑↓ Navegar | Enter Ver | F Filtros | R Refrescar | Q Salir",
@@ -454,22 +484,33 @@ fn main() -> io::Result<()> {
                                         .and_then(|p| p.parent().map(|p| p.to_path_buf()))
                                         .unwrap_or_default();
 
-                                    // Try current dir if exe dir doesn't have write access
                                     let save_path = if exe_dir.join("partidos.json").exists() {
                                         exe_dir.join("partidos.json")
                                     } else {
                                         std::path::PathBuf::from("partidos.json")
                                     };
 
-                                    thread::spawn(move || {
-                                        if let Ok(partidos) = scrape_partidos() {
-                                            let _ = fs::write(
-                                                &save_path,
-                                                serde_json::to_string_pretty(&partidos)
-                                                    .unwrap_or_default(),
-                                            );
-                                        }
-                                    });
+                                    if is_android() {
+                                        thread::spawn(move || {
+                                            if let Ok(partidos) = download_partidos() {
+                                                let _ = fs::write(
+                                                    &save_path,
+                                                    serde_json::to_string_pretty(&partidos)
+                                                        .unwrap_or_default(),
+                                                );
+                                            }
+                                        });
+                                    } else {
+                                        thread::spawn(move || {
+                                            if let Ok(partidos) = scrape_partidos() {
+                                                let _ = fs::write(
+                                                    &save_path,
+                                                    serde_json::to_string_pretty(&partidos)
+                                                        .unwrap_or_default(),
+                                                );
+                                            }
+                                        });
+                                    }
                                 }
                             }
                             crossterm::event::KeyCode::Char('f')
