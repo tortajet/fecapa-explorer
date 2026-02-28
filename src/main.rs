@@ -500,7 +500,7 @@ fn main() -> io::Result<()> {
                 }
             } else {
                 format!(
-                    "{} | Filtro: {} | ↑↓ Navegar | Enter Ver | F Filtros | / Buscar | R Refrescar | Q Salir",
+                    "{} | Filtro: {} | ↑↓/Av/Re Pag Navegar | Enter Ver | F Filtros | / Buscar | R Refrescar | Q Salir",
                     app.mensaje,
                     app.filtros
                         .get(app.filtro_seleccionado)
@@ -579,6 +579,17 @@ fn main() -> io::Result<()> {
                                 if app.partido_seleccionado < app.partidos.len().saturating_sub(1) {
                                     app.partido_seleccionado += 1;
                                 }
+                            }
+                            crossterm::event::KeyCode::PageDown => {
+                                let block_size = 20;
+                                let max = app.partidos.len().saturating_sub(1);
+                                app.partido_seleccionado =
+                                    (app.partido_seleccionado + block_size).min(max);
+                            }
+                            crossterm::event::KeyCode::PageUp => {
+                                let block_size = 20;
+                                app.partido_seleccionado =
+                                    app.partido_seleccionado.saturating_sub(block_size);
                             }
                             _ => {}
                         },
