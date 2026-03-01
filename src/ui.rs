@@ -1,3 +1,4 @@
+use crate::models::Vista;
 use crate::state::App;
 use ratatui::{
     layout::{Constraint, Direction, Layout, Rect},
@@ -324,6 +325,103 @@ pub fn render_confirm(f: &mut Frame, area: Rect, app: &App) {
     f.render_widget(list, horizontal_area);
 }
 
+pub fn render_help(f: &mut Frame, area: Rect, app: &App) {
+    let (titulo, keys) = match app.vista_actual {
+        Vista::Partidos => (
+            "AYUDA - PARTIDOS",
+            vec![
+                ("↑ / ↓", "Navegar por partidos"),
+                ("AvPag / RePag", "Página siguiente/anterior"),
+                ("Enter", "Ver detalles del partido"),
+                ("F", "Ver lista de filtros"),
+                ("/", "Buscar texto"),
+                ("R", "Refrescar datos (scraper o GitHub)"),
+                ("?", "Ver esta ayuda"),
+                ("Q", "Salir de la aplicación"),
+            ],
+        ),
+        Vista::Filtros => (
+            "AYUDA - FILTROS",
+            vec![
+                ("↑ / ↓", "Navegar por filtros"),
+                ("Enter", "Aplicar filtro seleccionado"),
+                ("D", "Eliminar filtro (excepto 'Todos')"),
+                ("Esc", "Volver a partidos"),
+                ("?", "Ver esta ayuda"),
+            ],
+        ),
+        Vista::Detalles => (
+            "AYUDA - DETALLES",
+            vec![
+                ("↑ / ↓", "Navegar por campos"),
+                ("A", "Añadir equipo local como filtro"),
+                ("C", "Añadir competición como filtro"),
+                ("Esc", "Volver a partidos"),
+                ("?", "Ver esta ayuda"),
+            ],
+        ),
+        Vista::Buscar => (
+            "AYUDA - BUSCAR",
+            vec![
+                ("A-Z, 0-9", "Escribir texto de búsqueda"),
+                ("Backspace", "Borrar último carácter"),
+                ("Enter", "Confirmar búsqueda"),
+                ("Esc", "Cancelar búsqueda"),
+                ("?", "Ver esta ayuda"),
+            ],
+        ),
+        Vista::Confirm => (
+            "AYUDA - CONFIRMACIÓN",
+            vec![
+                ("↑ / ↓", "Seleccionar opción"),
+                ("Enter", "Confirmar acción"),
+                ("Esc", "Cancelar y volver"),
+                ("?", "Ver esta ayuda"),
+            ],
+        ),
+        _ => ("AYUDA", vec![("Esc", "Cerrar ayuda")]),
+    };
+
+    let _title_block = Paragraph::new(titulo)
+        .style(Style::default().fg(Color::Yellow).bold())
+        .alignment(ratatui::layout::Alignment::Center);
+
+    let keys_block: Vec<ListItem> = keys
+        .iter()
+        .map(|(key, desc)| {
+            let line = format!(" {:10} - {}", key, desc);
+            ListItem::new(line).style(Style::default())
+        })
+        .collect();
+
+    let list = List::new(keys_block).block(
+        Block::bordered()
+            .title(titulo)
+            .border_style(Style::default().fg(Color::Cyan))
+            .borders(Borders::ALL),
+    );
+
+    let centered = Layout::default()
+        .direction(Direction::Vertical)
+        .constraints([
+            Constraint::Percentage(10),
+            Constraint::Min(10),
+            Constraint::Percentage(10),
+        ])
+        .split(area);
+
+    let horizontal = Layout::default()
+        .direction(Direction::Horizontal)
+        .constraints([
+            Constraint::Percentage(15),
+            Constraint::Min(40),
+            Constraint::Percentage(15),
+        ])
+        .split(centered[1]);
+
+    f.render_widget(list, horizontal[1]);
+}
+
 pub fn render_status(f: &mut Frame, area: Rect, app: &App) {
     use crate::commands::is_android;
 
@@ -335,7 +433,7 @@ pub fn render_status(f: &mut Frame, area: Rect, app: &App) {
         }
     } else {
         format!(
-            "{} | Filtro: {} | ↑↓/Av/Re Pag Navegar | Enter Ver | F Filtros | / Buscar | R Refrescar | Q Salir",
+            "{} | Filtro: {} | ↑↓/Av/Re Pag Navegar | Enter Ver | F Filtros | / Buscar | ? Ayuda | R Refrescar | Q Salir",
             app.mensaje,
             app.filtros
                 .get(app.filtro_seleccionado)

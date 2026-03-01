@@ -54,6 +54,9 @@ fn main() -> io::Result<()> {
                 Vista::Confirm => {
                     ui::render_confirm(f, chunks[1], &app);
                 }
+                Vista::Help => {
+                    ui::render_help(f, chunks[1], &app);
+                }
             }
 
             ui::render_status(f, chunks[2], &app);
@@ -65,6 +68,9 @@ fn main() -> io::Result<()> {
                     match app.vista_actual {
                         Vista::Partidos => match key.code {
                             crossterm::event::KeyCode::Char('q') => break,
+                            crossterm::event::KeyCode::Char('?') => {
+                                app.vista_actual = Vista::Help;
+                            }
                             crossterm::event::KeyCode::Char('r')
                             | crossterm::event::KeyCode::Char('R') => {
                                 if !app.scraping {
@@ -142,6 +148,9 @@ fn main() -> io::Result<()> {
                             crossterm::event::KeyCode::Esc => {
                                 app.vista_actual = Vista::Partidos;
                             }
+                            crossterm::event::KeyCode::Char('?') => {
+                                app.vista_actual = Vista::Help;
+                            }
                             crossterm::event::KeyCode::Enter => {
                                 app.aplicar_filtro();
                                 app.vista_actual = Vista::Partidos;
@@ -170,6 +179,9 @@ fn main() -> io::Result<()> {
                             crossterm::event::KeyCode::Esc => {
                                 app.vista_actual = Vista::Partidos;
                                 app.detalle_seleccion = 0;
+                            }
+                            crossterm::event::KeyCode::Char('?') => {
+                                app.vista_actual = Vista::Help;
                             }
                             crossterm::event::KeyCode::Up => {
                                 if app.detalle_seleccion > 0 {
@@ -220,6 +232,9 @@ fn main() -> io::Result<()> {
                                 app.reset_busqueda();
                                 app.vista_actual = Vista::Partidos;
                             }
+                            crossterm::event::KeyCode::Char('?') => {
+                                app.vista_actual = Vista::Help;
+                            }
                             crossterm::event::KeyCode::Enter => {
                                 app.vista_actual = Vista::Partidos;
                             }
@@ -237,6 +252,9 @@ fn main() -> io::Result<()> {
                             crossterm::event::KeyCode::Esc => {
                                 app.confirm_type = None;
                                 app.vista_actual = Vista::Filtros;
+                            }
+                            crossterm::event::KeyCode::Char('?') => {
+                                app.vista_actual = Vista::Help;
                             }
                             crossterm::event::KeyCode::Up | crossterm::event::KeyCode::Down => {
                                 if app.confirm_seleccion == 0 {
@@ -266,6 +284,12 @@ fn main() -> io::Result<()> {
                                     }
                                 }
                                 app.confirm_type = None;
+                                app.vista_actual = Vista::Partidos;
+                            }
+                            _ => {}
+                        },
+                        Vista::Help => match key.code {
+                            crossterm::event::KeyCode::Esc => {
                                 app.vista_actual = Vista::Partidos;
                             }
                             _ => {}
