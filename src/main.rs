@@ -269,17 +269,6 @@ fn main() -> io::Result<()> {
                                         Some(models::ConfirmType::DeleteFilter) => {
                                             app.eliminar_filtro();
                                         }
-                                        Some(models::ConfirmType::AddFilter) => {
-                                            if let Some(p) =
-                                                app.partidos.get(app.partido_seleccionado)
-                                            {
-                                                let nombre = p.local.clone();
-                                                let buscar = p.local.clone();
-                                                let categoria = p.competicion.clone();
-                                                app.agregar_filtro(nombre, buscar, categoria);
-                                                app.mensaje = "✅ Filtro añadido".to_string();
-                                            }
-                                        }
                                         None => {}
                                     }
                                 }

@@ -45,5 +45,4 @@ impl Default for Vista {
 #[derive(Debug, Clone, PartialEq)]
 pub enum ConfirmType {
     DeleteFilter,
-    AddFilter,
 }

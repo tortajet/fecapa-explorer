@@ -277,7 +277,6 @@ pub fn render_buscar(f: &mut Frame, area: Rect, app: &App) {
 pub fn render_confirm(f: &mut Frame, area: Rect, app: &App) {
     let pregunta = match app.confirm_type {
         Some(crate::models::ConfirmType::DeleteFilter) => "Eliminar este filtro?",
-        Some(crate::models::ConfirmType::AddFilter) => "Añadir este filtro?",
         None => "",
     };
 
