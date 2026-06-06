@@ -171738,6 +171738,15 @@
     "pista": "LA SALLE"
   },
   {
+    "competicio": "BCN PB-INICIACIÓ 1",
+    "data": "31/05/2026",
+    "hora": "17:30",
+    "local": "CPI SANT IGNASI A",
+    "visitant": "GENERALI HC PALAU",
+    "resultat": "2 - 4",
+    "pista": "COL·LEGI SANT IGNASI"
+  },
+  {
     "competicio": "JÚNIOR OR 21 AL 24",
     "data": "31/05/2026",
     "hora": "17:30",
@@ -171754,24 +171763,6 @@
     "visitant": "CH CALDES RECAM LÀSER",
     "resultat": "3 - 4",
     "pista": "PAVELLÓ MUNICIPAL PALAU 2"
-  },
-  {
-    "competicio": "BCN PB-INICIACIÓ 1",
-    "data": "31/05/2026",
-    "hora": "17:30",
-    "local": "CPI SANT IGNASI A",
-    "visitant": "GENERALI HC PALAU",
-    "resultat": "2 - 4",
-    "pista": "COL·LEGI SANT IGNASI"
-  },
-  {
-    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
-    "data": "31/05/2026",
-    "hora": "17:45",
-    "local": "CLUB PATÍ VOLTREGÀ D",
-    "visitant": "CLUB PATÍ TORRELLES A",
-    "resultat": "4 - 0",
-    "pista": "MASIES DE VOLTREGA"
   },
   {
     "competicio": "JÚNIOR COPA FEDERACIÓ FASE FINAL",
@@ -171792,13 +171783,13 @@
     "pista": "PAVELLÓ RIPOLLET"
   },
   {
-    "competicio": "INFANTIL COPA CATALANA OR FASE FINAL",
+    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
     "data": "31/05/2026",
-    "hora": "18:00",
-    "local": "CE VENDRELL",
-    "visitant": "UEH BARBERÀ A",
-    "resultat": "3 - 2",
-    "pista": "CLUB D ESPORTS VENDRELL"
+    "hora": "17:45",
+    "local": "CLUB PATÍ VOLTREGÀ D",
+    "visitant": "CLUB PATÍ TORRELLES A",
+    "resultat": "4 - 0",
+    "pista": "MASIES DE VOLTREGA"
   },
   {
     "competicio": "ALEVÍ COPA CATALANA OR FASE FINAL",
@@ -171810,6 +171801,15 @@
     "pista": "CLUB ESPORTIU NOIA"
   },
   {
+    "competicio": "INFANTIL COPA CATALANA OR FASE FINAL",
+    "data": "31/05/2026",
+    "hora": "18:00",
+    "local": "CE VENDRELL",
+    "visitant": "UEH BARBERÀ A",
+    "resultat": "3 - 2",
+    "pista": "CLUB D ESPORTS VENDRELL"
+  },
+  {
     "competicio": "JUVENIL COPA FEDERACIÓ FASE FINAL",
     "data": "31/05/2026",
     "hora": "18:15",
@@ -171819,22 +171819,13 @@
     "pista": "CH MATARO"
   },
   {
-    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
+    "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
     "data": "31/05/2026",
     "hora": "18:30",
-    "local": "HOQUEI CASAL ESPLUGA",
-    "visitant": "CP RIUDOMS C",
-    "resultat": "3 - 1",
-    "pista": "PAVELLÓ MUNICIPAL L ESPLUGA DE FRANCOLÍ"
-  },
-  {
-    "competicio": "BCN BENJAMÍ RANKING 3",
-    "data": "31/05/2026",
-    "hora": "18:30",
-    "local": "CPI SANT IGNASI B",
-    "visitant": "CLUB HOQUEI PRAT B",
-    "resultat": "14 - 4",
-    "pista": "COL·LEGI SANT IGNASI"
+    "local": "CLUB PATÍ TORRELLES A",
+    "visitant": "CP CORBERA",
+    "resultat": "7 - 5",
+    "pista": "PISTA TORRELLES"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -171846,13 +171837,31 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE VILA-SECA"
   },
   {
-    "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
+    "competicio": "BCN BENJAMÍ RANKING 3",
     "data": "31/05/2026",
     "hora": "18:30",
-    "local": "CAPELLADES HC",
-    "visitant": "CLUB HOQUEI CADI",
-    "resultat": "8 - 3",
-    "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
+    "local": "CPI SANT IGNASI B",
+    "visitant": "CLUB HOQUEI PRAT B",
+    "resultat": "14 - 4",
+    "pista": "COL·LEGI SANT IGNASI"
+  },
+  {
+    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
+    "data": "31/05/2026",
+    "hora": "18:30",
+    "local": "HOQUEI CASAL ESPLUGA",
+    "visitant": "CP RIUDOMS C",
+    "resultat": "3 - 1",
+    "pista": "PAVELLÓ MUNICIPAL L ESPLUGA DE FRANCOLÍ"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "31/05/2026",
+    "hora": "18:30",
+    "local": "JOIERIA MONER CP SANT RAMON",
+    "visitant": "UNIÓ ESPORTIVA D'HORTA",
+    "resultat": "2 - 5",
+    "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
     "competicio": "JÚNIOR COPA CATALANA OR FASE FINAL",
@@ -171876,19 +171885,10 @@
     "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
     "data": "31/05/2026",
     "hora": "18:30",
-    "local": "CLUB PATÍ TORRELLES A",
-    "visitant": "CP CORBERA",
-    "resultat": "7 - 5",
-    "pista": "PISTA TORRELLES"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "31/05/2026",
-    "hora": "18:30",
-    "local": "JOIERIA MONER CP SANT RAMON",
-    "visitant": "UNIÓ ESPORTIVA D'HORTA",
-    "resultat": "2 - 5",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
+    "local": "CAPELLADES HC",
+    "visitant": "CLUB HOQUEI CADI",
+    "resultat": "8 - 3",
+    "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
   },
   {
     "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
@@ -171900,13 +171900,13 @@
     "pista": "PAVELLÓ FRANCESC CASSART"
   },
   {
-    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
+    "competicio": "INFANTIL COPA CATALANA OR FASE FINAL",
     "data": "31/05/2026",
     "hora": "19:00",
-    "local": "CLUB HOQUEI RIPOLLET A",
-    "visitant": "HOQUEI CLUB SALT B",
-    "resultat": "8 - 0",
-    "pista": "PAVELLÓ RIPOLLET"
+    "local": "CLUB PATÍ VOLTREGÀ B",
+    "visitant": "CP VILAFRANCA AKO A",
+    "resultat": "4 - 3",
+    "pista": "MASIES DE VOLTREGA"
   },
   {
     "competicio": "JÚNIOR COPA CATALANA OR FASE FINAL",
@@ -171927,6 +171927,15 @@
     "pista": "PAVELLÓ MUNICIPAL PALAU 2"
   },
   {
+    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
+    "data": "31/05/2026",
+    "hora": "19:00",
+    "local": "CLUB HOQUEI RIPOLLET A",
+    "visitant": "HOQUEI CLUB SALT B",
+    "resultat": "8 - 0",
+    "pista": "PAVELLÓ RIPOLLET"
+  },
+  {
     "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
     "data": "31/05/2026",
     "hora": "19:00",
@@ -171934,15 +171943,6 @@
     "visitant": "ROTOTANK BIGUES I RIELLS B",
     "resultat": "10 - 3",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
-  },
-  {
-    "competicio": "INFANTIL COPA CATALANA OR FASE FINAL",
-    "data": "31/05/2026",
-    "hora": "19:00",
-    "local": "CLUB PATÍ VOLTREGÀ B",
-    "visitant": "CP VILAFRANCA AKO A",
-    "resultat": "4 - 3",
-    "pista": "MASIES DE VOLTREGA"
   },
   {
     "competicio": "PLAYOUT NACIONAL CATALANA FEMENINA",
@@ -172031,16 +172031,7 @@
     "hora": "18:00",
     "local": "CLUB HOQUEI VILA-SECA C",
     "visitant": "CP RIUDOMS D",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE VILA-SECA"
-  },
-  {
-    "competicio": "PREBENJAMI OR TARRAGONA 2ª FASE",
-    "data": "05/06/2026",
-    "hora": "19:15",
-    "local": "CLUB HOQUEI VILA-SECA A",
-    "visitant": "REUS DEPORTIU  A",
-    "resultat": "",
+    "resultat": "4 - 0",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE VILA-SECA"
   },
   {
@@ -172049,8 +172040,17 @@
     "hora": "19:15",
     "local": "AE CASP",
     "visitant": "CPI LA SAGRERA C",
-    "resultat": "",
+    "resultat": "1 - 4",
     "pista": "JESUITES CASP"
+  },
+  {
+    "competicio": "PREBENJAMI OR TARRAGONA 2ª FASE",
+    "data": "05/06/2026",
+    "hora": "19:15",
+    "local": "CLUB HOQUEI VILA-SECA A",
+    "visitant": "REUS DEPORTIU  A",
+    "resultat": "0 - 4",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE VILA-SECA"
   },
   {
     "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
@@ -172058,7 +172058,7 @@
     "hora": "19:15",
     "local": "CP VILAFRANCA AKO B",
     "visitant": "CP VILAFRANCA AKO A",
-    "resultat": "",
+    "resultat": "4 - 3",
     "pista": "ANNEX POLIESPORTIU VILAFRANCA"
   },
   {
@@ -172067,7 +172067,7 @@
     "hora": "19:30",
     "local": "CH OLOT",
     "visitant": "CP VILA-SANA B",
-    "resultat": "",
+    "resultat": "1 - 1",
     "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
   },
   {
@@ -172076,7 +172076,7 @@
     "hora": "20:00",
     "local": "CHP SANT FELIU B",
     "visitant": "CLUB PATÍ TORRELLES A",
-    "resultat": "",
+    "resultat": "5 - 5",
     "pista": "PAVELLÓ FRANCESC CASSART"
   },
   {
@@ -172085,17 +172085,8 @@
     "hora": "20:30",
     "local": "HOQUEI CLUB RIPOLL",
     "visitant": "UNIÓ ESPORTIVA D'HORTA B",
-    "resultat": "",
+    "resultat": "4 - 4",
     "pista": "POLIESPORTIU RIPOLL"
-  },
-  {
-    "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
-    "data": "05/06/2026",
-    "hora": "21:00",
-    "local": "CP MANRESA",
-    "visitant": "GENERALI HC PALAU B",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL PUJOLET"
   },
   {
     "competicio": "ELIMINATÒRIA ASCENS A 2CAT",
@@ -172103,7 +172094,7 @@
     "hora": "21:00",
     "local": "HOQUEI BANYOLES",
     "visitant": "SE LA SALLE BONANOVA A",
-    "resultat": "",
+    "resultat": "4 - 5",
     "pista": "PAVELLÓ DEL PLA DE L AMETLLER"
   },
   {
@@ -172112,8 +172103,17 @@
     "hora": "21:00",
     "local": "CLUB PATI CUBELLES",
     "visitant": "REUS DEPORTIU",
-    "resultat": "",
+    "resultat": "1 - 0",
     "pista": "POLIESPORTIU MUNICIPAL CUBELLES"
+  },
+  {
+    "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
+    "data": "05/06/2026",
+    "hora": "21:00",
+    "local": "CP MANRESA",
+    "visitant": "GENERALI HC PALAU B",
+    "resultat": "5 - 3",
+    "pista": "PAVELLÓ MUNICIPAL PUJOLET"
   },
   {
     "competicio": "JUVENIL OR 17 AL 20",
@@ -172121,7 +172121,7 @@
     "hora": "21:15",
     "local": "CLUB PATÍ VOLTREGÀ A",
     "visitant": "SHUM FRIT RAVICH",
-    "resultat": "",
+    "resultat": "4 - 5",
     "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
@@ -172130,17 +172130,26 @@
     "hora": "21:50",
     "local": "CH JUNEDA",
     "visitant": "HOQUEI VILA-SANA ALPICAT A",
-    "resultat": "",
+    "resultat": "6 - 3",
     "pista": "POLIESPORTIU MUNICIPAL DE JUNEDA"
   },
   {
-    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
+    "competicio": "INFANTIL OR 21 AL 24",
+    "data": "06/06/2026",
+    "hora": "00:00",
+    "local": "UNIÓ ESPORTIVA D'HORTA A",
+    "visitant": "HOQUEI CLUB SALT A",
+    "resultat": "",
+    "pista": "PISTA UE HORTA"
+  },
+  {
+    "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
     "data": "06/06/2026",
     "hora": "09:00",
-    "local": "SHUM FRIT RAVICH A",
-    "visitant": "CP FOLGUEROLES B",
+    "local": "SE LA SALLE BONANOVA B",
+    "visitant": "CE NOIA FREIXENET B",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
+    "pista": "PAVELLÓ FRANCESC CASSART"
   },
   {
     "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
@@ -172161,13 +172170,13 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
-    "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
+    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
     "data": "06/06/2026",
     "hora": "09:00",
-    "local": "SE LA SALLE BONANOVA B",
-    "visitant": "CE NOIA FREIXENET B",
+    "local": "SHUM FRIT RAVICH A",
+    "visitant": "CP FOLGUEROLES B",
     "resultat": "",
-    "pista": "PAVELLÓ FRANCESC CASSART"
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
   },
   {
     "competicio": "BCN PREBENJAMI BRONZE 3",
@@ -172179,15 +172188,6 @@
     "pista": "COL·LEGI SANT IGNASI"
   },
   {
-    "competicio": "FINALS COPA CATALANA FEM 11",
-    "data": "06/06/2026",
-    "hora": "09:30",
-    "local": "UEH BARBERÀ",
-    "visitant": "CLUB HOQUEI FARNERS",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU DE LES COMES"
-  },
-  {
     "competicio": "BCN PREBENJAMI BRONZE 1",
     "data": "06/06/2026",
     "hora": "09:30",
@@ -172195,6 +172195,15 @@
     "visitant": "CLUB PATI TORDERA",
     "resultat": "",
     "pista": "PISTA EXTERIOR SANTA PERPETUA"
+  },
+  {
+    "competicio": "FINALS COPA CATALANA FEM 11",
+    "data": "06/06/2026",
+    "hora": "09:30",
+    "local": "UEH BARBERÀ",
+    "visitant": "CLUB HOQUEI FARNERS",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
     "competicio": "BCN PREBENJAMI PLATA 1",
@@ -172206,22 +172215,13 @@
     "pista": "PAVELLÓ FONS DE LES CREUS"
   },
   {
-    "competicio": "BENJAMÍ PL ELIMINATÒRIA ANADA I TORNADA COPA BCN",
+    "competicio": "BCN PREBENJAMI OR 3",
     "data": "06/06/2026",
     "hora": "10:00",
-    "local": "CP MANRESA A",
-    "visitant": "CLUB PATÍ MASQUEFA A",
+    "local": "CE NOIA FREIXENET A",
+    "visitant": "CH CALDES RECAM LÀSER B",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL PUJOLET"
-  },
-  {
-    "competicio": "BCN PB-INICIACIÓ 1",
-    "data": "06/06/2026",
-    "hora": "10:00",
-    "local": "CPI SANT IGNASI A",
-    "visitant": "ROTOTANK BIGUES I RIELLS",
-    "resultat": "",
-    "pista": "COL·LEGI SANT IGNASI"
+    "pista": "CLUB ESPORTIU NOIA"
   },
   {
     "competicio": "BCN PREBENJAMÍ BRONZE 2",
@@ -172233,13 +172233,13 @@
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
-    "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
+    "competicio": "BCN PB-INICIACIÓ 1",
     "data": "06/06/2026",
     "hora": "10:00",
-    "local": "TARRAGONA",
-    "visitant": "LLEIDA",
+    "local": "CPI SANT IGNASI A",
+    "visitant": "ROTOTANK BIGUES I RIELLS",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
+    "pista": "COL·LEGI SANT IGNASI"
   },
   {
     "competicio": "BENJAMÍ PL ELIMINATÒRIA ANADA I TORNADA COPA BCN",
@@ -172251,22 +172251,13 @@
     "pista": "LA SALLE"
   },
   {
-    "competicio": "BCN PREBENJAMI OR 1",
+    "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
     "data": "06/06/2026",
     "hora": "10:00",
-    "local": "CP SUBUR SITGES",
-    "visitant": "OXIGEN PHC SANT CUGAT A",
+    "local": "TARRAGONA",
+    "visitant": "LLEIDA",
     "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL SITGES PINS VENS"
-  },
-  {
-    "competicio": "BCN PREBENJAMI OR 3",
-    "data": "06/06/2026",
-    "hora": "10:00",
-    "local": "CE NOIA FREIXENET A",
-    "visitant": "CH CALDES RECAM LÀSER B",
-    "resultat": "",
-    "pista": "CLUB ESPORTIU NOIA"
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
     "competicio": "BCN PREBENJAMI OR 3",
@@ -172276,6 +172267,15 @@
     "visitant": "CP SANT CELONI A",
     "resultat": "",
     "pista": "PAVELLÓ DANI PEDROSA"
+  },
+  {
+    "competicio": "BCN PREBENJAMI OR 1",
+    "data": "06/06/2026",
+    "hora": "10:00",
+    "local": "CP SUBUR SITGES",
+    "visitant": "OXIGEN PHC SANT CUGAT A",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL SITGES PINS VENS"
   },
   {
     "competicio": "BCN PREBENJAMI PLATA 6",
@@ -172296,31 +172296,13 @@
     "pista": "PAVELLO PALAU PLEGAMANS"
   },
   {
-    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
+    "competicio": "BENJAMÍ PL ELIMINATÒRIA ANADA I TORNADA COPA BCN",
     "data": "06/06/2026",
-    "hora": "10:30",
-    "local": "CLUB HOQUEI RIPOLLET A",
-    "visitant": "HC VALLS FM LOGISTIC",
+    "hora": "10:00",
+    "local": "CP MANRESA A",
+    "visitant": "CLUB PATÍ MASQUEFA A",
     "resultat": "",
-    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
-  },
-  {
-    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
-    "data": "06/06/2026",
-    "hora": "10:30",
-    "local": "CLUB PATÍ MASQUEFA A",
-    "visitant": "OXIGEN PHC SANT CUGAT C",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
-  },
-  {
-    "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
-    "data": "06/06/2026",
-    "hora": "10:30",
-    "local": "SANT JOSEP DE BADALONA",
-    "visitant": "CH LLORET CAFES CORNELLA",
-    "resultat": "",
-    "pista": "PAVELLÓ FRANCESC CASSART"
+    "pista": "PAVELLÓ MUNICIPAL PUJOLET"
   },
   {
     "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
@@ -172332,6 +172314,33 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
+    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "10:30",
+    "local": "CLUB PATÍ MASQUEFA A",
+    "visitant": "OXIGEN PHC SANT CUGAT C",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
+  },
+  {
+    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "10:30",
+    "local": "CLUB HOQUEI RIPOLLET A",
+    "visitant": "HC VALLS FM LOGISTIC",
+    "resultat": "",
+    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
+  },
+  {
+    "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "10:30",
+    "local": "SANT JOSEP DE BADALONA",
+    "visitant": "CH LLORET CAFES CORNELLA",
+    "resultat": "",
+    "pista": "PAVELLÓ FRANCESC CASSART"
+  },
+  {
     "competicio": "PREBENJAMI PLATA TARRAGONA 2ª FASE",
     "data": "06/06/2026",
     "hora": "10:45",
@@ -172339,15 +172348,6 @@
     "visitant": "HC VALLS FM LOGISTIC",
     "resultat": "",
     "pista": "CLUB D ESPORTS VENDRELL"
-  },
-  {
-    "competicio": "BCN PREBENJAMI OR 1",
-    "data": "06/06/2026",
-    "hora": "10:45",
-    "local": "CLUB HOQUEI SANTA PERPÈTUA A",
-    "visitant": "CE ARENYS DE MUNT A",
-    "resultat": "",
-    "pista": "PISTA EXTERIOR SANTA PERPETUA"
   },
   {
     "competicio": "BCN PREBENJAMI PLATA 4",
@@ -172359,6 +172359,15 @@
     "pista": "PAVELLÓ CAN PASSANALS"
   },
   {
+    "competicio": "BCN PREBENJAMI OR 1",
+    "data": "06/06/2026",
+    "hora": "10:45",
+    "local": "CLUB HOQUEI SANTA PERPÈTUA A",
+    "visitant": "CE ARENYS DE MUNT A",
+    "resultat": "",
+    "pista": "PISTA EXTERIOR SANTA PERPETUA"
+  },
+  {
     "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
     "data": "06/06/2026",
     "hora": "11:00",
@@ -172366,6 +172375,15 @@
     "visitant": "JOIERIA MONER CP SANT RAMON A",
     "resultat": "",
     "pista": "PAVELLO MOLLET"
+  },
+  {
+    "competicio": "BCN PB-INICIACIÓ 2",
+    "data": "06/06/2026",
+    "hora": "11:00",
+    "local": "CH ARENYS DE MAR",
+    "visitant": "CPI SANT IGNASI B",
+    "resultat": "",
+    "pista": "PAVELLÓ FONS DE LES CREUS"
   },
   {
     "competicio": "BENJAMÍ PL ELIMINATÒRIA ANADA I TORNADA COPA BCN",
@@ -172384,15 +172402,6 @@
     "visitant": "CHCASTELLET",
     "resultat": "",
     "pista": "COMPLEX ESPORTIU DE LES COMES"
-  },
-  {
-    "competicio": "BCN PB-INICIACIÓ 2",
-    "data": "06/06/2026",
-    "hora": "11:00",
-    "local": "CH ARENYS DE MAR",
-    "visitant": "CPI SANT IGNASI B",
-    "resultat": "",
-    "pista": "PAVELLÓ FONS DE LES CREUS"
   },
   {
     "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
@@ -172422,15 +172431,6 @@
     "pista": "PAVELLÓ DANI PEDROSA"
   },
   {
-    "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
-    "data": "06/06/2026",
-    "hora": "11:15",
-    "local": "BARCELONA SUD",
-    "visitant": "GIRONA",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
-  },
-  {
     "competicio": "BENJAMÍ PLATA 2ª FASE",
     "data": "06/06/2026",
     "hora": "11:15",
@@ -172438,6 +172438,15 @@
     "visitant": "PONS LLEIDA C",
     "resultat": "",
     "pista": "PAVELLÓ COL·LEGI SANT JOSEP"
+  },
+  {
+    "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
+    "data": "06/06/2026",
+    "hora": "11:15",
+    "local": "BARCELONA SUD",
+    "visitant": "GIRONA",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
     "competicio": "BCN PREBANJAMI PLATA 5",
@@ -172458,15 +172467,6 @@
     "pista": "COL·LEGI SANT IGNASI"
   },
   {
-    "competicio": "JUVENIL OR 21 AL 24",
-    "data": "06/06/2026",
-    "hora": "11:30",
-    "local": "CH CALDES RECAM LÀSER B",
-    "visitant": "CH MATARÓ A",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
-  },
-  {
     "competicio": "BCN PREBENJAMI BRONZE 3",
     "data": "06/06/2026",
     "hora": "11:30",
@@ -172476,6 +172476,15 @@
     "pista": "PISTA MUNICIPAL LA SAGRERA"
   },
   {
+    "competicio": "JUVENIL OR 21 AL 24",
+    "data": "06/06/2026",
+    "hora": "11:30",
+    "local": "CH CALDES RECAM LÀSER B",
+    "visitant": "CH MATARÓ A",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
+  },
+  {
     "competicio": "BCN BENJAMÍ OR 17 AL 20",
     "data": "06/06/2026",
     "hora": "11:45",
@@ -172483,6 +172492,15 @@
     "visitant": "CLUB PATÍ VOLTREGÀ B",
     "resultat": "",
     "pista": "PAVELLO ESPORTIU CP VIC"
+  },
+  {
+    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "12:00",
+    "local": "CP RIUDEBITLLES B",
+    "visitant": "CLUB HOQUEI PALAFRUGELL A",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
   },
   {
     "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
@@ -172503,24 +172521,6 @@
     "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
   },
   {
-    "competicio": "BCN PREBENJAMÍ BRONZE 2",
-    "data": "06/06/2026",
-    "hora": "12:00",
-    "local": "SFERIC",
-    "visitant": "SANT JOSEP DE BADALONA",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL LA MAURINA"
-  },
-  {
-    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
-    "data": "06/06/2026",
-    "hora": "12:00",
-    "local": "CP RIUDEBITLLES B",
-    "visitant": "CLUB HOQUEI PALAFRUGELL A",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
-  },
-  {
     "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
     "data": "06/06/2026",
     "hora": "12:00",
@@ -172530,6 +172530,15 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
+    "competicio": "BCN PREBENJAMÍ BRONZE 2",
+    "data": "06/06/2026",
+    "hora": "12:00",
+    "local": "SFERIC",
+    "visitant": "SANT JOSEP DE BADALONA",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL LA MAURINA"
+  },
+  {
     "competicio": "JUVENIL OR 21 AL 24",
     "data": "06/06/2026",
     "hora": "12:15",
@@ -172537,6 +172546,15 @@
     "visitant": "CH OLOT A",
     "resultat": "",
     "pista": "PAVELLO REUS DEPORTIU"
+  },
+  {
+    "competicio": "BCN PB-INICIACIÓ 2",
+    "data": "06/06/2026",
+    "hora": "12:30",
+    "local": "JOIERIA MONER CP SANT RAMON C",
+    "visitant": "CLUB PATI TORDERA",
+    "resultat": "",
+    "pista": "ANNEX POLIESPORTIU VILAFRANCA"
   },
   {
     "competicio": "BCN PREBENJAMI BRONZE 3",
@@ -172566,15 +172584,6 @@
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
-    "competicio": "BCN PB-INICIACIÓ 2",
-    "data": "06/06/2026",
-    "hora": "12:30",
-    "local": "JOIERIA MONER CP SANT RAMON C",
-    "visitant": "CLUB PATI TORDERA",
-    "resultat": "",
-    "pista": "ANNEX POLIESPORTIU VILAFRANCA"
-  },
-  {
     "competicio": "FINALS COPA CATALANA FEM 15",
     "data": "06/06/2026",
     "hora": "12:30",
@@ -172602,22 +172611,13 @@
     "pista": "COL·LEGI JESÚS, MARIA, I JOSEP"
   },
   {
-    "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
+    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
     "data": "06/06/2026",
     "hora": "13:30",
-    "local": "CLUB HOQUEI PRAT B",
-    "visitant": "PONS LLEIDA D",
+    "local": "HOQUEI CLUB SENTMENAT A",
+    "visitant": "HOQUEI CASAL ESPLUGA",
     "resultat": "",
-    "pista": "PAVELLÓ FRANCESC CASSART"
-  },
-  {
-    "competicio": "BCN PREBENJAMI PLATA 2",
-    "data": "06/06/2026",
-    "hora": "13:30",
-    "local": "JESUS MARIA I JOSEP C",
-    "visitant": "SANT JOSEP SANT SADURNI B",
-    "resultat": "",
-    "pista": "COL·LEGI JESÚS, MARIA, I JOSEP"
+    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
   },
   {
     "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
@@ -172638,13 +172638,22 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
-    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
+    "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
     "data": "06/06/2026",
     "hora": "13:30",
-    "local": "HOQUEI CLUB SENTMENAT A",
-    "visitant": "HOQUEI CASAL ESPLUGA",
+    "local": "CLUB HOQUEI PRAT B",
+    "visitant": "PONS LLEIDA D",
     "resultat": "",
-    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
+    "pista": "PAVELLÓ FRANCESC CASSART"
+  },
+  {
+    "competicio": "BCN PREBENJAMI PLATA 2",
+    "data": "06/06/2026",
+    "hora": "13:30",
+    "local": "JESUS MARIA I JOSEP C",
+    "visitant": "SANT JOSEP SANT SADURNI B",
+    "resultat": "",
+    "pista": "COL·LEGI JESÚS, MARIA, I JOSEP"
   },
   {
     "competicio": "BCN PREBENJAMI OR 1",
@@ -172656,15 +172665,6 @@
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
-    "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
-    "data": "06/06/2026",
-    "hora": "14:00",
-    "local": "BARCELONA NORD",
-    "visitant": "TARRAGONA",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
-  },
-  {
     "competicio": "FINALS COPA CATALANA FEM 15",
     "data": "06/06/2026",
     "hora": "14:00",
@@ -172672,6 +172672,15 @@
     "visitant": "CP VILA-SANA B",
     "resultat": "",
     "pista": "COMPLEX ESPORTIU DE LES COMES"
+  },
+  {
+    "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
+    "data": "06/06/2026",
+    "hora": "14:00",
+    "local": "BARCELONA NORD",
+    "visitant": "TARRAGONA",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
     "competicio": "BCN PREBENJAMÍ BRONZE 2",
@@ -172719,15 +172728,6 @@
     "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
-    "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
-    "data": "06/06/2026",
-    "hora": "16:00",
-    "local": "GENERALI HC PALAU B",
-    "visitant": "CP MANRESA",
-    "resultat": "",
-    "pista": "PAVELLO PALAU PLEGAMANS"
-  },
-  {
     "competicio": "BCN PREBENJAMI PLATA 6",
     "data": "06/06/2026",
     "hora": "16:00",
@@ -172737,22 +172737,13 @@
     "pista": "PAVELLÓ MUNICIPAL DE TONA"
   },
   {
-    "competicio": "BCN PREBENJAMI PLATA 2",
+    "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
     "data": "06/06/2026",
     "hora": "16:00",
-    "local": "CP CONGRÉS-LA SAGRERA ES MOU B",
-    "visitant": "CLUB HOQUEI CLARET B",
+    "local": "GENERALI HC PALAU B",
+    "visitant": "CP MANRESA",
     "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
-  },
-  {
-    "competicio": "ALEVÍ COPA CATALANA OR FASE FINAL",
-    "data": "06/06/2026",
-    "hora": "16:00",
-    "local": "CH MATARÓ A",
-    "visitant": "IGUALADA HC B",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
+    "pista": "PAVELLO PALAU PLEGAMANS"
   },
   {
     "competicio": "INFANTIL COPA CATALANA OR FASE FINAL",
@@ -172764,6 +172755,24 @@
     "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
   },
   {
+    "competicio": "ALEVÍ COPA CATALANA OR FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "16:00",
+    "local": "CH MATARÓ A",
+    "visitant": "IGUALADA HC B",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
+  },
+  {
+    "competicio": "BCN PREBENJAMI PLATA 2",
+    "data": "06/06/2026",
+    "hora": "16:00",
+    "local": "CP CONGRÉS-LA SAGRERA ES MOU B",
+    "visitant": "CLUB HOQUEI CLARET B",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
+  },
+  {
     "competicio": "BCN PREBENJAMI BRONZE 3",
     "data": "06/06/2026",
     "hora": "16:00",
@@ -172773,15 +172782,6 @@
     "pista": "PAVELLO MOLLET"
   },
   {
-    "competicio": "JÚNIOR OR 21 AL 24",
-    "data": "06/06/2026",
-    "hora": "16:00",
-    "local": "CLUB HOQUEI PALAFRUGELL",
-    "visitant": "CP SANT CELONI",
-    "resultat": "",
-    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
-  },
-  {
     "competicio": "PREBENJAMI OR TARRAGONA 2ª FASE",
     "data": "06/06/2026",
     "hora": "16:00",
@@ -172789,6 +172789,15 @@
     "visitant": "CLUB PATÍ CALAFELL B",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL L ESPLUGA DE FRANCOLÍ"
+  },
+  {
+    "competicio": "JÚNIOR OR 21 AL 24",
+    "data": "06/06/2026",
+    "hora": "16:00",
+    "local": "CLUB HOQUEI PALAFRUGELL",
+    "visitant": "CP SANT CELONI",
+    "resultat": "",
+    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
   },
   {
     "competicio": "PLAYOFF NACIONAL CATALANA FEMENINA",
@@ -172818,15 +172827,6 @@
     "pista": "CH MATARO"
   },
   {
-    "competicio": "FINALS COPA CATALANA FEM 11",
-    "data": "06/06/2026",
-    "hora": "16:30",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU DE LES COMES"
-  },
-  {
     "competicio": "JUVENIL COPA CATALANA OR FASE FINAL",
     "data": "06/06/2026",
     "hora": "16:30",
@@ -172834,15 +172834,6 @@
     "visitant": "CP CONGRÉS-LA SAGRERA ES MOU A",
     "resultat": "",
     "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
-  },
-  {
-    "competicio": "BCN PREBENJAMI OR 3",
-    "data": "06/06/2026",
-    "hora": "16:30",
-    "local": "UEH BARBERÀ",
-    "visitant": "CPI SANT IGNASI A",
-    "resultat": "",
-    "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
   },
   {
     "competicio": "JUVENIL OR 17 AL 20",
@@ -172854,31 +172845,22 @@
     "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
   },
   {
-    "competicio": "ALEVÍ OR 21 AL 24",
+    "competicio": "FINALS COPA CATALANA FEM 11",
     "data": "06/06/2026",
-    "hora": "17:00",
-    "local": "CP BELL-LLOC A",
-    "visitant": "CP SANT CELONI A",
+    "hora": "16:30",
+    "local": "",
+    "visitant": "",
     "resultat": "",
-    "pista": "PAVELLÓ POLIESPORTIU DE BELL-LLOC"
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
-    "competicio": "BCN PREBENJAMI OR 2",
+    "competicio": "BCN PREBENJAMI OR 3",
     "data": "06/06/2026",
-    "hora": "17:00",
-    "local": "CLUB PATÍ MASQUEFA A",
-    "visitant": "MOLLET HC A",
+    "hora": "16:30",
+    "local": "UEH BARBERÀ",
+    "visitant": "CPI SANT IGNASI A",
     "resultat": "",
-    "pista": "PAVELLÓ DE MASQUEFA"
-  },
-  {
-    "competicio": "INFANTIL OR 21 AL 24",
-    "data": "06/06/2026",
-    "hora": "17:00",
-    "local": "UNIÓ ESPORTIVA D'HORTA A",
-    "visitant": "HOQUEI CLUB SALT A",
-    "resultat": "",
-    "pista": "PISTA UE HORTA"
+    "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
   },
   {
     "competicio": "BCN PREBENJAMI BRONZE 1",
@@ -172890,13 +172872,22 @@
     "pista": "PISTA POLIVALENT IGUALADA"
   },
   {
-    "competicio": "INFANTIL OR 17 AL 20",
+    "competicio": "BCN PREBENJAMI OR 2",
     "data": "06/06/2026",
-    "hora": "17:15",
-    "local": "CP CONGRÉS-LA SAGRERA ES MOU A",
-    "visitant": "PATÍ VIC B",
+    "hora": "17:00",
+    "local": "CLUB PATÍ MASQUEFA A",
+    "visitant": "MOLLET HC A",
     "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
+    "pista": "PAVELLÓ DE MASQUEFA"
+  },
+  {
+    "competicio": "ALEVÍ OR 21 AL 24",
+    "data": "06/06/2026",
+    "hora": "17:00",
+    "local": "CP BELL-LLOC A",
+    "visitant": "CP SANT CELONI A",
+    "resultat": "",
+    "pista": "PAVELLÓ POLIESPORTIU DE BELL-LLOC"
   },
   {
     "competicio": "BCN PREBENJAMI PLATA 3",
@@ -172908,13 +172899,13 @@
     "pista": "PAVELLO MOLLET"
   },
   {
-    "competicio": "JÚNIOR COPA CATALANA OR FASE FINAL",
+    "competicio": "INFANTIL OR 17 AL 20",
     "data": "06/06/2026",
-    "hora": "17:30",
-    "local": "CE ARENYS DE MUNT",
-    "visitant": "IGUALADA HC C",
+    "hora": "17:15",
+    "local": "CP CONGRÉS-LA SAGRERA ES MOU A",
+    "visitant": "PATÍ VIC B",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
+    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
   },
   {
     "competicio": "FEM11 OR 12È AL 14È",
@@ -172924,6 +172915,15 @@
     "visitant": "CLUB HOQUEI MOLLERUSSA",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL BREDA"
+  },
+  {
+    "competicio": "JÚNIOR COPA CATALANA OR FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "17:30",
+    "local": "CE ARENYS DE MUNT",
+    "visitant": "IGUALADA HC C",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
   },
   {
     "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
@@ -172962,33 +172962,6 @@
     "pista": "PISTA LA CLOTA"
   },
   {
-    "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
-    "data": "06/06/2026",
-    "hora": "18:00",
-    "local": "UNIÓ ESPORTIVA D'HORTA A",
-    "visitant": "CP RIUDEBITLLES A",
-    "resultat": "",
-    "pista": "PISTA UE HORTA"
-  },
-  {
-    "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
-    "data": "06/06/2026",
-    "hora": "18:00",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "PAVELLÓ CAN BADELL"
-  },
-  {
-    "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
-    "data": "06/06/2026",
-    "hora": "18:00",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "PAVELLÓ FRANCESC CASSART"
-  },
-  {
     "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
     "data": "06/06/2026",
     "hora": "18:00",
@@ -173007,6 +172980,15 @@
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
+    "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
+    "data": "06/06/2026",
+    "hora": "18:00",
+    "local": "UNIÓ ESPORTIVA D'HORTA A",
+    "visitant": "CP RIUDEBITLLES A",
+    "resultat": "",
+    "pista": "PISTA UE HORTA"
+  },
+  {
     "competicio": "ELIMINATÒRIA ASCENS A 2CAT",
     "data": "06/06/2026",
     "hora": "18:00",
@@ -173014,6 +172996,24 @@
     "visitant": "CE NOIA FREIXENET",
     "resultat": "",
     "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
+  },
+  {
+    "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "18:00",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN BADELL"
+  },
+  {
+    "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "18:00",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "PAVELLÓ FRANCESC CASSART"
   },
   {
     "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
@@ -173043,15 +173043,6 @@
     "pista": "PAVELLO MOLLET"
   },
   {
-    "competicio": "JUVENIL COPA CATALANA OR FASE FINAL",
-    "data": "06/06/2026",
-    "hora": "19:00",
-    "local": "CLUB PATÍ MONJOS",
-    "visitant": "HOQUEI CLUB CASTELLAR  A",
-    "resultat": "",
-    "pista": "PAVELLO CP MONJOS"
-  },
-  {
     "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
     "data": "06/06/2026",
     "hora": "19:00",
@@ -173059,6 +173050,15 @@
     "visitant": "BARCELONA NORD",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
+  },
+  {
+    "competicio": "JUVENIL COPA CATALANA OR FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "19:00",
+    "local": "CLUB PATÍ MONJOS",
+    "visitant": "HOQUEI CLUB CASTELLAR  A",
+    "resultat": "",
+    "pista": "PAVELLO CP MONJOS"
   },
   {
     "competicio": "BENJAMÍ PL ELIMINATÒRIA ANADA I TORNADA COPA BCN",
@@ -173070,15 +173070,6 @@
     "pista": "CLUB ESPORTIU NOIA"
   },
   {
-    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
-    "data": "06/06/2026",
-    "hora": "19:30",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
-  },
-  {
     "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
     "data": "06/06/2026",
     "hora": "19:30",
@@ -173097,6 +173088,15 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
+    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
+    "data": "06/06/2026",
+    "hora": "19:30",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
+  },
+  {
     "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
     "data": "06/06/2026",
     "hora": "19:30",
@@ -173104,15 +173104,6 @@
     "visitant": "",
     "resultat": "",
     "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
-  },
-  {
-    "competicio": "ELIMINATÒRIA ASCENS A 1CAT",
-    "data": "06/06/2026",
-    "hora": "20:00",
-    "local": "MOLLET HC",
-    "visitant": "CP RIUDOMS",
-    "resultat": "",
-    "pista": "PAVELLO MOLLET"
   },
   {
     "competicio": "ELIMINATÒRIA ASCENS A 1CAT",
@@ -173124,6 +173115,15 @@
     "pista": "PAVELLÓ CELIA ARTIGA"
   },
   {
+    "competicio": "ELIMINATÒRIA ASCENS A 1CAT",
+    "data": "06/06/2026",
+    "hora": "20:00",
+    "local": "MOLLET HC",
+    "visitant": "CP RIUDOMS",
+    "resultat": "",
+    "pista": "PAVELLO MOLLET"
+  },
+  {
     "competicio": "ELIMINATÒRIA ASCENS A 2CAT",
     "data": "06/06/2026",
     "hora": "21:00",
@@ -173131,24 +173131,6 @@
     "visitant": "HOQUEI PATINS TONA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
-  },
-  {
-    "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
-    "data": "07/06/2026",
-    "hora": "09:00",
-    "local": "CE NOIA FREIXENET A",
-    "visitant": "JESUS MARIA I JOSEP B",
-    "resultat": "",
-    "pista": "CLUB ESPORTIU NOIA"
-  },
-  {
-    "competicio": "BCN PB-INICIACIÓ 2",
-    "data": "07/06/2026",
-    "hora": "09:00",
-    "local": "CPI SANT IGNASI C",
-    "visitant": "OXIGEN PHC SANT CUGAT G",
-    "resultat": "",
-    "pista": "COL·LEGI SANT IGNASI"
   },
   {
     "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
@@ -173160,6 +173142,15 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
+    "competicio": "BCN PB-INICIACIÓ 2",
+    "data": "07/06/2026",
+    "hora": "09:00",
+    "local": "CPI SANT IGNASI C",
+    "visitant": "OXIGEN PHC SANT CUGAT G",
+    "resultat": "",
+    "pista": "COL·LEGI SANT IGNASI"
+  },
+  {
     "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
     "data": "07/06/2026",
     "hora": "09:00",
@@ -173169,13 +173160,13 @@
     "pista": "PAVELLÓ FRANCESC CASSART"
   },
   {
-    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
+    "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
     "data": "07/06/2026",
     "hora": "09:00",
-    "local": "CLUB ESPORTIU OLESA PATI A",
-    "visitant": "PATÍ VIC C",
+    "local": "CE NOIA FREIXENET A",
+    "visitant": "JESUS MARIA I JOSEP B",
     "resultat": "",
-    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
+    "pista": "CLUB ESPORTIU NOIA"
   },
   {
     "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
@@ -173187,6 +173178,15 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
   },
   {
+    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
+    "data": "07/06/2026",
+    "hora": "09:00",
+    "local": "CLUB ESPORTIU OLESA PATI A",
+    "visitant": "PATÍ VIC C",
+    "resultat": "",
+    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
+  },
+  {
     "competicio": "FINALS COPA CATALANA FEM 13",
     "data": "07/06/2026",
     "hora": "09:30",
@@ -173194,24 +173194,6 @@
     "visitant": "GENERALI HC PALAU \t B",
     "resultat": "",
     "pista": "PAVELLÓ CAN PASSANALS"
-  },
-  {
-    "competicio": "FEM13 OR 17 AL 20",
-    "data": "07/06/2026",
-    "hora": "10:00",
-    "local": "CP FOLGUEROLES",
-    "visitant": "IGUALADA HC",
-    "resultat": "",
-    "pista": "PAVELLÓ FOLGUEROLES LES ALZINES"
-  },
-  {
-    "competicio": "BCN PREBENJAMI PLATA 6",
-    "data": "07/06/2026",
-    "hora": "10:00",
-    "local": "CLUB PATÍ VOLTREGÀ C",
-    "visitant": "CLUB HOQUEI VILASSAR",
-    "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
     "competicio": "FINALS COPA BENJAMI PLATA TARRAGONA 2026",
@@ -173241,13 +173223,13 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS CORBERA"
   },
   {
-    "competicio": "PREBENJAMI BRONZE TARRAGONA 2ª FASE GRUP B",
+    "competicio": "BCN PREBENJAMI OR 2",
     "data": "07/06/2026",
     "hora": "10:00",
-    "local": "CLUB HOQUEI VILA-SECA D",
-    "visitant": "HOQUEI MONTBLANC",
+    "local": "MARTINELIA MANLLEU A",
+    "visitant": "IGUALADA HC A",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE VILA-SECA"
+    "pista": "PISTA MANLLEU"
   },
   {
     "competicio": "BCN PREBENJAMI PLATA 4",
@@ -173259,49 +173241,13 @@
     "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
   },
   {
-    "competicio": "BCN PREBENJAMI OR 2",
+    "competicio": "BCN PREBENJAMI PLATA 6",
     "data": "07/06/2026",
     "hora": "10:00",
-    "local": "MARTINELIA MANLLEU A",
-    "visitant": "IGUALADA HC A",
+    "local": "CLUB PATÍ VOLTREGÀ C",
+    "visitant": "CLUB HOQUEI VILASSAR",
     "resultat": "",
-    "pista": "PISTA MANLLEU"
-  },
-  {
-    "competicio": "PREBENJAMI BRONZE TARRAGONA 2ª FASE GRUP B",
-    "data": "07/06/2026",
-    "hora": "10:00",
-    "local": "HC VALLS FM LOGISTIC",
-    "visitant": "CE VENDRELL B",
-    "resultat": "",
-    "pista": "PISTA POLIESPORTIVA DEL VILAR"
-  },
-  {
-    "competicio": "BCN PREBANJAMI PLATA 5",
-    "data": "07/06/2026",
-    "hora": "10:00",
-    "local": "CP RODA",
-    "visitant": "CLUB PATÍ MASQUEFA B",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
-  },
-  {
-    "competicio": "BCN PREBENJAMI PLATA 1",
-    "data": "07/06/2026",
-    "hora": "10:00",
-    "local": "CLUB HOQUEI CLARET A",
-    "visitant": "UNIÓ ESPORTIVA D'HORTA A",
-    "resultat": "",
-    "pista": "PISTA LA CLOTA"
-  },
-  {
-    "competicio": "BCN PREBENJAMI PLATA 4",
-    "data": "07/06/2026",
-    "hora": "10:00",
-    "local": "CEH SABADELL",
-    "visitant": "CP VILAFRANCA AKO A",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS SABADELL"
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
     "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
@@ -173313,6 +173259,24 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
+    "competicio": "PREBENJAMI BRONZE TARRAGONA 2ª FASE GRUP B",
+    "data": "07/06/2026",
+    "hora": "10:00",
+    "local": "HC VALLS FM LOGISTIC",
+    "visitant": "CE VENDRELL B",
+    "resultat": "",
+    "pista": "PISTA POLIESPORTIVA DEL VILAR"
+  },
+  {
+    "competicio": "PREBENJAMI BRONZE TARRAGONA 2ª FASE GRUP B",
+    "data": "07/06/2026",
+    "hora": "10:00",
+    "local": "CLUB HOQUEI VILA-SECA D",
+    "visitant": "HOQUEI MONTBLANC",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE VILA-SECA"
+  },
+  {
     "competicio": "BENJAMÍ PL ELIMINATÒRIA ANADA I TORNADA COPA BCN",
     "data": "07/06/2026",
     "hora": "10:00",
@@ -173320,6 +173284,42 @@
     "visitant": "CP FOLGUEROLES A",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL DE VILASSAR DE MAR"
+  },
+  {
+    "competicio": "BCN PREBENJAMI PLATA 4",
+    "data": "07/06/2026",
+    "hora": "10:00",
+    "local": "CEH SABADELL",
+    "visitant": "CP VILAFRANCA AKO A",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS SABADELL"
+  },
+  {
+    "competicio": "FEM13 OR 17 AL 20",
+    "data": "07/06/2026",
+    "hora": "10:00",
+    "local": "CP FOLGUEROLES",
+    "visitant": "IGUALADA HC",
+    "resultat": "",
+    "pista": "PAVELLÓ FOLGUEROLES LES ALZINES"
+  },
+  {
+    "competicio": "BCN PREBENJAMI PLATA 1",
+    "data": "07/06/2026",
+    "hora": "10:00",
+    "local": "CLUB HOQUEI CLARET A",
+    "visitant": "UNIÓ ESPORTIVA D'HORTA A",
+    "resultat": "",
+    "pista": "PISTA LA CLOTA"
+  },
+  {
+    "competicio": "BCN PREBANJAMI PLATA 5",
+    "data": "07/06/2026",
+    "hora": "10:00",
+    "local": "CP RODA",
+    "visitant": "CLUB PATÍ MASQUEFA B",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
     "competicio": "PREBENJAMI OR TARRAGONA 2ª FASE",
@@ -173358,15 +173358,6 @@
     "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
   },
   {
-    "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
-    "data": "07/06/2026",
-    "hora": "10:30",
-    "local": "CE ARENYS DE MUNT C",
-    "visitant": "CEH SABADELL",
-    "resultat": "",
-    "pista": "PAVELLÓ CAN BADELL"
-  },
-  {
     "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
     "data": "07/06/2026",
     "hora": "10:30",
@@ -173385,6 +173376,15 @@
     "pista": "PAVELLÓ FRANCESC CASSART"
   },
   {
+    "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
+    "data": "07/06/2026",
+    "hora": "10:30",
+    "local": "CE ARENYS DE MUNT C",
+    "visitant": "CEH SABADELL",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN BADELL"
+  },
+  {
     "competicio": "BENJAMÍ PL ELIMINATÒRIA ANADA I TORNADA COPA BCN",
     "data": "07/06/2026",
     "hora": "10:30",
@@ -173392,6 +173392,15 @@
     "visitant": "SE LA SALLE BONANOVA A",
     "resultat": "",
     "pista": "PAVELLO RIUDEBITLLES"
+  },
+  {
+    "competicio": "BCN PREBENJAMI PLATA 1",
+    "data": "07/06/2026",
+    "hora": "11:00",
+    "local": "CP FOLGUEROLES B",
+    "visitant": "ROTOTANK BIGUES I RIELLS",
+    "resultat": "",
+    "pista": "PAVELLÓ FOLGUEROLES LES ALZINES"
   },
   {
     "competicio": "BCN PREBENJAMI PLATA 3",
@@ -173412,6 +173421,15 @@
     "pista": "PAVELLÓ MUNICIPAL PALAU 2"
   },
   {
+    "competicio": "FINALS COPA CATALANA FEM 13",
+    "data": "07/06/2026",
+    "hora": "11:00",
+    "local": "HOQUEI CLUB CASTELLAR",
+    "visitant": "UNIÓ ESPORTIVA D'HORTA",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN PASSANALS"
+  },
+  {
     "competicio": "ALEVÍ OR 21 AL 24",
     "data": "07/06/2026",
     "hora": "11:00",
@@ -173428,60 +173446,6 @@
     "visitant": "CLUB HOQUEI VILA-SECA",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU PLA DE STA MARIA"
-  },
-  {
-    "competicio": "BCN PREBENJAMI PLATA 1",
-    "data": "07/06/2026",
-    "hora": "11:00",
-    "local": "CP FOLGUEROLES B",
-    "visitant": "ROTOTANK BIGUES I RIELLS",
-    "resultat": "",
-    "pista": "PAVELLÓ FOLGUEROLES LES ALZINES"
-  },
-  {
-    "competicio": "FINALS COPA CATALANA FEM 13",
-    "data": "07/06/2026",
-    "hora": "11:00",
-    "local": "HOQUEI CLUB CASTELLAR",
-    "visitant": "UNIÓ ESPORTIVA D'HORTA",
-    "resultat": "",
-    "pista": "PAVELLÓ CAN PASSANALS"
-  },
-  {
-    "competicio": "PREBENJAMI PLATA TARRAGONA 2ª FASE",
-    "data": "07/06/2026",
-    "hora": "11:15",
-    "local": "HC VALLS FM LOGISTIC",
-    "visitant": "TRANSLOP ALCAÑIZ CLUB PATIN",
-    "resultat": "",
-    "pista": "PISTA POLIESPORTIVA DEL VILAR"
-  },
-  {
-    "competicio": "BCN PREBENJAMI PLATA 1",
-    "data": "07/06/2026",
-    "hora": "11:15",
-    "local": "CLUB PATÍ VOLTREGÀ B",
-    "visitant": "HOQUEI CLUB SENTMENAT A",
-    "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
-  },
-  {
-    "competicio": "BCN PREBENJAMI PLATA 3",
-    "data": "07/06/2026",
-    "hora": "11:15",
-    "local": "MARTINELIA MANLLEU B",
-    "visitant": "SE LA SALLE BONANOVA",
-    "resultat": "",
-    "pista": "PISTA MANLLEU"
-  },
-  {
-    "competicio": "BCN PREBENJAMI PLATA 3",
-    "data": "07/06/2026",
-    "hora": "11:15",
-    "local": "CLUB PATÍ MALGRAT GRUP ESCOBAR B",
-    "visitant": "CLUB HOQUEI RIPOLLET B",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL MALGRAT"
   },
   {
     "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
@@ -173502,13 +173466,22 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS CORBERA"
   },
   {
-    "competicio": "BCN PREBENJAMI OR 2",
+    "competicio": "BCN PREBENJAMI PLATA 3",
     "data": "07/06/2026",
     "hora": "11:15",
-    "local": "INNOAESTHETICS HC SANT JUST A",
-    "visitant": "PATÍ VIC",
+    "local": "MARTINELIA MANLLEU B",
+    "visitant": "SE LA SALLE BONANOVA",
     "resultat": "",
-    "pista": "PAVELLO SANT JUST"
+    "pista": "PISTA MANLLEU"
+  },
+  {
+    "competicio": "PREBENJAMI PLATA TARRAGONA 2ª FASE",
+    "data": "07/06/2026",
+    "hora": "11:15",
+    "local": "HC VALLS FM LOGISTIC",
+    "visitant": "TRANSLOP ALCAÑIZ CLUB PATIN",
+    "resultat": "",
+    "pista": "PISTA POLIESPORTIVA DEL VILAR"
   },
   {
     "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
@@ -173520,6 +173493,33 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
+    "competicio": "BCN PREBENJAMI OR 2",
+    "data": "07/06/2026",
+    "hora": "11:15",
+    "local": "INNOAESTHETICS HC SANT JUST A",
+    "visitant": "PATÍ VIC",
+    "resultat": "",
+    "pista": "PAVELLO SANT JUST"
+  },
+  {
+    "competicio": "BCN PREBENJAMI PLATA 3",
+    "data": "07/06/2026",
+    "hora": "11:15",
+    "local": "CLUB PATÍ MALGRAT GRUP ESCOBAR B",
+    "visitant": "CLUB HOQUEI RIPOLLET B",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL MALGRAT"
+  },
+  {
+    "competicio": "BCN PREBENJAMI PLATA 1",
+    "data": "07/06/2026",
+    "hora": "11:15",
+    "local": "CLUB PATÍ VOLTREGÀ B",
+    "visitant": "HOQUEI CLUB SENTMENAT A",
+    "resultat": "",
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
     "competicio": "JUVENIL OR 17 AL 20",
     "data": "07/06/2026",
     "hora": "11:30",
@@ -173529,15 +173529,6 @@
     "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
   },
   {
-    "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
-    "data": "07/06/2026",
-    "hora": "11:45",
-    "local": "CP RIUDEBITLLES A",
-    "visitant": "UNIÓ ESPORTIVA D'HORTA A",
-    "resultat": "",
-    "pista": "PAVELLO RIUDEBITLLES"
-  },
-  {
     "competicio": "BCN PREBENJAMI BRONZE 1",
     "data": "07/06/2026",
     "hora": "11:45",
@@ -173545,6 +173536,15 @@
     "visitant": "MARTINELIA MANLLEU C",
     "resultat": "",
     "pista": "CENTRO DEPORTIVO MUNICIPAL DEL GUINARDÓ"
+  },
+  {
+    "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
+    "data": "07/06/2026",
+    "hora": "11:45",
+    "local": "CP RIUDEBITLLES A",
+    "visitant": "UNIÓ ESPORTIVA D'HORTA A",
+    "resultat": "",
+    "pista": "PAVELLO RIUDEBITLLES"
   },
   {
     "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
@@ -173574,6 +173574,15 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
   },
   {
+    "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
+    "data": "07/06/2026",
+    "hora": "12:00",
+    "local": "CLUB HOQUEI SANTA PERPÈTUA A",
+    "visitant": "HOQUEI PATINS TONA  B",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN BADELL"
+  },
+  {
     "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
     "data": "07/06/2026",
     "hora": "12:00",
@@ -173592,13 +173601,13 @@
     "pista": "PAVELLÓ ESPORTIU PLA DE STA MARIA"
   },
   {
-    "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
+    "competicio": "PLAYOFF NACIONAL CATALANA MASCULINA",
     "data": "07/06/2026",
     "hora": "12:00",
-    "local": "CLUB HOQUEI SANTA PERPÈTUA A",
-    "visitant": "HOQUEI PATINS TONA  B",
+    "local": "CH CALDES RECAM LÀSER",
+    "visitant": "CE NOIA FREIXENET",
     "resultat": "",
-    "pista": "PAVELLÓ CAN BADELL"
+    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
     "competicio": "FEM15 OR 9È AL 12È",
@@ -173610,15 +173619,6 @@
     "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
   },
   {
-    "competicio": "PLAYOFF NACIONAL CATALANA MASCULINA",
-    "data": "07/06/2026",
-    "hora": "12:00",
-    "local": "CH CALDES RECAM LÀSER",
-    "visitant": "CE NOIA FREIXENET",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
-  },
-  {
     "competicio": "BCN PREBENJAMI PLATA 2",
     "data": "07/06/2026",
     "hora": "12:15",
@@ -173626,24 +173626,6 @@
     "visitant": "SANT JOSEP SANT SADURNI C",
     "resultat": "",
     "pista": "PAVELLÓ FOLGUEROLES LES ALZINES"
-  },
-  {
-    "competicio": "BCN PREBENJAMI OR 2",
-    "data": "07/06/2026",
-    "hora": "12:30",
-    "local": "CLUB PATÍ MALGRAT GRUP ESCOBAR A",
-    "visitant": "CH CALDES RECAM LÀSER A",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL MALGRAT"
-  },
-  {
-    "competicio": "BCN PREBENJAMI OR 1",
-    "data": "07/06/2026",
-    "hora": "12:30",
-    "local": "CLUB PATÍ VOLTREGÀ A",
-    "visitant": "CP RIUDEBITLLES A",
-    "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
     "competicio": "FINALS COPA CATALANA FEM 17",
@@ -173664,13 +173646,22 @@
     "pista": "PAVELLO SANT JUST"
   },
   {
-    "competicio": "FINALS COPA BENJAMI PLATA TARRAGONA 2026",
+    "competicio": "BCN PREBENJAMI OR 1",
     "data": "07/06/2026",
-    "hora": "13:00",
-    "local": "HC VALLS FM LOGISTIC",
-    "visitant": "CHP MCDONALD'S  AMPOSTA B",
+    "hora": "12:30",
+    "local": "CLUB PATÍ VOLTREGÀ A",
+    "visitant": "CP RIUDEBITLLES A",
     "resultat": "",
-    "pista": "PAVELLÓ ESPORTIU PLA DE STA MARIA"
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
+    "competicio": "BCN PREBENJAMI OR 2",
+    "data": "07/06/2026",
+    "hora": "12:30",
+    "local": "CLUB PATÍ MALGRAT GRUP ESCOBAR A",
+    "visitant": "CH CALDES RECAM LÀSER A",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL MALGRAT"
   },
   {
     "competicio": "PREBENJAMI PLATA TARRAGONA 2ª FASE",
@@ -173682,6 +173673,15 @@
     "pista": "CAMBRILS ESPORT"
   },
   {
+    "competicio": "FINALS COPA BENJAMI PLATA TARRAGONA 2026",
+    "data": "07/06/2026",
+    "hora": "13:00",
+    "local": "HC VALLS FM LOGISTIC",
+    "visitant": "CHP MCDONALD'S  AMPOSTA B",
+    "resultat": "",
+    "pista": "PAVELLÓ ESPORTIU PLA DE STA MARIA"
+  },
+  {
     "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
     "data": "07/06/2026",
     "hora": "13:30",
@@ -173689,6 +173689,15 @@
     "visitant": "HOQUEI CLUB ALPICAT C",
     "resultat": "",
     "pista": "PAVELLÓ FRANCESC CASSART"
+  },
+  {
+    "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
+    "data": "07/06/2026",
+    "hora": "13:30",
+    "local": "HOQUEI CLUB RIPOLL",
+    "visitant": "HOQUEI CLUB PIERA",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN BADELL"
   },
   {
     "competicio": "BENJAMÍ OR ELIMINATÒRIA ANADA I TORNADA COPA BCN",
@@ -173707,15 +173716,6 @@
     "visitant": "LAUMONT HOQUEI TÀRREGA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
-  },
-  {
-    "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
-    "data": "07/06/2026",
-    "hora": "13:30",
-    "local": "HOQUEI CLUB RIPOLL",
-    "visitant": "HOQUEI CLUB PIERA",
-    "resultat": "",
-    "pista": "PAVELLÓ CAN BADELL"
   },
   {
     "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
@@ -173754,15 +173754,6 @@
     "pista": "PAVELLÓ CAN PASSANALS"
   },
   {
-    "competicio": "BCN PREBENJAMI PLATA 1",
-    "data": "07/06/2026",
-    "hora": "15:00",
-    "local": "CLUB PATÍ VOLTREGÀ B",
-    "visitant": "CLUB HOQUEI CLARET A",
-    "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
-  },
-  {
     "competicio": "CAMPIONAT CATALUNYA SELECCIONS TERRITORIALS MASCULÍ",
     "data": "07/06/2026",
     "hora": "15:00",
@@ -173770,6 +173761,15 @@
     "visitant": "LLEIDA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
+  },
+  {
+    "competicio": "BCN PREBENJAMI PLATA 1",
+    "data": "07/06/2026",
+    "hora": "15:00",
+    "local": "CLUB PATÍ VOLTREGÀ B",
+    "visitant": "CLUB HOQUEI CLARET A",
+    "resultat": "",
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
     "competicio": "BENJAMÍ PL ELIMINATÒRIA ANADA I TORNADA COPA BCN",
