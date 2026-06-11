@@ -174150,13 +174150,13 @@
     "pista": "MUNICIPAL D ESPORTS SANT CELONI"
   },
   {
-    "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
+    "competicio": "COPA FEDERACIÓ BENJAMÍ QUARTS DE FINALS I SEMIS",
     "data": "13/06/2026",
     "hora": "11:30",
-    "local": "CLUB HOQUEI VILASSAR A",
-    "visitant": "CP RIUDEBITLLES B",
+    "local": "OXIGEN PHC SANT CUGAT C",
+    "visitant": "CAPELLADES HC",
     "resultat": "",
-    "pista": "PAVELLO RIUDEBITLLES"
+    "pista": "CH MATARO"
   },
   {
     "competicio": "PREBENJAMI PLATA TARRAGONA 2ª FASE",
@@ -174168,13 +174168,13 @@
     "pista": "ALCAÑIZ"
   },
   {
-    "competicio": "COPA FEDERACIÓ BENJAMÍ QUARTS DE FINALS I SEMIS",
+    "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
     "data": "13/06/2026",
     "hora": "11:30",
-    "local": "OXIGEN PHC SANT CUGAT C",
-    "visitant": "CAPELLADES HC",
+    "local": "CLUB HOQUEI VILASSAR A",
+    "visitant": "CP RIUDEBITLLES B",
     "resultat": "",
-    "pista": "CH MATARO"
+    "pista": "PAVELLO RIUDEBITLLES"
   },
   {
     "competicio": "ELIMINATÒRIES ASCENS A NACIONAL CATALANA",
@@ -174204,15 +174204,6 @@
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
-    "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
-    "data": "13/06/2026",
-    "hora": "12:30",
-    "local": "CLUB PATÍ MASQUEFA A",
-    "visitant": "CE NOIA FREIXENET B",
-    "resultat": "",
-    "pista": "PAVELLO RIUDEBITLLES"
-  },
-  {
     "competicio": "COPA FEDERACIÓ BENJAMÍ QUARTS DE FINALS I SEMIS",
     "data": "13/06/2026",
     "hora": "12:30",
@@ -174222,6 +174213,15 @@
     "pista": "CH MATARO"
   },
   {
+    "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
+    "data": "13/06/2026",
+    "hora": "12:30",
+    "local": "CLUB PATÍ MASQUEFA A",
+    "visitant": "CE NOIA FREIXENET B",
+    "resultat": "",
+    "pista": "PAVELLO RIUDEBITLLES"
+  },
+  {
     "competicio": "ELIMINATÒRIES ASCENS A 1CAT FEM",
     "data": "13/06/2026",
     "hora": "13:00",
@@ -174229,6 +174229,24 @@
     "visitant": "CP VILAFRANCA BYACCUOR",
     "resultat": "",
     "pista": "MUNICIPAL D ESPORTS SANT CELONI"
+  },
+  {
+    "competicio": "COPA FEDERACIÓ BENJAMÍ QUARTS DE FINALS I SEMIS",
+    "data": "13/06/2026",
+    "hora": "13:30",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "CH MATARO"
+  },
+  {
+    "competicio": "JUVENIL COPA FEDERACIÓ FASE FINAL",
+    "data": "13/06/2026",
+    "hora": "13:30",
+    "local": "CH MATARÓ C",
+    "visitant": "CAMBRILS CLUB HOQUEI",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
     "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
@@ -174247,24 +174265,6 @@
     "visitant": "CE NOIA FREIXENET C",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
-  },
-  {
-    "competicio": "JUVENIL COPA FEDERACIÓ FASE FINAL",
-    "data": "13/06/2026",
-    "hora": "13:30",
-    "local": "CH MATARÓ C",
-    "visitant": "CAMBRILS CLUB HOQUEI",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
-  },
-  {
-    "competicio": "COPA FEDERACIÓ BENJAMÍ QUARTS DE FINALS I SEMIS",
-    "data": "13/06/2026",
-    "hora": "13:30",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "CH MATARO"
   },
   {
     "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
@@ -174294,15 +174294,6 @@
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
-    "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
-    "data": "13/06/2026",
-    "hora": "15:30",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "PAVELLO RIUDEBITLLES"
-  },
-  {
     "competicio": "COPA FEDERACIÓ BENJAMÍ QUARTS DE FINALS I SEMIS",
     "data": "13/06/2026",
     "hora": "15:30",
@@ -174310,6 +174301,15 @@
     "visitant": "",
     "resultat": "",
     "pista": "CH MATARO"
+  },
+  {
+    "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
+    "data": "13/06/2026",
+    "hora": "15:30",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "PAVELLO RIUDEBITLLES"
   },
   {
     "competicio": "ALEVÍ COPA FEDERACIÓ FASE FINAL",
@@ -174321,31 +174321,13 @@
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
-    "competicio": "COPA FEDERACIÓ BENJAMÍ QUARTS DE FINALS I SEMIS",
+    "competicio": "PLAYOFF NACIONAL CATALANA FEMENINA",
     "data": "13/06/2026",
-    "hora": "16:30",
-    "local": "",
-    "visitant": "",
+    "hora": "16:05",
+    "local": "CH CALDES RECAM LÀSER",
+    "visitant": "CH MATARÓ",
     "resultat": "",
-    "pista": "CH MATARO"
-  },
-  {
-    "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
-    "data": "13/06/2026",
-    "hora": "16:30",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "PAVELLO RIUDEBITLLES"
-  },
-  {
-    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
-    "data": "13/06/2026",
-    "hora": "16:30",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
+    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
     "competicio": "ELIMINATÒRIA ASCENS A 1CAT",
@@ -174357,6 +174339,33 @@
     "pista": "PAVELLO ESPORTIU CP VIC"
   },
   {
+    "competicio": "COPA BARCELONA BENJAMÍ QUARTS DE FINAL I SEMIFINAL",
+    "data": "13/06/2026",
+    "hora": "16:30",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "PAVELLO RIUDEBITLLES"
+  },
+  {
+    "competicio": "COPA FEDERACIÓ BENJAMÍ QUARTS DE FINALS I SEMIS",
+    "data": "13/06/2026",
+    "hora": "16:30",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "CH MATARO"
+  },
+  {
+    "competicio": "ALEVÍ COPA CATALANA PLATA FASE FINAL",
+    "data": "13/06/2026",
+    "hora": "16:30",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
+  },
+  {
     "competicio": "ELIMINATÒRIES ASCENS A NACIONAL CATALANA",
     "data": "13/06/2026",
     "hora": "17:00",
@@ -174366,15 +174375,6 @@
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
-    "competicio": "JUVENIL COPA FEDERACIÓ FASE FINAL",
-    "data": "13/06/2026",
-    "hora": "18:00",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
-  },
-  {
     "competicio": "ELIMINATÒRIA ASCENS A 2CAT",
     "data": "13/06/2026",
     "hora": "18:00",
@@ -174382,6 +174382,15 @@
     "visitant": "HOQUEI BANYOLES",
     "resultat": "",
     "pista": "LA SALLE"
+  },
+  {
+    "competicio": "JUVENIL COPA FEDERACIÓ FASE FINAL",
+    "data": "13/06/2026",
+    "hora": "18:00",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
     "competicio": "JUVENIL COPA CATALANA OR FASE FINAL",
@@ -174411,15 +174420,6 @@
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
-    "competicio": "PLAYOFF NACIONAL CATALANA MASCULINA",
-    "data": "13/06/2026",
-    "hora": "19:30",
-    "local": "CE NOIA FREIXENET",
-    "visitant": "CH CALDES RECAM LÀSER",
-    "resultat": "",
-    "pista": "CLUB ESPORTIU NOIA"
-  },
-  {
     "competicio": "ELIMINATÒRIA ASCENS A 2CAT",
     "data": "13/06/2026",
     "hora": "19:30",
@@ -174427,6 +174427,15 @@
     "visitant": "CHP MCDONALD'S AMPOSTA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL DE TONA"
+  },
+  {
+    "competicio": "PLAYOFF NACIONAL CATALANA MASCULINA",
+    "data": "13/06/2026",
+    "hora": "19:30",
+    "local": "CE NOIA FREIXENET",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "CLUB ESPORTIU NOIA"
   },
   {
     "competicio": "ELIMINATÒRIA ASCENS A 1CAT",
@@ -174438,20 +174447,20 @@
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
-    "competicio": "PLAYOFF NACIONAL CATALANA FEMENINA",
-    "data": "13/06/2026",
-    "hora": "19:45",
-    "local": "CH CALDES RECAM LÀSER",
-    "visitant": "CH MATARÓ",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
-  },
-  {
     "competicio": "JUVENIL COPA CATALANA PLATA FASE FINAL",
     "data": "13/06/2026",
     "hora": "20:00",
     "local": "",
     "visitant": "",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
+  },
+  {
+    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
+    "data": "14/06/2026",
+    "hora": "09:00",
+    "local": "PATÍ VIC C",
+    "visitant": "CP CALDES A",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
@@ -174465,31 +174474,13 @@
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
-    "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
-    "data": "14/06/2026",
-    "hora": "09:00",
-    "local": "PATÍ VIC C",
-    "visitant": "CP CALDES A",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
-  },
-  {
     "competicio": "COPA MÀSTER 50",
     "data": "14/06/2026",
     "hora": "09:30",
     "local": "CLUB HOQUEI PREMIÀ MASTER",
-    "visitant": "",
+    "visitant": "GEIEG",
     "resultat": "",
     "pista": "CAMP MUNICIPAL DE PREMIÀ DE MAR"
-  },
-  {
-    "competicio": "COPA FEDERACIÓ BENJAMÍ FASES FINALS",
-    "data": "14/06/2026",
-    "hora": "10:00",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "CH MATARO"
   },
   {
     "competicio": "COPA BARCELONA BENJAMÍ FASES FINALS",
@@ -174499,6 +174490,15 @@
     "visitant": "",
     "resultat": "",
     "pista": "PAVELLO RIUDEBITLLES"
+  },
+  {
+    "competicio": "COPA FEDERACIÓ BENJAMÍ FASES FINALS",
+    "data": "14/06/2026",
+    "hora": "10:00",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "CH MATARO"
   },
   {
     "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
@@ -174519,15 +174519,6 @@
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
-    "competicio": "COPA BARCELONA BENJAMÍ FASES FINALS",
-    "data": "14/06/2026",
-    "hora": "11:00",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
-    "pista": "PAVELLO RIUDEBITLLES"
-  },
-  {
     "competicio": "COPA MÀSTER 50",
     "data": "14/06/2026",
     "hora": "11:00",
@@ -174535,6 +174526,15 @@
     "visitant": "UNIÓ ESPORTIVA LA GARRIGA +50",
     "resultat": "",
     "pista": "CAMP MUNICIPAL DE PREMIÀ DE MAR"
+  },
+  {
+    "competicio": "COPA BARCELONA BENJAMÍ FASES FINALS",
+    "data": "14/06/2026",
+    "hora": "11:00",
+    "local": "",
+    "visitant": "",
+    "resultat": "",
+    "pista": "PAVELLO RIUDEBITLLES"
   },
   {
     "competicio": "ELIMINATÒRIES ASCENS A NACIONAL CATALANA FEM",
@@ -174564,15 +174564,6 @@
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
-    "competicio": "ELIMINATÒRIA DESCENS A 2CAT",
-    "data": "14/06/2026",
-    "hora": "12:00",
-    "local": "INNOAESTHETICS HC SANT JUST",
-    "visitant": "CLUB HOQUEI PALAFRUGELL",
-    "resultat": "",
-    "pista": "PAVELLÓ HOQUEI SENTMENAT"
-  },
-  {
     "competicio": "COPA FEDERACIÓ BENJAMÍ FASES FINALS",
     "data": "14/06/2026",
     "hora": "12:00",
@@ -174591,6 +174582,15 @@
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
+    "competicio": "ELIMINATÒRIA DESCENS A 2CAT",
+    "data": "14/06/2026",
+    "hora": "12:00",
+    "local": "INNOAESTHETICS HC SANT JUST",
+    "visitant": "CLUB HOQUEI PALAFRUGELL",
+    "resultat": "",
+    "pista": "PAVELLÓ HOQUEI SENTMENAT"
+  },
+  {
     "competicio": "COPA BARCELONA BENJAMÍ FASES FINALS",
     "data": "14/06/2026",
     "hora": "12:00",
@@ -174598,15 +174598,6 @@
     "visitant": "",
     "resultat": "",
     "pista": "PAVELLO RIUDEBITLLES"
-  },
-  {
-    "competicio": "PLAYOFF NACIONAL CATALANA FEMENINA",
-    "data": "14/06/2026",
-    "hora": "12:30",
-    "local": "CH MATARÓ",
-    "visitant": "CH CALDES RECAM LÀSER",
-    "resultat": "",
-    "pista": "CH MATARO"
   },
   {
     "competicio": "COPA FEDERACIÓ BENJAMÍ FASES FINALS",
@@ -174645,15 +174636,6 @@
     "pista": "PAVELLO RIUDEBITLLES"
   },
   {
-    "competicio": "JÚNIOR COPA CATALANA PLATA FASE FINAL",
-    "data": "14/06/2026",
-    "hora": "13:30",
-    "local": "CLUB PATÍ TORRELLES",
-    "visitant": "MARTINELIA MANLLEU C",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
-  },
-  {
     "competicio": "JÚNIOR COPA FEDERACIÓ FASE FINAL",
     "data": "14/06/2026",
     "hora": "13:30",
@@ -174661,6 +174643,15 @@
     "visitant": "CP CORBERA",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
+  },
+  {
+    "competicio": "JÚNIOR COPA CATALANA PLATA FASE FINAL",
+    "data": "14/06/2026",
+    "hora": "13:30",
+    "local": "CLUB PATÍ TORRELLES",
+    "visitant": "MARTINELIA MANLLEU C",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
     "competicio": "INFANTIL COPA CATALANA OR FASE FINAL",
@@ -174706,6 +174697,15 @@
     "visitant": "",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
+  },
+  {
+    "competicio": "PLAYOFF NACIONAL CATALANA FEMENINA",
+    "data": "14/06/2026",
+    "hora": "18:00",
+    "local": "CH MATARÓ",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "CH MATARO"
   },
   {
     "competicio": "ELIMINATÒRIES ASCENS A NACIONAL CATALANA",
