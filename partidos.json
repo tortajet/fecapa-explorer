@@ -174398,7 +174398,7 @@
     "hora": "17:00",
     "local": "HOQUEI CLUB SENTMENAT",
     "visitant": "MARTINELIA MANLLEU",
-    "resultat": "3 - 1",
+    "resultat": "0 - 10",
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
@@ -174506,7 +174506,7 @@
     "hora": "09:00",
     "local": "PATÍ VIC C",
     "visitant": "CP CALDES A",
-    "resultat": "",
+    "resultat": "5 - 1",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
@@ -174515,7 +174515,7 @@
     "hora": "09:00",
     "local": "CLUB PATÍ MASQUEFA B",
     "visitant": "CLUB HOQUEI RIPOLLET B",
-    "resultat": "",
+    "resultat": "2 - 9",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
@@ -174524,7 +174524,7 @@
     "hora": "09:00",
     "local": "BARCELONA NORD",
     "visitant": "GIRONA",
-    "resultat": "",
+    "resultat": "3 - 2",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
@@ -174533,7 +174533,7 @@
     "hora": "09:30",
     "local": "CLUB HOQUEI PREMIÀ MASTER",
     "visitant": "GEIEG",
-    "resultat": "",
+    "resultat": "5 - 4",
     "pista": "CAMP MUNICIPAL DE PREMIÀ DE MAR"
   },
   {
@@ -174542,7 +174542,7 @@
     "hora": "10:00",
     "local": "CP VILAFRANCA AKO B",
     "visitant": "CE NOIA FREIXENET B",
-    "resultat": "",
+    "resultat": "4 - 2",
     "pista": "PAVELLO RIUDEBITLLES"
   },
   {
@@ -174551,7 +174551,7 @@
     "hora": "10:00",
     "local": "CH LES FRANQUESES",
     "visitant": "CLUB HOQUEI MOLINS DE REI B",
-    "resultat": "",
+    "resultat": "1 - 11",
     "pista": "CH MATARO"
   },
   {
@@ -174560,7 +174560,7 @@
     "hora": "10:15",
     "local": "BARCELONA SUD",
     "visitant": "TARRAGONA",
-    "resultat": "",
+    "resultat": "2 - 1",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
@@ -174569,7 +174569,7 @@
     "hora": "10:30",
     "local": "CLUB PATÍ MASQUEFA A",
     "visitant": "CLUB HOQUEI RIPOLLET A",
-    "resultat": "",
+    "resultat": "4 - 7",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
@@ -174578,7 +174578,7 @@
     "hora": "10:30",
     "local": "CAPELLADES HC",
     "visitant": "CLUB HOQUEI PRAT B",
-    "resultat": "",
+    "resultat": "2 - 1",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
@@ -174587,7 +174587,7 @@
     "hora": "11:00",
     "local": "HOQUEI CLUB SENTMENAT",
     "visitant": "OXIGEN PHC SANT CUGAT C",
-    "resultat": "",
+    "resultat": "1 - 7",
     "pista": "CH MATARO"
   },
   {
@@ -174596,7 +174596,7 @@
     "hora": "11:00",
     "local": "CLUB PATÍ TORRELLES",
     "visitant": "CH OLOT",
-    "resultat": "",
+    "resultat": "3 - 4",
     "pista": "MUNICIPAL D ESPORTS SANT CELONI"
   },
   {
@@ -174605,7 +174605,7 @@
     "hora": "11:00",
     "local": "JESUS MARIA I JOSEP B",
     "visitant": "CLUB HOQUEI VILASSAR A",
-    "resultat": "",
+    "resultat": "5 - 7",
     "pista": "PAVELLO RIUDEBITLLES"
   },
   {
@@ -174614,7 +174614,7 @@
     "hora": "11:00",
     "local": "ESPANYOL +50",
     "visitant": "UNIÓ ESPORTIVA LA GARRIGA +50",
-    "resultat": "",
+    "resultat": "2 - 5",
     "pista": "CAMP MUNICIPAL DE PREMIÀ DE MAR"
   },
   {
@@ -174623,7 +174623,7 @@
     "hora": "12:00",
     "local": "AE CASP",
     "visitant": "CP CONGRÉS-LA SAGRERA ES MOU E",
-    "resultat": "",
+    "resultat": "2 - 3",
     "pista": "CH MATARO"
   },
   {
@@ -174632,7 +174632,7 @@
     "hora": "12:00",
     "local": "JOIERIA MONER CP SANT RAMON A",
     "visitant": "CLUB PATÍ MASQUEFA A",
-    "resultat": "",
+    "resultat": "6 - 3",
     "pista": "PAVELLO RIUDEBITLLES"
   },
   {
@@ -174641,7 +174641,7 @@
     "hora": "12:00",
     "local": "INNOAESTHETICS HC SANT JUST",
     "visitant": "CLUB HOQUEI PALAFRUGELL",
-    "resultat": "",
+    "resultat": "2 - 5",
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
@@ -174650,7 +174650,7 @@
     "hora": "12:00",
     "local": "CP RIUDOMS C",
     "visitant": "CP JONQUERENC",
-    "resultat": "",
+    "resultat": "4 - 4",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
@@ -174659,7 +174659,7 @@
     "hora": "12:00",
     "local": "INNOAESTHETICS HC SANT JUST B",
     "visitant": "RIBES CP",
-    "resultat": "",
+    "resultat": "1 - 2",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
@@ -174668,16 +174668,16 @@
     "hora": "12:30",
     "local": "GIRONA",
     "visitant": "LLEIDA",
-    "resultat": "",
+    "resultat": "4 - 4",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
     "competicio": "COPA MÀSTER 50",
     "data": "14/06/2026",
     "hora": "13:00",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
+    "local": "CLUB HOQUEI PREMIÀ MASTER",
+    "visitant": "UNIÓ ESPORTIVA LA GARRIGA +50",
+    "resultat": "2 - 4",
     "pista": "CAMP MUNICIPAL DE PREMIÀ DE MAR"
   },
   {
@@ -174686,7 +174686,7 @@
     "hora": "13:00",
     "local": "CP SANT CELONI",
     "visitant": "CLUB PATI CUBELLES",
-    "resultat": "",
+    "resultat": "2 - 1",
     "pista": "MUNICIPAL D ESPORTS SANT CELONI"
   },
   {
@@ -174695,7 +174695,7 @@
     "hora": "13:00",
     "local": "CLUB PATÍ TORRELLES",
     "visitant": "CAPELLADES HC",
-    "resultat": "",
+    "resultat": "4 - 5",
     "pista": "CH MATARO"
   },
   {
@@ -174704,7 +174704,7 @@
     "hora": "13:00",
     "local": "CP RIUDEBITLLES A",
     "visitant": "CP RIUDEBITLLES B",
-    "resultat": "",
+    "resultat": "5 - 1",
     "pista": "PAVELLO RIUDEBITLLES"
   },
   {
@@ -174713,7 +174713,7 @@
     "hora": "13:30",
     "local": "CP CONGRÉS-LA SAGRERA ES MOU B",
     "visitant": "CP CORBERA",
-    "resultat": "",
+    "resultat": "3 - 1",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
@@ -174722,7 +174722,7 @@
     "hora": "13:30",
     "local": "CLUB PATÍ TORRELLES",
     "visitant": "MARTINELIA MANLLEU C",
-    "resultat": "",
+    "resultat": "4 - 2",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
@@ -174731,7 +174731,7 @@
     "hora": "15:00",
     "local": "CHP SANT FELIU A",
     "visitant": "CP SANT CELONI A",
-    "resultat": "",
+    "resultat": "3 - 1",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
@@ -174740,16 +174740,16 @@
     "hora": "15:00",
     "local": "BARCELONA NORD",
     "visitant": "TARRAGONA",
-    "resultat": "",
+    "resultat": "5 - 1",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
     "competicio": "INFANTIL COPA FEDERACIÓ FASE FINAL",
     "data": "14/06/2026",
     "hora": "16:00",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
+    "local": "CLUB HOQUEI RIPOLLET B",
+    "visitant": "CAPELLADES HC",
+    "resultat": "2 - 3",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
@@ -174758,7 +174758,7 @@
     "hora": "16:10",
     "local": "CH JUNEDA",
     "visitant": "CAPELLADES HC",
-    "resultat": "",
+    "resultat": "4 - 3",
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
@@ -174767,16 +174767,16 @@
     "hora": "16:15",
     "local": "BARCELONA SUD",
     "visitant": "LLEIDA",
-    "resultat": "",
+    "resultat": "4 - 2",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
     "competicio": "INFANTIL COPA CATALANA PLATA FASE FINAL",
     "data": "14/06/2026",
     "hora": "16:30",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
+    "local": "PATÍ VIC C",
+    "visitant": "CLUB HOQUEI RIPOLLET A",
+    "resultat": "1 - 4",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
@@ -174793,17 +174793,17 @@
     "data": "14/06/2026",
     "hora": "18:00",
     "local": "JOIERIA MONER CP SANT RAMON",
-    "visitant": "",
-    "resultat": "",
+    "visitant": "MARTINELIA MANLLEU",
+    "resultat": "4 - 2",
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
     "competicio": "JÚNIOR COPA FEDERACIÓ FASE FINAL",
     "data": "14/06/2026",
     "hora": "18:00",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
+    "local": "CP RIUDOMS C",
+    "visitant": "CP CONGRÉS-LA SAGRERA ES MOU B",
+    "resultat": "2 - 1",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
@@ -174812,16 +174812,16 @@
     "hora": "18:30",
     "local": "CH OLOT",
     "visitant": "IGUALADA HC C",
-    "resultat": "",
+    "resultat": "2 - 1",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
     "competicio": "ELIMINATÒRIES ASCENS A NACIONAL CATALANA FEM",
     "data": "14/06/2026",
     "hora": "18:30",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
+    "local": "CH OLOT",
+    "visitant": "CP SANT CELONI",
+    "resultat": "3 - 1",
     "pista": "MUNICIPAL D ESPORTS SANT CELONI"
   },
   {
@@ -174839,16 +174839,16 @@
     "hora": "20:00",
     "local": "CP RIUDOMS",
     "visitant": "MOLLET HC",
-    "resultat": "",
+    "resultat": "7 - 5",
     "pista": "PAVELLO MUNICIPAL RIUDOMS"
   },
   {
     "competicio": "JÚNIOR COPA CATALANA PLATA FASE FINAL",
     "data": "14/06/2026",
     "hora": "20:00",
-    "local": "",
-    "visitant": "",
-    "resultat": "",
+    "local": "RIBES CP",
+    "visitant": "CLUB PATÍ TORRELLES",
+    "resultat": "3 - 6",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   }
 ]
