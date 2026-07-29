@@ -1,1 +1,461 @@
-[]
+[
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "29/08/2026",
+    "hora": "",
+    "local": "CH MATARÓ",
+    "visitant": "CP CONGRES",
+    "resultat": "",
+    "pista": "CH MATARO"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "29/08/2026",
+    "hora": "",
+    "local": "AUTO VIGATANA PATÍ VIC",
+    "visitant": "CLUB D'ESPORTS VENDRELL",
+    "resultat": "",
+    "pista": "PAVELLO ESPORTIU CP VIC"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "29/08/2026",
+    "hora": "",
+    "local": "MARTINELIA MANLLEU",
+    "visitant": "CLUB PATI TORDERA",
+    "resultat": "",
+    "pista": "PISTA MANLLEU"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "29/08/2026",
+    "hora": "",
+    "local": "CE NOIA FREIXENET",
+    "visitant": "B-SENSIBLE CH OLOT",
+    "resultat": "",
+    "pista": "CLUB ESPORTIU NOIA"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "29/08/2026",
+    "hora": "",
+    "local": "INNOAESTHETICS HC SANT JUST",
+    "visitant": "SDESPANYOL",
+    "resultat": "",
+    "pista": "PAVELLO SANT JUST"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "29/08/2026",
+    "hora": "19:30",
+    "local": "PREVINTEGRAL CH MOLLERUSSA",
+    "visitant": "CH PALAFRUGELL",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL MOLLERUSSA"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "29/08/2026",
+    "hora": "19:45",
+    "local": "CLUB HOQUEI VILA-SECA",
+    "visitant": "GEIEG",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE VILA-SECA"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "02/09/2026",
+    "hora": "",
+    "local": "PHC SANT CUGAT",
+    "visitant": "AUTO VIGATANA PATÍ VIC",
+    "resultat": "",
+    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "02/09/2026",
+    "hora": "",
+    "local": "B-SENSIBLE CH OLOT",
+    "visitant": "CH MATARÓ",
+    "resultat": "",
+    "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "02/09/2026",
+    "hora": "",
+    "local": "CP CONGRES",
+    "visitant": "CE NOIA FREIXENET",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "02/09/2026",
+    "hora": "",
+    "local": "CLUB PATI TORDERA",
+    "visitant": "CLUB HOQUEI VILA-SECA",
+    "resultat": "",
+    "pista": "TORDERA"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "02/09/2026",
+    "hora": "",
+    "local": "CH PALAFRUGELL",
+    "visitant": "INNOAESTHETICS HC SANT JUST",
+    "resultat": "",
+    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "02/09/2026",
+    "hora": "",
+    "local": "SDESPANYOL",
+    "visitant": "PREVINTEGRAL CH MOLLERUSSA",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU MUNICIPAL ESPRONCEDA"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "02/09/2026",
+    "hora": "20:00",
+    "local": "GEIEG",
+    "visitant": "MARTINELIA MANLLEU",
+    "resultat": "",
+    "pista": "PAVELLÓ LLUÍS BACHS"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
+    "hora": "",
+    "local": "CLUB D'ESPORTS VENDRELL",
+    "visitant": "PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "CLUB D ESPORTS VENDRELL"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
+    "hora": "",
+    "local": "CP CONGRES",
+    "visitant": "B-SENSIBLE CH OLOT",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
+    "hora": "",
+    "local": "CH MATARÓ",
+    "visitant": "CE NOIA FREIXENET",
+    "resultat": "",
+    "pista": "CH MATARO"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
+    "hora": "",
+    "local": "CLUB PATI TORDERA",
+    "visitant": "GEIEG",
+    "resultat": "",
+    "pista": "TORDERA"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
+    "hora": "",
+    "local": "MARTINELIA MANLLEU",
+    "visitant": "CLUB HOQUEI VILA-SECA",
+    "resultat": "",
+    "pista": "PISTA MANLLEU"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
+    "hora": "",
+    "local": "SDESPANYOL",
+    "visitant": "CH PALAFRUGELL",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU MUNICIPAL ESPRONCEDA"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
+    "hora": "",
+    "local": "INNOAESTHETICS HC SANT JUST",
+    "visitant": "PREVINTEGRAL CH MOLLERUSSA",
+    "resultat": "",
+    "pista": "PAVELLO SANT JUST"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "23/09/2026",
+    "hora": "",
+    "local": "GENERALI HC PALAU",
+    "visitant": "FENIE ENERGIA CERDANYOLA CCH",
+    "resultat": "",
+    "pista": "PAVELLO PALAU PLEGAMANS"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "23/09/2026",
+    "hora": "",
+    "local": "CH MATARÓ",
+    "visitant": "PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "CH MATARO"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "23/09/2026",
+    "hora": "21:00",
+    "local": "ORKLA BIGUES I RIELLS",
+    "visitant": "MARTINELIA MANLLEU",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN BADELL"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "23/09/2026",
+    "hora": "21:00",
+    "local": "LLEIDANET ALPICAT",
+    "visitant": "CLUB PATÍ VOLTREGÀ",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "FENIE ENERGIA CERDANYOLA CCH",
+    "visitant": "CH MATARÓ",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "MARTINELIA MANLLEU",
+    "visitant": "LLEIDANET ALPICAT",
+    "resultat": "",
+    "pista": "PISTA MANLLEU"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "ORKLA BIGUES I RIELLS",
+    "resultat": "",
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "PHC SANT CUGAT",
+    "visitant": "GENERALI HC PALAU",
+    "resultat": "",
+    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "REUS DEPORTIU BRASILIA",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "PAVELLO REUS DEPORTIU"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "CALAFELL LA MENORQUINA",
+    "visitant": "SHUM FRIT RAVICH",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "CH LLORET VILA ESPORTIVA",
+    "resultat": "",
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "IGUALADA HC",
+    "visitant": "PONS LLEIDA",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "CE NOIA FREIXENET",
+    "visitant": "AMETLLER ORIGEN CP VILAFRANCA",
+    "resultat": "",
+    "pista": "CLUB ESPORTIU NOIA"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "BARÇA",
+    "visitant": "PAS ALCOI",
+    "resultat": "",
+    "pista": "PALAU BLAUGRANA"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "03/10/2026",
+    "hora": "",
+    "local": "MARTINELIA MANLLEU",
+    "visitant": "CLUB PATÍ VOLTREGÀ",
+    "resultat": "",
+    "pista": "PISTA MANLLEU"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "03/10/2026",
+    "hora": "",
+    "local": "GENERALI HC PALAU",
+    "visitant": "CH MATARÓ",
+    "resultat": "",
+    "pista": "PAVELLO PALAU PLEGAMANS"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "03/10/2026",
+    "hora": "",
+    "local": "FENIE ENERGIA CERDANYOLA CCH",
+    "visitant": "PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "03/10/2026",
+    "hora": "",
+    "local": "CH LLORET VILA ESPORTIVA",
+    "visitant": "BARÇA",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "03/10/2026",
+    "hora": "",
+    "local": "AMETLLER ORIGEN CP VILAFRANCA",
+    "visitant": "IGUALADA HC",
+    "resultat": "",
+    "pista": "POLIESPORTIU DE VILAFRANCA"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "03/10/2026",
+    "hora": "",
+    "local": "CE NOIA FREIXENET",
+    "visitant": "PONS LLEIDA",
+    "resultat": "",
+    "pista": "CLUB ESPORTIU NOIA"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "03/10/2026",
+    "hora": "",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "PAS ALCOI",
+    "resultat": "",
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "03/10/2026",
+    "hora": "",
+    "local": "CH CALDES RECAM LÀSER",
+    "visitant": "CALAFELL LA MENORQUINA",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "03/10/2026",
+    "hora": "",
+    "local": "REUS DEPORTIU BRASILIA",
+    "visitant": "SHUM FRIT RAVICH",
+    "resultat": "",
+    "pista": "PAVELLO REUS DEPORTIU"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "03/10/2026",
+    "hora": "20:00",
+    "local": "ORKLA BIGUES I RIELLS",
+    "visitant": "LLEIDANET ALPICAT",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN BADELL"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "10/10/2026",
+    "hora": "",
+    "local": "IGUALADA HC",
+    "visitant": "CE NOIA FREIXENET",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "10/10/2026",
+    "hora": "",
+    "local": "PONS LLEIDA",
+    "visitant": "AMETLLER ORIGEN CP VILAFRANCA",
+    "resultat": "",
+    "pista": "PAVELLO MUNICIPAL ONZE DE SETEMBRE"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "10/10/2026",
+    "hora": "",
+    "local": "BARÇA",
+    "visitant": "CLUB PATÍ VOLTREGÀ",
+    "resultat": "",
+    "pista": "PALAU BLAUGRANA"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "10/10/2026",
+    "hora": "",
+    "local": "CH LLORET VILA ESPORTIVA",
+    "visitant": "PAS ALCOI",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "10/10/2026",
+    "hora": "",
+    "local": "CALAFELL LA MENORQUINA",
+    "visitant": "REUS DEPORTIU BRASILIA",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "10/10/2026",
+    "hora": "",
+    "local": "SHUM FRIT RAVICH",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "PAVELLO SHUM"
+  }
+]
