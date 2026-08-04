@@ -12015,6 +12015,15 @@
     "pista": "PISTA MANLLEU"
   },
   {
+    "competicio": "1ª CATALANA FEMENINA GRUP A",
+    "data": "14/02/2027",
+    "hora": "20:00",
+    "local": "CLUB PATÍ VILA-SANA",
+    "visitant": "PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL DE VILA-SANA"
+  },
+  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "14/02/2027",
     "hora": "20:00",
@@ -12031,15 +12040,6 @@
     "visitant": "CLUB D'ESPORTS VENDRELL",
     "resultat": "",
     "pista": "COMPLEX ESPORTIU DE LES COMES"
-  },
-  {
-    "competicio": "1ª CATALANA FEMENINA GRUP A",
-    "data": "14/02/2027",
-    "hora": "20:00",
-    "local": "CLUB PATÍ VILA-SANA",
-    "visitant": "PHC SANT CUGAT",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL DE VILA-SANA"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -12069,6 +12069,15 @@
     "pista": "CLUB D ESPORTS VENDRELL"
   },
   {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "19/02/2027",
+    "hora": "21:30",
+    "local": "SHUM ALEA",
+    "visitant": "HOQUEI PATINS TONA",
+    "resultat": "",
+    "pista": "PAVELLO SHUM"
+  },
+  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "19/02/2027",
     "hora": "21:30",
@@ -12080,11 +12089,11 @@
   {
     "competicio": "2ª CATALANA GRUP B",
     "data": "19/02/2027",
-    "hora": "21:30",
-    "local": "SHUM ALEA",
-    "visitant": "HOQUEI PATINS TONA",
+    "hora": "21:55",
+    "local": "CH CALDES RECAM LÀSER",
+    "visitant": "CP VILANOVA",
     "resultat": "",
-    "pista": "PAVELLO SHUM"
+    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -12094,15 +12103,6 @@
     "visitant": "CAPELLADES",
     "resultat": "",
     "pista": "POLIESPORTIU DE VILAFRANCA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "19/02/2027",
-    "hora": "21:55",
-    "local": "CH CALDES RECAM LÀSER",
-    "visitant": "CP VILANOVA",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -12141,6 +12141,42 @@
     "pista": "PAVELLO SANT JUST"
   },
   {
+    "competicio": "1ª CATALANA FEMENINA GRUP A",
+    "data": "20/02/2027",
+    "hora": "17:00",
+    "local": "CLUB HOQUEI ARENYS DE MAR",
+    "visitant": "CLUB PATÍ VILA-SANA",
+    "resultat": "",
+    "pista": "PAVELLÓ FONS DE LES CREUS"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP A",
+    "data": "20/02/2027",
+    "hora": "18:00",
+    "local": "CEH OLÍMPIC REUS",
+    "visitant": "INNOAESTHETICS HC SANT JUST",
+    "resultat": "",
+    "pista": "PAVELLÓ CELIA ARTIGA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "20/02/2027",
+    "hora": "18:00",
+    "local": "CLUB PATÍ CENTELLES",
+    "visitant": "CP BLANES",
+    "resultat": "",
+    "pista": "PAVELLÓ D ESPORTS DE CENTELLES"
+  },
+  {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "20/02/2027",
+    "hora": "18:00",
+    "local": "ROTOTANK BIGUES I RIELLS",
+    "visitant": "MARTINELIA MANLLEU",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN BADELL"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "20/02/2027",
     "hora": "18:00",
@@ -12161,29 +12197,11 @@
   {
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "20/02/2027",
-    "hora": "18:00",
-    "local": "ROTOTANK BIGUES I RIELLS",
-    "visitant": "MARTINELIA MANLLEU",
+    "hora": "18:15",
+    "local": "IGUALADA FEMENÍ GRUPO GUZMÁN",
+    "visitant": "CLUB ESPORTIU OLESA PATÍ",
     "resultat": "",
-    "pista": "PAVELLÓ CAN BADELL"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "20/02/2027",
-    "hora": "18:00",
-    "local": "CLUB PATÍ CENTELLES",
-    "visitant": "CP BLANES",
-    "resultat": "",
-    "pista": "PAVELLÓ D ESPORTS DE CENTELLES"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "20/02/2027",
-    "hora": "18:00",
-    "local": "CEH OLÍMPIC REUS",
-    "visitant": "INNOAESTHETICS HC SANT JUST",
-    "resultat": "",
-    "pista": "PAVELLÓ CELIA ARTIGA"
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -12193,15 +12211,6 @@
     "visitant": "CH MATARÓ",
     "resultat": "",
     "pista": "IEM MARTORELL"
-  },
-  {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "20/02/2027",
-    "hora": "18:15",
-    "local": "IGUALADA FEMENÍ GRUPO GUZMÁN",
-    "visitant": "CLUB ESPORTIU OLESA PATÍ",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -12231,13 +12240,13 @@
     "pista": "CEM SAGNIER"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
+    "competicio": "1ª CATALANA GRUP A",
     "data": "20/02/2027",
     "hora": "19:00",
-    "local": "CAMBRILS CH",
-    "visitant": "CAPELLADES",
+    "local": "UNIÓ ESPORTIVA D'HORTA",
+    "visitant": "ROTOTANK BIGUES I RIELLS",
     "resultat": "",
-    "pista": "CAMBRILS ESPORT"
+    "pista": "PISTA UE HORTA"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -12249,16 +12258,16 @@
     "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "competicio": "1ª CATALANA GRUP B",
     "data": "20/02/2027",
     "hora": "19:00",
-    "local": "UNIÓ ESPORTIVA D'HORTA",
-    "visitant": "ROTOTANK BIGUES I RIELLS",
+    "local": "CAMBRILS CH",
+    "visitant": "CAPELLADES",
     "resultat": "",
-    "pista": "PISTA UE HORTA"
+    "pista": "CAMBRILS ESPORT"
   },
   {
-    "competicio": "1ª CATALANA GRUP A",
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
     "data": "20/02/2027",
     "hora": "19:00",
     "local": "UNIÓ ESPORTIVA D'HORTA",
@@ -12276,15 +12285,6 @@
     "pista": "PISTA TORRELLES"
   },
   {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "20/02/2027",
-    "hora": "19:30",
-    "local": "AMETLLER ORIGEN CP VILAFRANCA",
-    "visitant": "CP VILANOVA LA DAURADA",
-    "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
-  },
-  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "20/02/2027",
     "hora": "19:30",
@@ -12294,13 +12294,13 @@
     "pista": "TORDERA"
   },
   {
-    "competicio": "NACIONAL CATALANA MASCULINA",
+    "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "20/02/2027",
-    "hora": "19:45",
-    "local": "CAPELLADES",
-    "visitant": "CLUB PATÍ VOLTREGÀ - MASIES",
+    "hora": "19:30",
+    "local": "AMETLLER ORIGEN CP VILAFRANCA",
+    "visitant": "CP VILANOVA LA DAURADA",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
+    "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -12312,13 +12312,13 @@
     "pista": "PAVELLÓ MUNICIPAL MALGRAT"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
+    "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "20/02/2027",
     "hora": "19:45",
-    "local": "CP RIUDEBITLLES",
-    "visitant": "CP RIUDOMS",
+    "local": "CAPELLADES",
+    "visitant": "CLUB PATÍ VOLTREGÀ - MASIES",
     "resultat": "",
-    "pista": "PAVELLO RIUDEBITLLES"
+    "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -12328,6 +12328,24 @@
     "visitant": "CLUB PATÍ BELL-LLOC",
     "resultat": "",
     "pista": "PAVELLÓ DANI PEDROSA"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "20/02/2027",
+    "hora": "19:45",
+    "local": "CP RIUDEBITLLES",
+    "visitant": "CP RIUDOMS",
+    "resultat": "",
+    "pista": "PAVELLO RIUDEBITLLES"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "20/02/2027",
+    "hora": "19:45",
+    "local": "CH FIGUERES",
+    "visitant": "CP SUBUR SITGES",
+    "resultat": "",
+    "pista": "PAVELLÓ ESPORTIU RAFEL MORA"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -12357,24 +12375,6 @@
     "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
   },
   {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "20/02/2027",
-    "hora": "19:45",
-    "local": "CH FIGUERES",
-    "visitant": "CP SUBUR SITGES",
-    "resultat": "",
-    "pista": "PAVELLÓ ESPORTIU RAFEL MORA"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "20/02/2027",
-    "hora": "20:00",
-    "local": "SANT CELONI",
-    "visitant": "MARTINELIA MANLLEU",
-    "resultat": "",
-    "pista": "MUNICIPAL D ESPORTS SANT CELONI"
-  },
-  {
     "competicio": "2ª CATALANA GRUP B",
     "data": "20/02/2027",
     "hora": "20:00",
@@ -12393,6 +12393,24 @@
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "20/02/2027",
+    "hora": "20:00",
+    "local": "SANT CELONI",
+    "visitant": "MARTINELIA MANLLEU",
+    "resultat": "",
+    "pista": "MUNICIPAL D ESPORTS SANT CELONI"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "20/02/2027",
+    "hora": "20:00",
+    "local": "CLUB HOQUEI SANTA PERPÈTUA",
+    "visitant": "HCSENTMENAT",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL STA PERPETUA"
+  },
+  {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "20/02/2027",
     "hora": "20:00",
@@ -12400,6 +12418,15 @@
     "visitant": "CP BLANES",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "20/02/2027",
+    "hora": "20:00",
+    "local": "GIRONA CLUB HOQUEI",
+    "visitant": "PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL PALAU 2"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
@@ -12418,24 +12445,6 @@
     "visitant": "CP TARADELL",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "20/02/2027",
-    "hora": "20:00",
-    "local": "GIRONA CLUB HOQUEI",
-    "visitant": "PHC SANT CUGAT",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL PALAU 2"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "20/02/2027",
-    "hora": "20:00",
-    "local": "CLUB HOQUEI SANTA PERPÈTUA",
-    "visitant": "HCSENTMENAT",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL STA PERPETUA"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -12490,15 +12499,6 @@
     "visitant": "OXFORD HC SALT",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL DE VILA-SANA"
-  },
-  {
-    "competicio": "1ª CATALANA FEMENINA GRUP A",
-    "data": "21/02/2027",
-    "hora": "12:15",
-    "local": "CLUB HOQUEI ARENYS DE MAR",
-    "visitant": "CLUB PATÍ VILA-SANA",
-    "resultat": "",
-    "pista": "PAVELLÓ FONS DE LES CREUS"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
