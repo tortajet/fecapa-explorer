@@ -306,6 +306,15 @@
     "pista": "CH MATARO"
   },
   {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "20/09/2026",
+    "hora": "12:30",
+    "local": "CH CALDES RECAM LÀSER",
+    "visitant": "CAPELLADES",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
+  },
+  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "20/09/2026",
     "hora": "12:30",
@@ -322,15 +331,6 @@
     "visitant": "MARTINELIA MANLLEU",
     "resultat": "",
     "pista": "COMPLEX ESPORTIU MUNICIPAL ESPRONCEDA"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "20/09/2026",
-    "hora": "16:30",
-    "local": "CH CALDES RECAM LÀSER",
-    "visitant": "CAPELLADES",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
