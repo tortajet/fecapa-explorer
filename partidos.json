@@ -315,15 +315,6 @@
     "pista": "CH MATARO"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "20/09/2026",
-    "hora": "12:30",
-    "local": "CLUB PATI VILAFRANCA AKO",
-    "visitant": "CH PALAFRUGELL",
-    "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
-  },
-  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "20/09/2026",
     "hora": "13:00",
@@ -349,6 +340,15 @@
     "visitant": "CLUB PATI CUBELLES",
     "resultat": "",
     "pista": "CLUB D ESPORTS VENDRELL"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "20/09/2026",
+    "hora": "19:30",
+    "local": "CLUB PATI VILAFRANCA AKO",
+    "visitant": "CH PALAFRUGELL",
+    "resultat": "",
+    "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
