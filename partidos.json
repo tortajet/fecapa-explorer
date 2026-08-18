@@ -198,15 +198,6 @@
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "19/09/2026",
-    "hora": "16:00",
-    "local": "HOQUEI CLUB CASTELLAR",
-    "visitant": "ANDBANK- ANDORRA HOQUEI CLUB",
-    "resultat": "",
-    "pista": "PAVELLÓ DANI PEDROSA"
-  },
-  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "19/09/2026",
     "hora": "18:00",
@@ -243,6 +234,15 @@
     "pista": "TORDERA"
   },
   {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "19/09/2026",
+    "hora": "19:30",
+    "local": "HOQUEI CLUB CASTELLAR",
+    "visitant": "ANDBANK- ANDORRA HOQUEI CLUB",
+    "resultat": "",
+    "pista": "PAVELLÓ DANI PEDROSA"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "19/09/2026",
     "hora": "19:45",
@@ -250,15 +250,6 @@
     "visitant": "HCSENTMENAT",
     "resultat": "",
     "pista": "PAVELLO RIUDEBITLLES"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "19/09/2026",
-    "hora": "19:45",
-    "local": "GENERALI HC PALAU",
-    "visitant": "ROTOTANK BIGUES I RIELLS",
-    "resultat": "",
-    "pista": "PAVELLO PALAU PLEGAMANS"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -270,13 +261,13 @@
     "pista": "PAVELLO CP MONJOS"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
+    "competicio": "1ª CATALANA GRUP A",
     "data": "19/09/2026",
-    "hora": "20:00",
-    "local": "AUTO VIGATANA PATÍ VIC",
-    "visitant": "CH VILA-SECA-CEH OLIMPIC",
+    "hora": "19:45",
+    "local": "GENERALI HC PALAU",
+    "visitant": "ROTOTANK BIGUES I RIELLS",
     "resultat": "",
-    "pista": "PAVELLO ESPORTIU CP VIC"
+    "pista": "PAVELLO PALAU PLEGAMANS"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -289,21 +280,21 @@
   },
   {
     "competicio": "1ª CATALANA GRUP B",
+    "data": "19/09/2026",
+    "hora": "20:00",
+    "local": "AUTO VIGATANA PATÍ VIC",
+    "visitant": "CH VILA-SECA-CEH OLIMPIC",
+    "resultat": "",
+    "pista": "PAVELLO ESPORTIU CP VIC"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
     "data": "20/09/2026",
     "hora": "12:30",
     "local": "CH MATARÓ",
     "visitant": "CLUB PATI CALAFELL",
     "resultat": "",
     "pista": "CH MATARO"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "20/09/2026",
-    "hora": "12:30",
-    "local": "CH RIPOLLET",
-    "visitant": "CP CONGRÉS",
-    "resultat": "",
-    "pista": "PAVELLÓ RIPOLLET"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -313,6 +304,15 @@
     "visitant": "CAPELLADES",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "20/09/2026",
+    "hora": "12:30",
+    "local": "CH RIPOLLET",
+    "visitant": "CP CONGRÉS",
+    "resultat": "",
+    "pista": "PAVELLÓ RIPOLLET"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -390,19 +390,19 @@
     "competicio": "1ª CATALANA GRUP A",
     "data": "25/09/2026",
     "hora": "20:45",
-    "local": "CE TORRELAVIT FONT PACKAGING",
-    "visitant": "HOQUEI CLUB CASTELLAR",
+    "local": "MARTINELIA MANLLEU",
+    "visitant": "GENERALI HC PALAU",
     "resultat": "",
-    "pista": "PAVELLÓ  MUNICIPAL TORRELAVIT"
+    "pista": "PISTA MANLLEU"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
     "data": "25/09/2026",
     "hora": "20:45",
-    "local": "MARTINELIA MANLLEU",
-    "visitant": "GENERALI HC PALAU",
+    "local": "CE TORRELAVIT FONT PACKAGING",
+    "visitant": "HOQUEI CLUB CASTELLAR",
     "resultat": "",
-    "pista": "PISTA MANLLEU"
+    "pista": "PAVELLÓ  MUNICIPAL TORRELAVIT"
   },
   {
     "competicio": "2ª CATALANA GRUP A",
@@ -412,15 +412,6 @@
     "visitant": "CE NOIA FREIXENET",
     "resultat": "",
     "pista": "PAVELLÓ D ESPORTS CAN VIOLÍ"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "25/09/2026",
-    "hora": "21:30",
-    "local": "CLUB HOQUEI MOLLERUSSA",
-    "visitant": "HC VALLS INTEC ENGINYERIA",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL MOLLERUSSA"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -439,6 +430,15 @@
     "visitant": "SANT CELONI",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP A",
+    "data": "25/09/2026",
+    "hora": "21:30",
+    "local": "CLUB HOQUEI MOLLERUSSA",
+    "visitant": "HC VALLS INTEC ENGINYERIA",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL MOLLERUSSA"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
