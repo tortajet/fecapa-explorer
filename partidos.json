@@ -243,6 +243,15 @@
     "pista": "PAVELLÓ DANI PEDROSA"
   },
   {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "19/09/2026",
+    "hora": "19:30",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "FARNERS",
+    "resultat": "",
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "19/09/2026",
     "hora": "19:45",
@@ -261,15 +270,6 @@
     "pista": "PAVELLO PALAU PLEGAMANS"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "19/09/2026",
-    "hora": "20:00",
-    "local": "AUTO VIGATANA PATÍ VIC",
-    "visitant": "CH VILA-SECA-CEH OLIMPIC",
-    "resultat": "",
-    "pista": "PAVELLO ESPORTIU CP VIC"
-  },
-  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "19/09/2026",
     "hora": "20:00",
@@ -277,6 +277,15 @@
     "visitant": "UNIÓ ESPORTIVA D'HORTA",
     "resultat": "",
     "pista": "MUNICIPAL D ESPORTS SANT CELONI"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "19/09/2026",
+    "hora": "20:00",
+    "local": "AUTO VIGATANA PATÍ VIC",
+    "visitant": "CH VILA-SECA-CEH OLIMPIC",
+    "resultat": "",
+    "pista": "PAVELLO ESPORTIU CP VIC"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -326,15 +335,6 @@
   {
     "competicio": "1ª CATALANA GRUP A",
     "data": "20/09/2026",
-    "hora": "18:15",
-    "local": "CLUB PATÍ VOLTREGÀ",
-    "visitant": "FARNERS",
-    "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "20/09/2026",
     "hora": "18:30",
     "local": "CLUB ESPORTS VENDRELL",
     "visitant": "CLUB PATI CUBELLES",
@@ -372,19 +372,19 @@
     "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
     "data": "23/09/2026",
     "hora": "21:00",
-    "local": "ORKLA BIGUES I RIELLS",
-    "visitant": "MARTINELIA MANLLEU",
+    "local": "LLEIDANET ALPICAT",
+    "visitant": "CLUB PATÍ VOLTREGÀ",
     "resultat": "",
-    "pista": "PAVELLÓ CAN BADELL"
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
   },
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
     "data": "23/09/2026",
     "hora": "21:00",
-    "local": "LLEIDANET ALPICAT",
-    "visitant": "CLUB PATÍ VOLTREGÀ",
+    "local": "ORKLA BIGUES I RIELLS",
+    "visitant": "MARTINELIA MANLLEU",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
+    "pista": "PAVELLÓ CAN BADELL"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -414,15 +414,6 @@
     "pista": "PAVELLÓ D ESPORTS CAN VIOLÍ"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "25/09/2026",
-    "hora": "21:30",
-    "local": "CLUB PATI CALAFELL",
-    "visitant": "AUTO VIGATANA PATÍ VIC",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
-  },
-  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "25/09/2026",
     "hora": "21:30",
@@ -432,13 +423,13 @@
     "pista": "PAVELLÓ MUNICIPAL MOLLERUSSA"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
+    "competicio": "1ª CATALANA GRUP B",
     "data": "25/09/2026",
     "hora": "21:30",
-    "local": "CLUB D'ESPORTS VENDRELL",
-    "visitant": "CP BLANES",
+    "local": "CLUB PATI CALAFELL",
+    "visitant": "AUTO VIGATANA PATÍ VIC",
     "resultat": "",
-    "pista": "CLUB D ESPORTS VENDRELL"
+    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -448,6 +439,15 @@
     "visitant": "SANT CELONI",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "25/09/2026",
+    "hora": "21:30",
+    "local": "CLUB D'ESPORTS VENDRELL",
+    "visitant": "CP BLANES",
+    "resultat": "",
+    "pista": "CLUB D ESPORTS VENDRELL"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -15705,15 +15705,6 @@
     "pista": "PAVELLÓ MUNICIPAL MOLLERUSSA"
   },
   {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "09/04/2027",
-    "hora": "21:30",
-    "local": "HCSENTMENAT",
-    "visitant": "SE LA SALLE BONANOVA  A",
-    "resultat": "",
-    "pista": "PAVELLÓ HOQUEI SENTMENAT"
-  },
-  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "09/04/2027",
     "hora": "21:30",
@@ -15721,6 +15712,15 @@
     "visitant": "ANDBANK- ANDORRA HOQUEI CLUB",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "09/04/2027",
+    "hora": "21:30",
+    "local": "HCSENTMENAT",
+    "visitant": "SE LA SALLE BONANOVA  A",
+    "resultat": "",
+    "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -15779,20 +15779,20 @@
   {
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "10/04/2027",
+    "hora": "17:30",
+    "local": "AMETLLER ORIGEN CP VILAFRANCA",
+    "visitant": "MARTINELIA MANLLEU",
+    "resultat": "",
+    "pista": "POLIESPORTIU DE VILAFRANCA"
+  },
+  {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "10/04/2027",
     "hora": "17:45",
     "local": "CP VILANOVA LA DAURADA",
     "visitant": "CLUB ESPORTIU OLESA PATÍ",
     "resultat": "",
     "pista": "PAVELLÓ DE LES CASERNES"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "10/04/2027",
-    "hora": "18:00",
-    "local": "HOQUEI PATINS TONA",
-    "visitant": "CH CALDES RECAM LÀSER",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL DE TONA"
   },
   {
     "competicio": "2ª CATALANA GRUP A",
@@ -15802,6 +15802,15 @@
     "visitant": "UNIÓ ESPORTIVA LA GARRIGA",
     "resultat": "",
     "pista": "PAVELLÓ CELIA ARTIGA"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "10/04/2027",
+    "hora": "18:00",
+    "local": "HOQUEI PATINS TONA",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL DE TONA"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -15831,15 +15840,6 @@
     "pista": "CEM SAGNIER"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "10/04/2027",
-    "hora": "19:00",
-    "local": "CLUB PATÍ RIBES FRESER",
-    "visitant": "IGUALADA HC",
-    "resultat": "",
-    "pista": "PAVELLO RIBES DE FRESER"
-  },
-  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "10/04/2027",
     "hora": "19:00",
@@ -15849,15 +15849,6 @@
     "pista": "CAMBRILS ESPORT"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
-    "data": "10/04/2027",
-    "hora": "19:00",
-    "local": "UNIÓ ESPORTIVA D'HORTA",
-    "visitant": "CLUB PATI VILAFRANCA AKO",
-    "resultat": "",
-    "pista": "PISTA UE HORTA"
-  },
-  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "10/04/2027",
     "hora": "19:00",
@@ -15865,6 +15856,15 @@
     "visitant": "CH JUNEDA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
+  },
+  {
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "data": "10/04/2027",
+    "hora": "19:00",
+    "local": "UNIÓ ESPORTIVA D'HORTA",
+    "visitant": "CLUB PATI VILAFRANCA AKO",
+    "resultat": "",
+    "pista": "PISTA UE HORTA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -15885,13 +15885,13 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
-    "competicio": "NACIONAL CATALANA FEMENINA",
+    "competicio": "2ª CATALANA GRUP D",
     "data": "10/04/2027",
-    "hora": "19:30",
-    "local": "AMETLLER ORIGEN CP VILAFRANCA",
-    "visitant": "MARTINELIA MANLLEU",
+    "hora": "19:00",
+    "local": "CLUB PATÍ RIBES FRESER",
+    "visitant": "IGUALADA HC",
     "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
+    "pista": "PAVELLO RIBES DE FRESER"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -15933,19 +15933,19 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "10/04/2027",
     "hora": "19:45",
-    "local": "CLUB PATÍ MONJOS PANSALUD",
-    "visitant": "CLUB PATI VILAFRANCA AKO",
+    "local": "CHP SANT FELIU",
+    "visitant": "CH VILA-SECA-CEH OLIMPIC",
     "resultat": "",
-    "pista": "PAVELLO CP MONJOS"
+    "pista": "PAVELLÓ FRANCESC CASSART"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
     "data": "10/04/2027",
     "hora": "19:45",
-    "local": "CHP SANT FELIU",
-    "visitant": "CH VILA-SECA-CEH OLIMPIC",
+    "local": "CLUB PATÍ MONJOS PANSALUD",
+    "visitant": "CLUB PATI VILAFRANCA AKO",
     "resultat": "",
-    "pista": "PAVELLÓ FRANCESC CASSART"
+    "pista": "PAVELLO CP MONJOS"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
