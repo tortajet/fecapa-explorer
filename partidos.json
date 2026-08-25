@@ -11,7 +11,16 @@
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
     "data": "29/08/2026",
-    "hora": "",
+    "hora": "18:00",
+    "local": "MARTINELIA MANLLEU",
+    "visitant": "CLUB PATI TORDERA",
+    "resultat": "",
+    "pista": "PISTA MANLLEU"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "29/08/2026",
+    "hora": "19:30",
     "local": "AUTO VIGATANA PATÍ VIC",
     "visitant": "CLUB D'ESPORTS VENDRELL",
     "resultat": "",
@@ -20,29 +29,11 @@
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
     "data": "29/08/2026",
-    "hora": "",
-    "local": "CH MATARÓ",
-    "visitant": "CP CONGRES",
-    "resultat": "",
-    "pista": "CH MATARO"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
-    "data": "29/08/2026",
-    "hora": "",
+    "hora": "19:30",
     "local": "CE NOIA FREIXENET",
     "visitant": "B-SENSIBLE CH OLOT",
     "resultat": "",
     "pista": "CLUB ESPORTIU NOIA"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
-    "data": "29/08/2026",
-    "hora": "18:00",
-    "local": "MARTINELIA MANLLEU",
-    "visitant": "CLUB PATI TORDERA",
-    "resultat": "",
-    "pista": "PISTA MANLLEU"
   },
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
@@ -64,6 +55,24 @@
   },
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "29/08/2026",
+    "hora": "20:00",
+    "local": "CH MATARÓ",
+    "visitant": "CP CONGRES",
+    "resultat": "",
+    "pista": "CH MATARO"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "01/09/2026",
+    "hora": "20:45",
+    "local": "CP CONGRES",
+    "visitant": "CE NOIA FREIXENET",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
     "data": "01/09/2026",
     "hora": "21:00",
     "local": "SDESPANYOL",
@@ -74,29 +83,20 @@
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
     "data": "02/09/2026",
-    "hora": "",
-    "local": "B-SENSIBLE CH OLOT",
-    "visitant": "CH MATARÓ",
+    "hora": "20:00",
+    "local": "VICIO PHC SANT CUGAT",
+    "visitant": "AUTO VIGATANA PATÍ VIC",
     "resultat": "",
-    "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
-    "data": "02/09/2026",
-    "hora": "",
-    "local": "CP CONGRES",
-    "visitant": "CE NOIA FREIXENET",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
+    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
     "data": "02/09/2026",
     "hora": "20:00",
-    "local": "PHC SANT CUGAT",
-    "visitant": "AUTO VIGATANA PATÍ VIC",
+    "local": "B-SENSIBLE CH OLOT",
+    "visitant": "CH MATARÓ",
     "resultat": "",
-    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
+    "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
   },
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
@@ -128,33 +128,6 @@
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
     "data": "05/09/2026",
-    "hora": "",
-    "local": "CLUB D'ESPORTS VENDRELL",
-    "visitant": "PHC SANT CUGAT",
-    "resultat": "",
-    "pista": "CLUB D ESPORTS VENDRELL"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
-    "data": "05/09/2026",
-    "hora": "",
-    "local": "CP CONGRES",
-    "visitant": "B-SENSIBLE CH OLOT",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
-    "data": "05/09/2026",
-    "hora": "",
-    "local": "CH MATARÓ",
-    "visitant": "CE NOIA FREIXENET",
-    "resultat": "",
-    "pista": "CH MATARO"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
-    "data": "05/09/2026",
     "hora": "12:00",
     "local": "CLUB PATI TORDERA",
     "visitant": "GEIEG",
@@ -164,11 +137,38 @@
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
     "data": "05/09/2026",
+    "hora": "17:30",
+    "local": "CP CONGRES",
+    "visitant": "B-SENSIBLE CH OLOT",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
+    "hora": "19:30",
+    "local": "CLUB D'ESPORTS VENDRELL",
+    "visitant": "VICIO PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "CLUB D ESPORTS VENDRELL"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
     "hora": "20:00",
     "local": "INNOAESTHETICS HC SANT JUST",
     "visitant": "PREVINTEGRAL CH MOLLERUSSA",
     "resultat": "",
     "pista": "PAVELLO SANT JUST"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
+    "data": "05/09/2026",
+    "hora": "20:00",
+    "local": "CH MATARÓ",
+    "visitant": "CE NOIA FREIXENET",
+    "resultat": "",
+    "pista": "CH MATARO"
   },
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
@@ -182,7 +182,7 @@
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA PLATA",
     "data": "06/09/2026",
-    "hora": "13:30",
+    "hora": "13:00",
     "local": "SDESPANYOL",
     "visitant": "CH PALAFRUGELL",
     "resultat": "",
@@ -192,19 +192,10 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "19/09/2026",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CH LLORET FITEL NETWORK",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "19/09/2026",
-    "hora": "18:00",
-    "local": "HOQUEI PATINS TONA",
-    "visitant": "CHP SANT FELIU",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL DE TONA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -218,20 +209,20 @@
   {
     "competicio": "1ª CATALANA GRUP B",
     "data": "19/09/2026",
+    "hora": "18:00",
+    "local": "HOQUEI PATINS TONA",
+    "visitant": "CHP SANT FELIU",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL DE TONA"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "19/09/2026",
     "hora": "19:00",
     "local": "CAMBRILS CH",
     "visitant": "CP RIUDOMS",
     "resultat": "",
     "pista": "CAMBRILS ESPORT"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "19/09/2026",
-    "hora": "19:30",
-    "local": "CLUB PATI TORDERA",
-    "visitant": "CE TORRELAVIT FONT PACKAGING",
-    "resultat": "",
-    "pista": "TORDERA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -252,6 +243,15 @@
     "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "19/09/2026",
+    "hora": "19:30",
+    "local": "CLUB PATI TORDERA",
+    "visitant": "CE TORRELAVIT FONT PACKAGING",
+    "resultat": "",
+    "pista": "TORDERA"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "19/09/2026",
     "hora": "19:45",
@@ -270,6 +270,15 @@
     "pista": "PAVELLO PALAU PLEGAMANS"
   },
   {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "19/09/2026",
+    "hora": "20:00",
+    "local": "AUTO VIGATANA PATÍ VIC",
+    "visitant": "CH VILA-SECA-CEH OLIMPIC",
+    "resultat": "",
+    "pista": "PAVELLO ESPORTIU CP VIC"
+  },
+  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "19/09/2026",
     "hora": "20:00",
@@ -281,20 +290,20 @@
   {
     "competicio": "1ª CATALANA GRUP B",
     "data": "19/09/2026",
-    "hora": "20:00",
-    "local": "AUTO VIGATANA PATÍ VIC",
-    "visitant": "CH VILA-SECA-CEH OLIMPIC",
-    "resultat": "",
-    "pista": "PAVELLO ESPORTIU CP VIC"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "19/09/2026",
     "hora": "21:00",
     "local": "CP RIUDEBITLLES",
     "visitant": "HCSENTMENAT",
     "resultat": "",
     "pista": "PAVELLO RIUDEBITLLES"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "20/09/2026",
+    "hora": "12:30",
+    "local": "CH CALDES RECAM LÀSER",
+    "visitant": "CAPELLADES",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -313,15 +322,6 @@
     "visitant": "CLUB PATI CALAFELL",
     "resultat": "",
     "pista": "CH MATARO"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "20/09/2026",
-    "hora": "12:30",
-    "local": "CH CALDES RECAM LÀSER",
-    "visitant": "CAPELLADES",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -355,7 +355,7 @@
     "data": "23/09/2026",
     "hora": "",
     "local": "CH MATARÓ",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "CH MATARO"
   },
@@ -372,28 +372,28 @@
     "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
     "data": "23/09/2026",
     "hora": "21:00",
-    "local": "LLEIDANET ALPICAT",
-    "visitant": "CLUB PATÍ VOLTREGÀ",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
-    "data": "23/09/2026",
-    "hora": "21:00",
     "local": "ORKLA BIGUES I RIELLS",
     "visitant": "MARTINELIA MANLLEU",
     "resultat": "",
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "25/09/2026",
-    "hora": "20:45",
-    "local": "MARTINELIA MANLLEU",
-    "visitant": "GENERALI HC PALAU",
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "23/09/2026",
+    "hora": "21:00",
+    "local": "LLEIDANET ALPICAT",
+    "visitant": "CLUB PATÍ VOLTREGÀ",
     "resultat": "",
-    "pista": "PISTA MANLLEU"
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "24/09/2026",
+    "hora": "21:00",
+    "local": "PONS LLEIDA",
+    "visitant": "AMETLLER ORIGEN CP VILAFRANCA",
+    "resultat": "",
+    "pista": "PAVELLO MUNICIPAL ONZE DE SETEMBRE"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -403,6 +403,15 @@
     "visitant": "HOQUEI CLUB CASTELLAR",
     "resultat": "",
     "pista": "PAVELLÓ  MUNICIPAL TORRELAVIT"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "25/09/2026",
+    "hora": "20:45",
+    "local": "MARTINELIA MANLLEU",
+    "visitant": "GENERALI HC PALAU",
+    "resultat": "",
+    "pista": "PISTA MANLLEU"
   },
   {
     "competicio": "2ª CATALANA GRUP A",
@@ -423,15 +432,6 @@
     "pista": "PAVELLÓ MUNICIPAL MOLLERUSSA"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "25/09/2026",
-    "hora": "21:30",
-    "local": "CLUB PATI CALAFELL",
-    "visitant": "AUTO VIGATANA PATÍ VIC",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
-  },
-  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "25/09/2026",
     "hora": "21:30",
@@ -450,6 +450,15 @@
     "pista": "CLUB D ESPORTS VENDRELL"
   },
   {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "25/09/2026",
+    "hora": "21:30",
+    "local": "CLUB PATI CALAFELL",
+    "visitant": "AUTO VIGATANA PATÍ VIC",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
+  },
+  {
     "competicio": "2ª CATALANA GRUP B",
     "data": "25/09/2026",
     "hora": "21:55",
@@ -457,24 +466,6 @@
     "visitant": "OXFORD HC SALT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
-  },
-  {
-    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
-    "data": "26/09/2026",
-    "hora": "",
-    "local": "IGUALADA HC",
-    "visitant": "PONS LLEIDA",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU DE LES COMES"
-  },
-  {
-    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
-    "data": "26/09/2026",
-    "hora": "",
-    "local": "REUS DEPORTIU BRASILIA",
-    "visitant": "CH CALDES RECAM LÀSER",
-    "resultat": "",
-    "pista": "PAVELLO REUS DEPORTIU"
   },
   {
     "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
@@ -498,10 +489,37 @@
     "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
     "data": "26/09/2026",
     "hora": "",
+    "local": "REUS DEPORTIU BRASILIA",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "PAVELLO REUS DEPORTIU"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "IGUALADA HC",
+    "visitant": "PONS LLEIDA",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "26/09/2026",
+    "hora": "",
     "local": "BARÇA",
     "visitant": "PAS ALCOI",
     "resultat": "",
     "pista": "PALAU BLAUGRANA"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "26/09/2026",
+    "hora": "",
+    "local": "FENIE ENERGIA CERDANYOLA CCH",
+    "visitant": "CH MATARÓ",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
   },
   {
     "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
@@ -516,28 +534,10 @@
     "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
     "data": "26/09/2026",
     "hora": "",
-    "local": "FENIE ENERGIA CERDANYOLA CCH",
-    "visitant": "CH MATARÓ",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
-    "data": "26/09/2026",
-    "hora": "",
     "local": "CLUB PATÍ VOLTREGÀ",
     "visitant": "ORKLA BIGUES I RIELLS",
     "resultat": "",
     "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
-  },
-  {
-    "competicio": "1ª CATALANA FEMENINA GRUP A",
-    "data": "26/09/2026",
-    "hora": "16:00",
-    "local": "PHC SANT CUGAT",
-    "visitant": "IGUALADA FEMENÍ HCP",
-    "resultat": "",
-    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
     "competicio": "2ª CATALANA GRUP A",
@@ -551,11 +551,38 @@
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "26/09/2026",
+    "hora": "16:00",
+    "local": "VICIO PHC SANT CUGAT",
+    "visitant": "IGUALADA FEMENÍ HCP",
+    "resultat": "",
+    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
+  },
+  {
+    "competicio": "1ª CATALANA FEMENINA GRUP A",
+    "data": "26/09/2026",
     "hora": "17:00",
     "local": "CLUB HOQUEI ARENYS DE MAR",
     "visitant": "MOLLET HC",
     "resultat": "",
     "pista": "PAVELLÓ FONS DE LES CREUS"
+  },
+  {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "26/09/2026",
+    "hora": "18:00",
+    "local": "ROTOTANK BIGUES I RIELLS",
+    "visitant": "VICIO PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN BADELL"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "26/09/2026",
+    "hora": "18:00",
+    "local": "CH LLORET FITEL NETWORK",
+    "visitant": "CAMBRILS CH",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
   },
   {
     "competicio": "2ª CATALANA GRUP A",
@@ -576,22 +603,13 @@
     "pista": "PAVELLÓ D ESPORTS DE CENTELLES"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
+    "competicio": "2ª CATALANA GRUP B",
     "data": "26/09/2026",
-    "hora": "18:00",
-    "local": "CH LLORET FITEL NETWORK",
-    "visitant": "CAMBRILS CH",
+    "hora": "18:15",
+    "local": "CHP MARTORELL",
+    "visitant": "CP VILANOVA",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
-  },
-  {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "26/09/2026",
-    "hora": "18:00",
-    "local": "ROTOTANK BIGUES I RIELLS",
-    "visitant": "PHC SANT CUGAT",
-    "resultat": "",
-    "pista": "PAVELLÓ CAN BADELL"
+    "pista": "IEM MARTORELL"
   },
   {
     "competicio": "NACIONAL CATALANA FEMENINA",
@@ -603,13 +621,13 @@
     "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
-    "competicio": "2ª CATALANA GRUP B",
+    "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "26/09/2026",
-    "hora": "18:15",
-    "local": "CHP MARTORELL",
-    "visitant": "CP VILANOVA",
+    "hora": "18:30",
+    "local": "UEH BARBERÀ",
+    "visitant": "CH CALDES RECAM LÀSER",
     "resultat": "",
-    "pista": "IEM MARTORELL"
+    "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -621,15 +639,6 @@
     "pista": "PAVELLÓ FONS DE LES CREUS"
   },
   {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "26/09/2026",
-    "hora": "18:30",
-    "local": "UEH BARBERÀ",
-    "visitant": "CH CALDES RECAM LÀSER",
-    "resultat": "",
-    "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
-  },
-  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "26/09/2026",
     "hora": "18:45",
@@ -637,15 +646,6 @@
     "visitant": "HOQUEI CLUB ALPICAT",
     "resultat": "",
     "pista": "CEM SAGNIER"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "26/09/2026",
-    "hora": "19:00",
-    "local": "CE ARENYS DE MUNT SOLARTRADEX",
-    "visitant": "CLUB PATÍ VOLTREGÀ - MASIES",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -666,6 +666,15 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "data": "26/09/2026",
+    "hora": "19:00",
+    "local": "UNIÓ ESPORTIVA D'HORTA",
+    "visitant": "CLUB PATI CUBELLES",
+    "resultat": "",
+    "pista": "PISTA UE HORTA"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "26/09/2026",
     "hora": "19:00",
@@ -675,13 +684,13 @@
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "26/09/2026",
     "hora": "19:00",
-    "local": "UNIÓ ESPORTIVA D'HORTA",
-    "visitant": "CLUB PATI CUBELLES",
+    "local": "CE ARENYS DE MUNT SOLARTRADEX",
+    "visitant": "CLUB PATÍ VOLTREGÀ - MASIES",
     "resultat": "",
-    "pista": "PISTA UE HORTA"
+    "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
   },
   {
     "competicio": "NACIONAL CATALANA FEMENINA",
@@ -693,15 +702,6 @@
     "pista": "PISTA TORRELLES"
   },
   {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "26/09/2026",
-    "hora": "19:30",
-    "local": "AMETLLER ORIGEN CP VILAFRANCA",
-    "visitant": "CLUB PATÍ VILA-SANA",
-    "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
-  },
-  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "26/09/2026",
     "hora": "19:30",
@@ -711,49 +711,13 @@
     "pista": "POLIESPORTIU RIPOLL"
   },
   {
-    "competicio": "2ª CATALANA GRUP C",
+    "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "26/09/2026",
-    "hora": "19:45",
-    "local": "CLUB PATÍ MALGRAT GRUP ESCOBAR",
-    "visitant": "HCSENTMENAT",
+    "hora": "19:30",
+    "local": "AMETLLER ORIGEN CP VILAFRANCA",
+    "visitant": "CLUB PATÍ VILA-SANA",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL MALGRAT"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
-    "data": "26/09/2026",
-    "hora": "19:45",
-    "local": "PHC SANT CUGAT",
-    "visitant": "GENERALI HC PALAU",
-    "resultat": "",
-    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "26/09/2026",
-    "hora": "19:45",
-    "local": "HOQUEI CLUB CASTELLAR",
-    "visitant": "CLUB HOQUEI CADÍ",
-    "resultat": "",
-    "pista": "PAVELLÓ DANI PEDROSA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "26/09/2026",
-    "hora": "19:45",
-    "local": "CH OLOT B",
-    "visitant": "SHUM ALEA",
-    "resultat": "",
-    "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "26/09/2026",
-    "hora": "19:45",
-    "local": "CHP SANT FELIU",
-    "visitant": "PHC SANT CUGAT",
-    "resultat": "",
-    "pista": "PAVELLÓ FRANCESC CASSART"
+    "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -765,6 +729,51 @@
     "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
   },
   {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "26/09/2026",
+    "hora": "19:45",
+    "local": "CH OLOT B",
+    "visitant": "SHUM ALEA",
+    "resultat": "",
+    "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "26/09/2026",
+    "hora": "19:45",
+    "local": "CLUB PATÍ MALGRAT GRUP ESCOBAR",
+    "visitant": "HCSENTMENAT",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL MALGRAT"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "26/09/2026",
+    "hora": "19:45",
+    "local": "HOQUEI CLUB CASTELLAR",
+    "visitant": "CLUB HOQUEI CADÍ",
+    "resultat": "",
+    "pista": "PAVELLÓ DANI PEDROSA"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "26/09/2026",
+    "hora": "19:45",
+    "local": "CHP SANT FELIU",
+    "visitant": "VICIO PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "PAVELLÓ FRANCESC CASSART"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "26/09/2026",
+    "hora": "19:45",
+    "local": "VICIO PHC SANT CUGAT",
+    "visitant": "GENERALI HC PALAU",
+    "resultat": "",
+    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
+  },
+  {
     "competicio": "2ª CATALANA GRUP C",
     "data": "26/09/2026",
     "hora": "19:45",
@@ -772,6 +781,24 @@
     "visitant": "CLUB PATÍ RODA",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU RAFEL MORA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "26/09/2026",
+    "hora": "20:00",
+    "local": "CLUB HOQUEI SANTA PERPÈTUA",
+    "visitant": "CPI SANT IGNASI",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL STA PERPETUA"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "26/09/2026",
+    "hora": "20:00",
+    "local": "LLEIDANET ALPICAT",
+    "visitant": "CAPELLADES",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -795,46 +822,10 @@
     "competicio": "2ª CATALANA GRUP C",
     "data": "26/09/2026",
     "hora": "20:00",
-    "local": "CLUB HOQUEI SANTA PERPÈTUA",
-    "visitant": "CPI SANT IGNASI",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL STA PERPETUA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "26/09/2026",
-    "hora": "20:00",
-    "local": "ELECTRO AD CP MASQUEFA",
-    "visitant": "LLISTA-BELL-LLOC",
-    "resultat": "",
-    "pista": "PAVELLÓ DE MASQUEFA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "26/09/2026",
-    "hora": "20:00",
     "local": "CP SUBUR SITGES",
     "visitant": "CP JONQUERENC",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL SITGES PINS VENS"
-  },
-  {
-    "competicio": "1ª CATALANA FEMENINA GRUP A",
-    "data": "26/09/2026",
-    "hora": "20:00",
-    "local": "CE ARENYS DE MUNT MUNTBIKES",
-    "visitant": "FENIE ENERGIA CERDANYOLA CCH",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "26/09/2026",
-    "hora": "20:00",
-    "local": "LLEIDANET ALPICAT",
-    "visitant": "CAPELLADES",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
@@ -846,13 +837,13 @@
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "competicio": "2ª CATALANA GRUP B",
     "data": "26/09/2026",
     "hora": "20:00",
-    "local": "CLUB PATÍ VOLTREGÀ",
-    "visitant": "SFERIC",
+    "local": "ELECTRO AD CP MASQUEFA",
+    "visitant": "LLISTA-BELL-LLOC",
     "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+    "pista": "PAVELLÓ DE MASQUEFA"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -864,13 +855,22 @@
     "pista": "PAVELLÓ MUNICIPAL PALAU 2"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
     "data": "26/09/2026",
-    "hora": "21:00",
-    "local": "CLUB PATI CALAFELL",
-    "visitant": "IGUALADA HC",
+    "hora": "20:00",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "SFERIC",
     "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
+    "competicio": "1ª CATALANA FEMENINA GRUP A",
+    "data": "26/09/2026",
+    "hora": "20:00",
+    "local": "CE ARENYS DE MUNT MUNTBIKES",
+    "visitant": "FENIE ENERGIA CERDANYOLA CCH",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -880,6 +880,15 @@
     "visitant": "CLUB PATÍ MONJOS PANSALUD",
     "resultat": "",
     "pista": "PAVELLO MUNICIPAL RIUDOMS"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "26/09/2026",
+    "hora": "21:00",
+    "local": "CLUB PATI CALAFELL",
+    "visitant": "IGUALADA HC",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
   },
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
@@ -900,15 +909,6 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
-    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
-    "data": "27/09/2026",
-    "hora": "12:30",
-    "local": "CH LLORET VILA ESPORTIVA",
-    "visitant": "PAS ALCOI",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
-  },
-  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "27/09/2026",
     "hora": "12:30",
@@ -916,6 +916,15 @@
     "visitant": "CE ARENYS DE MUNT",
     "resultat": "",
     "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "27/09/2026",
+    "hora": "12:30",
+    "local": "CH LLORET VILA ESPORTIVA",
+    "visitant": "PAS ALCOI",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -972,6 +981,15 @@
     "pista": "CH MATARO"
   },
   {
+    "competicio": "2ª CATALANA GRUP A",
+    "data": "27/09/2026",
+    "hora": "17:30",
+    "local": "INNOAESTHETICS HC SANT JUST",
+    "visitant": "UNIÓ ESPORTIVA D'HORTA",
+    "resultat": "",
+    "pista": "PAVELLO SANT JUST"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "27/09/2026",
     "hora": "17:30",
@@ -988,15 +1006,6 @@
     "visitant": "CLUB PATÍ RIBES FRESER",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "27/09/2026",
-    "hora": "17:30",
-    "local": "INNOAESTHETICS HC SANT JUST",
-    "visitant": "UNIÓ ESPORTIVA D'HORTA",
-    "resultat": "",
-    "pista": "PAVELLO SANT JUST"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -1017,15 +1026,6 @@
     "pista": "PAVELLO ESPORTIU CP VIC"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "27/09/2026",
-    "hora": "18:00",
-    "local": "GEIEG",
-    "visitant": "CP TARADELL",
-    "resultat": "",
-    "pista": "PAVELLÓ LLUÍS BACHS"
-  },
-  {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "27/09/2026",
     "hora": "18:00",
@@ -1035,11 +1035,20 @@
     "pista": "PAVELLO REUS DEPORTIU"
   },
   {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "27/09/2026",
+    "hora": "18:00",
+    "local": "GEIEG",
+    "visitant": "CP TARADELL",
+    "resultat": "",
+    "pista": "PAVELLÓ LLUÍS BACHS"
+  },
+  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "27/09/2026",
     "hora": "18:45",
     "local": "IGUALADA HC",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
@@ -1062,6 +1071,15 @@
     "pista": "PAVELLÓ FRANCESC CASSART"
   },
   {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "27/09/2026",
+    "hora": "19:00",
+    "local": "CP CONGRÉS",
+    "visitant": "CLUB HOQUEI VILASSAR",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "27/09/2026",
     "hora": "19:00",
@@ -1074,19 +1092,19 @@
     "competicio": "1ª CATALANA GRUP A",
     "data": "27/09/2026",
     "hora": "19:00",
-    "local": "CP CONGRÉS",
-    "visitant": "CLUB HOQUEI VILASSAR",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "27/09/2026",
-    "hora": "19:00",
     "local": "ANDBANK- ANDORRA HOQUEI CLUB",
     "visitant": "CLUB ESPORTS VENDRELL",
     "resultat": "",
     "pista": "ANDORRA HC"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "27/09/2026",
+    "hora": "19:00",
+    "local": "SANT CELONI",
+    "visitant": "MARTINELIA MANLLEU",
+    "resultat": "",
+    "pista": "MUNICIPAL D ESPORTS SANT CELONI"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -1098,15 +1116,6 @@
     "pista": "PAVELLO SHUM"
   },
   {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "27/09/2026",
-    "hora": "19:45",
-    "local": "MARTINELIA MANLLEU",
-    "visitant": "CLUB ESPORTIU OLESA PATÍ",
-    "resultat": "",
-    "pista": "PISTA MANLLEU"
-  },
-  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "27/09/2026",
     "hora": "19:45",
@@ -1114,6 +1123,15 @@
     "visitant": "CP RIUDEBITLLES",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
+  },
+  {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "27/09/2026",
+    "hora": "19:45",
+    "local": "MARTINELIA MANLLEU",
+    "visitant": "CLUB ESPORTIU OLESA PATÍ",
+    "resultat": "",
+    "pista": "PISTA MANLLEU"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -1125,15 +1143,6 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "27/09/2026",
-    "hora": "20:00",
-    "local": "CLUB PATÍ VOLTREGÀ",
-    "visitant": "CH CALDES RECAM LÀSER",
-    "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
-  },
-  {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
     "data": "27/09/2026",
     "hora": "20:00",
@@ -1143,13 +1152,13 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
+    "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "27/09/2026",
-    "hora": "20:15",
-    "local": "SANT CELONI",
-    "visitant": "MARTINELIA MANLLEU",
+    "hora": "20:00",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "CH CALDES RECAM LÀSER",
     "resultat": "",
-    "pista": "MUNICIPAL D ESPORTS SANT CELONI"
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -1179,15 +1188,6 @@
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "02/10/2026",
-    "hora": "21:30",
-    "local": "SHUM ALEA",
-    "visitant": "CLUB HOQUEI ARENYS DE MAR",
-    "resultat": "",
-    "pista": "PAVELLO SHUM"
-  },
-  {
     "competicio": "2ª CATALANA GRUP C",
     "data": "02/10/2026",
     "hora": "21:30",
@@ -1195,6 +1195,15 @@
     "visitant": "CP SUBUR SITGES",
     "resultat": "",
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "02/10/2026",
+    "hora": "21:30",
+    "local": "SHUM ALEA",
+    "visitant": "CLUB HOQUEI ARENYS DE MAR",
+    "resultat": "",
+    "pista": "PAVELLO SHUM"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -1215,15 +1224,6 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
   },
   {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "02/10/2026",
-    "hora": "21:55",
-    "local": "CLUB PATÍ VILAFRANCA AKO",
-    "visitant": "CLUB PATÍ MALGRAT GRUP ESCOBAR",
-    "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
-  },
-  {
     "competicio": "2ª CATALANA GRUP B",
     "data": "02/10/2026",
     "hora": "21:55",
@@ -1233,13 +1233,22 @@
     "pista": "PAVELLÓ POLIESPORTIU DE BELL-LLOC"
   },
   {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "02/10/2026",
+    "hora": "21:55",
+    "local": "CLUB PATÍ VILAFRANCA AKO",
+    "visitant": "CLUB PATÍ MALGRAT GRUP ESCOBAR",
+    "resultat": "",
+    "pista": "POLIESPORTIU DE VILAFRANCA"
+  },
+  {
     "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
     "data": "03/10/2026",
     "hora": "",
-    "local": "REUS DEPORTIU BRASILIA",
-    "visitant": "SHUM FRIT RAVICH",
+    "local": "CE NOIA FREIXENET",
+    "visitant": "PONS LLEIDA",
     "resultat": "",
-    "pista": "PAVELLO REUS DEPORTIU"
+    "pista": "CLUB ESPORTIU NOIA"
   },
   {
     "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
@@ -1254,43 +1263,34 @@
     "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
     "data": "03/10/2026",
     "hora": "",
+    "local": "REUS DEPORTIU BRASILIA",
+    "visitant": "SHUM FRIT RAVICH",
+    "resultat": "",
+    "pista": "PAVELLO REUS DEPORTIU"
+  },
+  {
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "03/10/2026",
+    "hora": "",
     "local": "CH CALDES RECAM LÀSER",
     "visitant": "CALAFELL LA MENORQUINA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
-    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
-    "data": "03/10/2026",
-    "hora": "",
-    "local": "AMETLLER ORIGEN CP VILAFRANCA",
-    "visitant": "IGUALADA HC",
-    "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
-  },
-  {
     "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
     "data": "03/10/2026",
     "hora": "",
     "local": "FENIE ENERGIA CERDANYOLA CCH",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
-  },
-  {
-    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
-    "data": "03/10/2026",
-    "hora": "",
-    "local": "CE NOIA FREIXENET",
-    "visitant": "PONS LLEIDA",
-    "resultat": "",
-    "pista": "CLUB ESPORTIU NOIA"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
     "data": "03/10/2026",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CAPELLADES",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -1350,6 +1350,15 @@
     "pista": "PAVELLÓ DE LES CASERNES"
   },
   {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "03/10/2026",
+    "hora": "18:00",
+    "local": "CLUB HOQUEI VILASSAR",
+    "visitant": "CLUB PATI CUBELLES",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL DE VILASSAR DE MAR"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "03/10/2026",
     "hora": "18:00",
@@ -1357,15 +1366,6 @@
     "visitant": "CH VILA-SECA-CEH OLIMPIC",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL DE TONA"
-  },
-  {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "03/10/2026",
-    "hora": "18:00",
-    "local": "CLUB ESPORTIU OLESA PATÍ",
-    "visitant": "ROTOTANK BIGUES I RIELLS",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -1377,31 +1377,13 @@
     "pista": "LA SALLE"
   },
   {
-    "competicio": "1ª CATALANA GRUP A",
+    "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "03/10/2026",
     "hora": "18:00",
-    "local": "CLUB HOQUEI VILASSAR",
-    "visitant": "CLUB PATI CUBELLES",
+    "local": "CLUB ESPORTIU OLESA PATÍ",
+    "visitant": "ROTOTANK BIGUES I RIELLS",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL DE VILASSAR DE MAR"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "03/10/2026",
-    "hora": "19:00",
-    "local": "UNIÓ ESPORTIVA D'HORTA",
-    "visitant": "FARNERS",
-    "resultat": "",
-    "pista": "PISTA UE HORTA"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "03/10/2026",
-    "hora": "19:00",
-    "local": "CAMBRILS CH",
-    "visitant": "CHP SANT FELIU",
-    "resultat": "",
-    "pista": "CAMBRILS ESPORT"
+    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
   },
   {
     "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
@@ -1411,6 +1393,15 @@
     "visitant": "CLUB PATÍ VOLTREGÀ",
     "resultat": "",
     "pista": "PISTA MANLLEU"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "03/10/2026",
+    "hora": "19:00",
+    "local": "UNIÓ ESPORTIVA D'HORTA",
+    "visitant": "FARNERS",
+    "resultat": "",
+    "pista": "PISTA UE HORTA"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -1431,6 +1422,15 @@
     "pista": "PAVELLÓ D ESPORTS EL PUJOLÓ"
   },
   {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "03/10/2026",
+    "hora": "19:00",
+    "local": "CAMBRILS CH",
+    "visitant": "CHP SANT FELIU",
+    "resultat": "",
+    "pista": "CAMBRILS ESPORT"
+  },
+  {
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "03/10/2026",
     "hora": "19:15",
@@ -1438,6 +1438,33 @@
     "visitant": "IGUALADA FEMENÍ GRUPO GUZMÁN",
     "resultat": "",
     "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
+  },
+  {
+    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
+    "data": "03/10/2026",
+    "hora": "19:30",
+    "local": "GENERALI HC PALAU",
+    "visitant": "CH MATARÓ",
+    "resultat": "",
+    "pista": "PAVELLO PALAU PLEGAMANS"
+  },
+  {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "03/10/2026",
+    "hora": "19:30",
+    "local": "AMETLLER ORIGEN CP VILAFRANCA",
+    "visitant": "GENERALI HC PALAU",
+    "resultat": "",
+    "pista": "POLIESPORTIU DE VILAFRANCA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "03/10/2026",
+    "hora": "19:30",
+    "local": "HC MONTBUI",
+    "visitant": "SANT CELONI",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN PASSANALS"
   },
   {
     "competicio": "2ª CATALANA GRUP A",
@@ -1467,51 +1494,6 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "03/10/2026",
-    "hora": "19:30",
-    "local": "HC MONTBUI",
-    "visitant": "SANT CELONI",
-    "resultat": "",
-    "pista": "PAVELLÓ CAN PASSANALS"
-  },
-  {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "03/10/2026",
-    "hora": "19:30",
-    "local": "AMETLLER ORIGEN CP VILAFRANCA",
-    "visitant": "GENERALI HC PALAU",
-    "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
-  },
-  {
-    "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
-    "data": "03/10/2026",
-    "hora": "19:30",
-    "local": "GENERALI HC PALAU",
-    "visitant": "CH MATARÓ",
-    "resultat": "",
-    "pista": "PAVELLO PALAU PLEGAMANS"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "03/10/2026",
-    "hora": "19:45",
-    "local": "CP JONQUERENC",
-    "visitant": "CH FIGUERES",
-    "resultat": "",
-    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "03/10/2026",
-    "hora": "19:45",
-    "local": "HOQUEI PATINS TONA",
-    "visitant": "CH CALDES RECAM LÀSER",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL DE TONA"
-  },
-  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "03/10/2026",
     "hora": "19:45",
@@ -1519,33 +1501,6 @@
     "visitant": "CH LLORET FITEL NETWORK",
     "resultat": "",
     "pista": "PAVELLO CP MONJOS"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "03/10/2026",
-    "hora": "19:45",
-    "local": "MOLLET HC",
-    "visitant": "INNOAESTHETICS HC SANT JUST",
-    "resultat": "",
-    "pista": "PAVELLO MOLLET"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "03/10/2026",
-    "hora": "19:45",
-    "local": "CP RIUDEBITLLES",
-    "visitant": "CLUB PATI VILAFRANCA AKO",
-    "resultat": "",
-    "pista": "PAVELLO RIUDEBITLLES"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "03/10/2026",
-    "hora": "19:45",
-    "local": "CLUB HOQUEI CADÍ",
-    "visitant": "LLEIDANET ALPICAT",
-    "resultat": "",
-    "pista": "PISTA 1 LA SEU D URGELL"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -1557,22 +1512,49 @@
     "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
   },
   {
-    "competicio": "1ª CATALANA GRUP A",
+    "competicio": "1ª CATALANA GRUP B",
     "data": "03/10/2026",
-    "hora": "20:00",
-    "local": "SANT CELONI",
-    "visitant": "ROTOTANK BIGUES I RIELLS",
+    "hora": "19:45",
+    "local": "CP RIUDEBITLLES",
+    "visitant": "CLUB PATI VILAFRANCA AKO",
     "resultat": "",
-    "pista": "MUNICIPAL D ESPORTS SANT CELONI"
+    "pista": "PAVELLO RIUDEBITLLES"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
+    "competicio": "2ª CATALANA GRUP A",
     "data": "03/10/2026",
-    "hora": "20:00",
-    "local": "CLUB ESPORTIU OLESA PATÍ",
-    "visitant": "CLUB PATÍ CENTELLES",
+    "hora": "19:45",
+    "local": "MOLLET HC",
+    "visitant": "INNOAESTHETICS HC SANT JUST",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
+    "pista": "PAVELLO MOLLET"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "03/10/2026",
+    "hora": "19:45",
+    "local": "CLUB HOQUEI CADÍ",
+    "visitant": "LLEIDANET ALPICAT",
+    "resultat": "",
+    "pista": "PISTA 1 LA SEU D URGELL"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "03/10/2026",
+    "hora": "19:45",
+    "local": "HOQUEI PATINS TONA",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL DE TONA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "03/10/2026",
+    "hora": "19:45",
+    "local": "CP JONQUERENC",
+    "visitant": "CH FIGUERES",
+    "resultat": "",
+    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -1584,6 +1566,15 @@
     "pista": "PAVELLO ESPORTIU CP VIC"
   },
   {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "03/10/2026",
+    "hora": "20:00",
+    "local": "CLUB ESPORTIU OLESA PATÍ",
+    "visitant": "CLUB PATÍ CENTELLES",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
+  },
+  {
     "competicio": "FASE DE GRUPS LLIGA CATALANA FEMENINA",
     "data": "03/10/2026",
     "hora": "20:00",
@@ -1591,6 +1582,15 @@
     "visitant": "LLEIDANET ALPICAT",
     "resultat": "",
     "pista": "PAVELLÓ CAN BADELL"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "04/10/2026",
+    "hora": "12:00",
+    "local": "VICIO PHC SANT CUGAT",
+    "visitant": "HOQUEI CLUB RIPOLL",
+    "resultat": "",
+    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -1602,13 +1602,40 @@
     "pista": "PAVELLO MUNICIPAL ONZE DE SETEMBRE"
   },
   {
-    "competicio": "NACIONAL CATALANA MASCULINA",
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
     "data": "04/10/2026",
-    "hora": "12:00",
-    "local": "PHC SANT CUGAT",
-    "visitant": "HOQUEI CLUB RIPOLL",
+    "hora": "12:30",
+    "local": "AMETLLER ORIGEN CP VILAFRANCA",
+    "visitant": "IGUALADA HC",
     "resultat": "",
-    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
+    "pista": "POLIESPORTIU DE VILAFRANCA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP A",
+    "data": "04/10/2026",
+    "hora": "12:30",
+    "local": "UNIÓ ESPORTIVA D'HORTA",
+    "visitant": "CEH OLÍMPIC REUS",
+    "resultat": "",
+    "pista": "PISTA UE HORTA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "04/10/2026",
+    "hora": "12:30",
+    "local": "CP BLANES",
+    "visitant": "UEH BARBERÀ",
+    "resultat": "",
+    "pista": "CIUTAT ESPORTIVA BLANES BLAVA"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "04/10/2026",
+    "hora": "12:30",
+    "local": "CH MATARÓ",
+    "visitant": "HCSENTMENAT",
+    "resultat": "",
+    "pista": "CH MATARO"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -1624,27 +1651,9 @@
     "data": "04/10/2026",
     "hora": "12:30",
     "local": "CP BLANES",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "CIUTAT ESPORTIVA BLANES BLAVA"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "04/10/2026",
-    "hora": "12:30",
-    "local": "CH MATARÓ",
-    "visitant": "HCSENTMENAT",
-    "resultat": "",
-    "pista": "CH MATARO"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "04/10/2026",
-    "hora": "12:30",
-    "local": "UNIÓ ESPORTIVA D'HORTA",
-    "visitant": "CEH OLÍMPIC REUS",
-    "resultat": "",
-    "pista": "PISTA UE HORTA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -1665,13 +1674,13 @@
     "pista": "PISTA LA CLOTA"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
+    "competicio": "2ª CATALANA GRUP A",
     "data": "04/10/2026",
-    "hora": "12:30",
-    "local": "CP BLANES",
-    "visitant": "UEH BARBERÀ",
+    "hora": "12:45",
+    "local": "HOQUEI CLUB CASTELLAR",
+    "visitant": "CLUB HOQUEI MOLLERUSSA",
     "resultat": "",
-    "pista": "CIUTAT ESPORTIVA BLANES BLAVA"
+    "pista": "PAVELLÓ DANI PEDROSA"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -1681,15 +1690,6 @@
     "visitant": "HOQUEI CLUB CASTELLAR",
     "resultat": "",
     "pista": "MASIES DE VOLTREGA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "04/10/2026",
-    "hora": "12:45",
-    "local": "HOQUEI CLUB CASTELLAR",
-    "visitant": "CLUB HOQUEI MOLLERUSSA",
-    "resultat": "",
-    "pista": "PAVELLÓ DANI PEDROSA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -1704,7 +1704,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "04/10/2026",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB PATI TORRELLES",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -1746,15 +1746,6 @@
     "pista": "POLIESPORTIU MUNICIPAL CUBELLES"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
-    "data": "04/10/2026",
-    "hora": "17:00",
-    "local": "GENERALI HC PALAU",
-    "visitant": "ROTOTANK BIGUES I RIELLS",
-    "resultat": "",
-    "pista": "PAVELLO PALAU PLEGAMANS"
-  },
-  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "04/10/2026",
     "hora": "17:00",
@@ -1762,6 +1753,15 @@
     "visitant": "UEH BARBERÀ",
     "resultat": "",
     "pista": "CAMPUS DE MUNDET UB"
+  },
+  {
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "data": "04/10/2026",
+    "hora": "17:00",
+    "local": "GENERALI HC PALAU",
+    "visitant": "ROTOTANK BIGUES I RIELLS",
+    "resultat": "",
+    "pista": "PAVELLO PALAU PLEGAMANS"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
@@ -1803,19 +1803,19 @@
     "competicio": "2ª CATALANA GRUP C",
     "data": "04/10/2026",
     "hora": "18:00",
-    "local": "CPI SANT IGNASI",
-    "visitant": "CN REUS PLOMS  A",
+    "local": "CLUB PATÍ RODA",
+    "visitant": "CLUB HOQUEI SANTA PERPÈTUA",
     "resultat": "",
-    "pista": "COL·LEGI SANT IGNASI"
+    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
     "data": "04/10/2026",
     "hora": "18:00",
-    "local": "CLUB PATÍ RODA",
-    "visitant": "CLUB HOQUEI SANTA PERPÈTUA",
+    "local": "CPI SANT IGNASI",
+    "visitant": "CN REUS PLOMS  A",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
+    "pista": "COL·LEGI SANT IGNASI"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -1836,6 +1836,15 @@
     "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "data": "04/10/2026",
+    "hora": "18:30",
+    "local": "CH MATARÓ",
+    "visitant": "CHP SANT FELIU",
+    "resultat": "",
+    "pista": "CH MATARO"
+  },
+  {
     "competicio": "2ª CATALANA GRUP B",
     "data": "04/10/2026",
     "hora": "18:30",
@@ -1854,15 +1863,6 @@
     "pista": "CLUB D ESPORTS VENDRELL"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
-    "data": "04/10/2026",
-    "hora": "18:30",
-    "local": "CH MATARÓ",
-    "visitant": "CHP SANT FELIU",
-    "resultat": "",
-    "pista": "CH MATARO"
-  },
-  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "04/10/2026",
     "hora": "18:45",
@@ -1870,6 +1870,15 @@
     "visitant": "GIRONA CLUB HOQUEI",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "04/10/2026",
+    "hora": "19:00",
+    "local": "SANT CELONI",
+    "visitant": "ROTOTANK BIGUES I RIELLS",
+    "resultat": "",
+    "pista": "MUNICIPAL D ESPORTS SANT CELONI"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -1890,15 +1899,6 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "04/10/2026",
-    "hora": "20:00",
-    "local": "IGUALADA HC",
-    "visitant": "GEIEG",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU DE LES COMES"
-  },
-  {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "04/10/2026",
     "hora": "20:00",
@@ -1906,6 +1906,15 @@
     "visitant": "SHUM SELVAFIL",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL DE VILA-SANA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "04/10/2026",
+    "hora": "20:00",
+    "local": "IGUALADA HC",
+    "visitant": "GEIEG",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -1926,13 +1935,13 @@
     "pista": "PAVELLÓ D ESPORTS CAN VIOLÍ"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
+    "competicio": "2ª CATALANA GRUP B",
     "data": "09/10/2026",
     "hora": "21:30",
-    "local": "CLUB D'ESPORTS VENDRELL",
-    "visitant": "IGUALADA HC",
+    "local": "SHUM ALEA",
+    "visitant": "OXFORD HC SALT",
     "resultat": "",
-    "pista": "CLUB D ESPORTS VENDRELL"
+    "pista": "PAVELLO SHUM"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -1953,6 +1962,15 @@
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "09/10/2026",
+    "hora": "21:30",
+    "local": "CLUB D'ESPORTS VENDRELL",
+    "visitant": "IGUALADA HC",
+    "resultat": "",
+    "pista": "CLUB D ESPORTS VENDRELL"
+  },
+  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "09/10/2026",
     "hora": "21:30",
@@ -1964,11 +1982,11 @@
   {
     "competicio": "2ª CATALANA GRUP B",
     "data": "09/10/2026",
-    "hora": "21:30",
-    "local": "SHUM ALEA",
-    "visitant": "OXFORD HC SALT",
+    "hora": "21:55",
+    "local": "CH CALDES RECAM LÀSER",
+    "visitant": "LLISTA-BELL-LLOC",
     "resultat": "",
-    "pista": "PAVELLO SHUM"
+    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -1980,13 +1998,13 @@
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "09/10/2026",
-    "hora": "21:55",
-    "local": "CH CALDES RECAM LÀSER",
-    "visitant": "LLISTA-BELL-LLOC",
+    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "data": "10/10/2026",
+    "hora": "",
+    "local": "BARÇA",
+    "visitant": "CLUB PATÍ VOLTREGÀ",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
+    "pista": "PALAU BLAUGRANA"
   },
   {
     "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
@@ -2016,22 +2034,13 @@
     "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
   },
   {
-    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
+    "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "10/10/2026",
-    "hora": "",
-    "local": "BARÇA",
-    "visitant": "CLUB PATÍ VOLTREGÀ",
+    "hora": "16:00",
+    "local": "VICIO PHC SANT CUGAT",
+    "visitant": "CLUB PATÍ VILA-SANA",
     "resultat": "",
-    "pista": "PALAU BLAUGRANA"
-  },
-  {
-    "competicio": "FASE DE GRUPS FRIT RAVICH LLIGA CATALANA",
-    "data": "10/10/2026",
-    "hora": "",
-    "local": "PONS LLEIDA",
-    "visitant": "AMETLLER ORIGEN CP VILAFRANCA",
-    "resultat": "",
-    "pista": "PAVELLO MUNICIPAL ONZE DE SETEMBRE"
+    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
     "competicio": "2ª CATALANA GRUP A",
@@ -2052,15 +2061,6 @@
     "pista": "PAVELLÓ DANI PEDROSA"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP A",
-    "data": "10/10/2026",
-    "hora": "16:00",
-    "local": "PHC SANT CUGAT",
-    "visitant": "CLUB PATÍ VILA-SANA",
-    "resultat": "",
-    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
-  },
-  {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
     "data": "10/10/2026",
     "hora": "16:45",
@@ -2079,24 +2079,6 @@
     "pista": "PAVELLÓ FONS DE LES CREUS"
   },
   {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "10/10/2026",
-    "hora": "18:00",
-    "local": "ROTOTANK BIGUES I RIELLS",
-    "visitant": "FENIE ENERGIA CERDANYOLA CCH",
-    "resultat": "",
-    "pista": "PAVELLÓ CAN BADELL"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "10/10/2026",
-    "hora": "18:00",
-    "local": "CEH OLÍMPIC REUS",
-    "visitant": "MOLLET HC",
-    "resultat": "",
-    "pista": "PAVELLÓ CELIA ARTIGA"
-  },
-  {
     "competicio": "2ª CATALANA GRUP D",
     "data": "10/10/2026",
     "hora": "18:00",
@@ -2104,6 +2086,15 @@
     "visitant": "SANT CELONI",
     "resultat": "",
     "pista": "PAVELLÓ D ESPORTS DE CENTELLES"
+  },
+  {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "10/10/2026",
+    "hora": "18:00",
+    "local": "ROTOTANK BIGUES I RIELLS",
+    "visitant": "FENIE ENERGIA CERDANYOLA CCH",
+    "resultat": "",
+    "pista": "PAVELLÓ CAN BADELL"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -2115,6 +2106,24 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
   },
   {
+    "competicio": "2ª CATALANA GRUP A",
+    "data": "10/10/2026",
+    "hora": "18:00",
+    "local": "CEH OLÍMPIC REUS",
+    "visitant": "MOLLET HC",
+    "resultat": "",
+    "pista": "PAVELLÓ CELIA ARTIGA"
+  },
+  {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "10/10/2026",
+    "hora": "18:15",
+    "local": "IGUALADA FEMENÍ GRUPO GUZMÁN",
+    "visitant": "VICIO PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
+  },
+  {
     "competicio": "2ª CATALANA GRUP B",
     "data": "10/10/2026",
     "hora": "18:15",
@@ -2122,24 +2131,6 @@
     "visitant": "GENERALI HC PALAU",
     "resultat": "",
     "pista": "IEM MARTORELL"
-  },
-  {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "10/10/2026",
-    "hora": "18:15",
-    "local": "IGUALADA FEMENÍ GRUPO GUZMÁN",
-    "visitant": "PHC SANT CUGAT",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU DE LES COMES"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "10/10/2026",
-    "hora": "18:30",
-    "local": "UEH BARBERÀ",
-    "visitant": "PHC SANT CUGAT",
-    "resultat": "",
-    "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -2151,6 +2142,15 @@
     "pista": "PAVELLÓ FONS DE LES CREUS"
   },
   {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "10/10/2026",
+    "hora": "18:30",
+    "local": "UEH BARBERÀ",
+    "visitant": "VICIO PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
+  },
+  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "10/10/2026",
     "hora": "18:45",
@@ -2158,6 +2158,24 @@
     "visitant": "HOQUEI CLUB CASTELLAR",
     "resultat": "",
     "pista": "CEM SAGNIER"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "10/10/2026",
+    "hora": "19:00",
+    "local": "CE ARENYS DE MUNT SOLARTRADEX",
+    "visitant": "CLUB PATÍ BELL-LLOC",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
+  },
+  {
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "data": "10/10/2026",
+    "hora": "19:00",
+    "local": "UNIÓ ESPORTIVA D'HORTA",
+    "visitant": "GENERALI HC PALAU",
+    "resultat": "",
+    "pista": "PISTA UE HORTA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -2178,24 +2196,6 @@
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
-    "data": "10/10/2026",
-    "hora": "19:00",
-    "local": "UNIÓ ESPORTIVA D'HORTA",
-    "visitant": "GENERALI HC PALAU",
-    "resultat": "",
-    "pista": "PISTA UE HORTA"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "10/10/2026",
-    "hora": "19:00",
-    "local": "CE ARENYS DE MUNT SOLARTRADEX",
-    "visitant": "CLUB PATÍ BELL-LLOC",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
-  },
-  {
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "10/10/2026",
     "hora": "19:15",
@@ -2214,15 +2214,6 @@
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "10/10/2026",
-    "hora": "19:45",
-    "local": "CH OLOT B",
-    "visitant": "HOQUEI PATINS TONA",
-    "resultat": "",
-    "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
-  },
-  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "10/10/2026",
     "hora": "19:45",
@@ -2230,15 +2221,6 @@
     "visitant": "JOIERIA MONER SANT RAMON",
     "resultat": "",
     "pista": "PAVELLÓ DANI PEDROSA"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "10/10/2026",
-    "hora": "19:45",
-    "local": "CAPELLADES",
-    "visitant": "CLUB HOQUEI CADÍ",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -2250,6 +2232,15 @@
     "pista": "PAVELLÓ FRANCESC CASSART"
   },
   {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "10/10/2026",
+    "hora": "19:45",
+    "local": "CAPELLADES",
+    "visitant": "CLUB HOQUEI CADÍ",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
+  },
+  {
     "competicio": "2ª CATALANA GRUP C",
     "data": "10/10/2026",
     "hora": "19:45",
@@ -2257,6 +2248,15 @@
     "visitant": "CP SUBUR SITGES",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL MALGRAT"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "10/10/2026",
+    "hora": "19:45",
+    "local": "CH OLOT B",
+    "visitant": "HOQUEI PATINS TONA",
+    "resultat": "",
+    "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -2268,40 +2268,13 @@
     "pista": "PAVELLÓ ESPORTIU RAFEL MORA"
   },
   {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "10/10/2026",
-    "hora": "20:00",
-    "local": "HOQUEI BANYOLES",
-    "visitant": "CAPELLADES",
-    "resultat": "",
-    "pista": "PAVELLÓ DEL PLA DE L AMETLLER"
-  },
-  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "10/10/2026",
     "hora": "20:00",
-    "local": "LLEIDANET ALPICAT",
-    "visitant": "CLUB PATÍ VOLTREGÀ - MASIES",
+    "local": "GIRONA CLUB HOQUEI",
+    "visitant": "BARÇA",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
-  },
-  {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
-    "data": "10/10/2026",
-    "hora": "20:00",
-    "local": "CLUB PATÍ VOLTREGÀ",
-    "visitant": "CH MATARÓ",
-    "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
-  },
-  {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
-    "data": "10/10/2026",
-    "hora": "20:00",
-    "local": "CLUB PATI VILAFRANCA AKO",
-    "visitant": "SANT CELONI",
-    "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
+    "pista": "PAVELLÓ MUNICIPAL PALAU 2"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -2322,13 +2295,13 @@
     "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
+    "competicio": "2ª CATALANA GRUP C",
     "data": "10/10/2026",
     "hora": "20:00",
-    "local": "CLUB ESPORTIU OLESA PATÍ",
-    "visitant": "CP BLANES",
+    "local": "HOQUEI BANYOLES",
+    "visitant": "CAPELLADES",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
+    "pista": "PAVELLÓ DEL PLA DE L AMETLLER"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -2340,6 +2313,42 @@
     "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
   },
   {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "10/10/2026",
+    "hora": "20:00",
+    "local": "CLUB ESPORTIU OLESA PATÍ",
+    "visitant": "CP BLANES",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
+  },
+  {
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "data": "10/10/2026",
+    "hora": "20:00",
+    "local": "CLUB PATI VILAFRANCA AKO",
+    "visitant": "SANT CELONI",
+    "resultat": "",
+    "pista": "POLIESPORTIU DE VILAFRANCA"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "10/10/2026",
+    "hora": "20:00",
+    "local": "LLEIDANET ALPICAT",
+    "visitant": "CLUB PATÍ VOLTREGÀ - MASIES",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
+  },
+  {
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "data": "10/10/2026",
+    "hora": "20:00",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "CH MATARÓ",
+    "resultat": "",
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
     "competicio": "2ª CATALANA GRUP C",
     "data": "10/10/2026",
     "hora": "20:00",
@@ -2347,15 +2356,6 @@
     "visitant": "CP JONQUERENC",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL STA PERPETUA"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "10/10/2026",
-    "hora": "20:00",
-    "local": "GIRONA CLUB HOQUEI",
-    "visitant": "BARÇA",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL PALAU 2"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -2394,13 +2394,13 @@
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
-    "competicio": "2ª CATALANA GRUP A",
+    "competicio": "2ª CATALANA GRUP D",
     "data": "11/10/2026",
     "hora": "12:30",
-    "local": "CH PALAFRUGELL",
-    "visitant": "HC VALLS INTEC ENGINYERIA",
+    "local": "UEH BARBERÀ",
+    "visitant": "CP TARADELL",
     "resultat": "",
-    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
+    "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -2412,13 +2412,13 @@
     "pista": "CN REUS PLOMS"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
+    "competicio": "2ª CATALANA GRUP A",
     "data": "11/10/2026",
     "hora": "12:30",
-    "local": "UEH BARBERÀ",
-    "visitant": "CP TARADELL",
+    "local": "CH PALAFRUGELL",
+    "visitant": "HC VALLS INTEC ENGINYERIA",
     "resultat": "",
-    "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
+    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -2439,15 +2439,6 @@
     "pista": "PAVELLO PALAU PLEGAMANS"
   },
   {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "11/10/2026",
-    "hora": "16:30",
-    "local": "CE NOIA FREIXENET",
-    "visitant": "CE ARENYS DE MUNT",
-    "resultat": "",
-    "pista": "CLUB ESPORTIU NOIA"
-  },
-  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "11/10/2026",
     "hora": "16:30",
@@ -2457,11 +2448,20 @@
     "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
   },
   {
+    "competicio": "2ª CATALANA GRUP A",
+    "data": "11/10/2026",
+    "hora": "16:30",
+    "local": "CE NOIA FREIXENET",
+    "visitant": "CE ARENYS DE MUNT",
+    "resultat": "",
+    "pista": "CLUB ESPORTIU NOIA"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "11/10/2026",
     "hora": "17:30",
     "local": "CH VILA-SECA-CEH OLIMPIC",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ CELIA ARTIGA"
   },
@@ -2473,15 +2473,6 @@
     "visitant": "HC MONTBUI",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "11/10/2026",
-    "hora": "18:00",
-    "local": "GEIEG",
-    "visitant": "CLUB PATÍ RIBES FRESER",
-    "resultat": "",
-    "pista": "PAVELLÓ LLUÍS BACHS"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -2511,6 +2502,15 @@
     "pista": "PAVELLO REUS DEPORTIU"
   },
   {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "11/10/2026",
+    "hora": "18:00",
+    "local": "GEIEG",
+    "visitant": "CLUB PATÍ RIBES FRESER",
+    "resultat": "",
+    "pista": "PAVELLÓ LLUÍS BACHS"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "11/10/2026",
     "hora": "18:30",
@@ -2532,19 +2532,19 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "11/10/2026",
     "hora": "18:45",
-    "local": "IGUALADA HC",
-    "visitant": "HOQUEI CLUB RIPOLL",
+    "local": "CH JUNEDA",
+    "visitant": "CH CALDES RECAM LÀSER",
     "resultat": "",
-    "pista": "COMPLEX ESPORTIU DE LES COMES"
+    "pista": "POLIESPORTIU MUNICIPAL DE JUNEDA"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "11/10/2026",
     "hora": "18:45",
-    "local": "CH JUNEDA",
-    "visitant": "CH CALDES RECAM LÀSER",
+    "local": "IGUALADA HC",
+    "visitant": "HOQUEI CLUB RIPOLL",
     "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL DE JUNEDA"
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -2556,15 +2556,6 @@
     "pista": "POLIESPORTIU MUNICIPAL CAMP DEL FERRO"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "11/10/2026",
-    "hora": "19:00",
-    "local": "CH PALAFRUGELL",
-    "visitant": "CH CALDES RECAM LÀSER",
-    "resultat": "",
-    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
-  },
-  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "11/10/2026",
     "hora": "19:00",
@@ -2572,6 +2563,15 @@
     "visitant": "CLUB HOQUEI VILASSAR",
     "resultat": "",
     "pista": "ANDORRA HC"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "11/10/2026",
+    "hora": "19:00",
+    "local": "CH PALAFRUGELL",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -2601,15 +2601,6 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "11/10/2026",
-    "hora": "20:00",
-    "local": "CLUB PATÍ VOLTREGÀ",
-    "visitant": "OXFORD HC SALT",
-    "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
-  },
-  {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
     "data": "11/10/2026",
     "hora": "20:00",
@@ -2617,6 +2608,15 @@
     "visitant": "CP VILANOVA LA DAURADA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
+  },
+  {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "11/10/2026",
+    "hora": "20:00",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "OXFORD HC SALT",
+    "resultat": "",
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -2641,7 +2641,16 @@
     "data": "16/10/2026",
     "hora": "21:30",
     "local": "FARNERS",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "16/10/2026",
+    "hora": "21:30",
+    "local": "FARNERS",
+    "visitant": "ROTOTANK BIGUES I RIELLS",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
@@ -2653,15 +2662,6 @@
     "visitant": "CLUB HOQUEI SANTA PERPÈTUA",
     "resultat": "",
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "16/10/2026",
-    "hora": "21:30",
-    "local": "FARNERS",
-    "visitant": "ROTOTANK BIGUES I RIELLS",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -2676,25 +2676,25 @@
     "competicio": "2ª CATALANA GRUP B",
     "data": "16/10/2026",
     "hora": "21:55",
-    "local": "OXFORD HC SALT",
-    "visitant": "CLUB HOQUEI ARENYS DE MAR",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "16/10/2026",
-    "hora": "21:55",
     "local": "LLISTA-BELL-LLOC",
     "visitant": "CH OLOT B",
     "resultat": "",
     "pista": "PAVELLÓ POLIESPORTIU DE BELL-LLOC"
   },
   {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "16/10/2026",
+    "hora": "21:55",
+    "local": "OXFORD HC SALT",
+    "visitant": "CLUB HOQUEI ARENYS DE MAR",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "17/10/2026",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB PATI CALAFELL",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -2736,15 +2736,6 @@
     "pista": "PAVELLÓ DE LES CASERNES"
   },
   {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "17/10/2026",
-    "hora": "18:00",
-    "local": "CLUB ESPORTIU OLESA PATÍ",
-    "visitant": "IGUALADA FEMENÍ GRUPO GUZMÁN",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
-  },
-  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "17/10/2026",
     "hora": "18:00",
@@ -2752,15 +2743,6 @@
     "visitant": "CE TORRELAVIT FONT PACKAGING",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL DE VILASSAR DE MAR"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "17/10/2026",
-    "hora": "18:00",
-    "local": "HOQUEI PATINS TONA",
-    "visitant": "CH PALAFRUGELL",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL DE TONA"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -2772,22 +2754,22 @@
     "pista": "LA SALLE"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "17/10/2026",
-    "hora": "19:00",
-    "local": "CLUB PATÍ RIBES FRESER",
-    "visitant": "CLUB D'ESPORTS VENDRELL",
-    "resultat": "",
-    "pista": "PAVELLO RIBES DE FRESER"
-  },
-  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "17/10/2026",
-    "hora": "19:00",
-    "local": "CAMBRILS CH",
-    "visitant": "CH VILA-SECA-CEH OLIMPIC",
+    "hora": "18:00",
+    "local": "HOQUEI PATINS TONA",
+    "visitant": "CH PALAFRUGELL",
     "resultat": "",
-    "pista": "CAMBRILS ESPORT"
+    "pista": "PAVELLÓ MUNICIPAL DE TONA"
+  },
+  {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "17/10/2026",
+    "hora": "18:00",
+    "local": "CLUB ESPORTIU OLESA PATÍ",
+    "visitant": "IGUALADA FEMENÍ GRUPO GUZMÁN",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -2808,6 +2790,24 @@
     "pista": "PAVELLÓ D ESPORTS EL PUJOLÓ"
   },
   {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "17/10/2026",
+    "hora": "19:00",
+    "local": "CAMBRILS CH",
+    "visitant": "CH VILA-SECA-CEH OLIMPIC",
+    "resultat": "",
+    "pista": "CAMBRILS ESPORT"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "17/10/2026",
+    "hora": "19:00",
+    "local": "CLUB PATÍ RIBES FRESER",
+    "visitant": "CLUB D'ESPORTS VENDRELL",
+    "resultat": "",
+    "pista": "PAVELLO RIBES DE FRESER"
+  },
+  {
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "17/10/2026",
     "hora": "19:15",
@@ -2824,15 +2824,6 @@
     "visitant": "CLUB ESPORTS VENDRELL",
     "resultat": "",
     "pista": "TORDERA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "17/10/2026",
-    "hora": "19:30",
-    "local": "HC VALLS INTEC ENGINYERIA",
-    "visitant": "UNIÓ ESPORTIVA LA GARRIGA",
-    "resultat": "",
-    "pista": "PISTA POLIESPORTIVA DEL VILAR"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -2855,11 +2846,20 @@
   {
     "competicio": "2ª CATALANA GRUP A",
     "data": "17/10/2026",
-    "hora": "19:45",
-    "local": "MOLLET HC",
-    "visitant": "CLUB HOQUEI MOLLERUSSA",
+    "hora": "19:30",
+    "local": "HC VALLS INTEC ENGINYERIA",
+    "visitant": "UNIÓ ESPORTIVA LA GARRIGA",
     "resultat": "",
-    "pista": "PAVELLO MOLLET"
+    "pista": "PISTA POLIESPORTIVA DEL VILAR"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "17/10/2026",
+    "hora": "19:45",
+    "local": "CLUB PATÍ MONJOS PANSALUD",
+    "visitant": "CAPELLADES",
+    "resultat": "",
+    "pista": "PAVELLO CP MONJOS"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -2889,13 +2889,13 @@
     "pista": "PAVELLO RIUDEBITLLES"
   },
   {
-    "competicio": "2ª CATALANA GRUP C",
+    "competicio": "2ª CATALANA GRUP A",
     "data": "17/10/2026",
     "hora": "19:45",
-    "local": "CP JONQUERENC",
-    "visitant": "CN REUS PLOMS  A",
+    "local": "MOLLET HC",
+    "visitant": "CLUB HOQUEI MOLLERUSSA",
     "resultat": "",
-    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
+    "pista": "PAVELLO MOLLET"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -2907,13 +2907,22 @@
     "pista": "PISTA 1 LA SEU D URGELL"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
+    "competicio": "2ª CATALANA GRUP C",
     "data": "17/10/2026",
     "hora": "19:45",
-    "local": "CLUB PATÍ MONJOS PANSALUD",
-    "visitant": "CAPELLADES",
+    "local": "CP JONQUERENC",
+    "visitant": "CN REUS PLOMS  A",
     "resultat": "",
-    "pista": "PAVELLO CP MONJOS"
+    "pista": "PAVELLÓ D ESPORTS LA JONQUERA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "17/10/2026",
+    "hora": "20:00",
+    "local": "CP SUBUR SITGES",
+    "visitant": "CH FIGUERES",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL SITGES PINS VENS"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -2934,15 +2943,6 @@
     "pista": "MUNICIPAL D ESPORTS SANT CELONI"
   },
   {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "17/10/2026",
-    "hora": "20:00",
-    "local": "CP SUBUR SITGES",
-    "visitant": "CH FIGUERES",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL SITGES PINS VENS"
-  },
-  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "17/10/2026",
     "hora": "21:00",
@@ -2955,7 +2955,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "18/10/2026",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "GIRONA CLUB HOQUEI",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -2979,6 +2979,24 @@
     "pista": "PAVELLÓ CAN BADELL"
   },
   {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "18/10/2026",
+    "hora": "12:30",
+    "local": "CH RIPOLLET",
+    "visitant": "HOQUEI CLUB CASTELLAR",
+    "resultat": "",
+    "pista": "PAVELLÓ RIPOLLET"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "18/10/2026",
+    "hora": "12:30",
+    "local": "CP BLANES",
+    "visitant": "CLUB PATÍ CENTELLES",
+    "resultat": "",
+    "pista": "CIUTAT ESPORTIVA BLANES BLAVA"
+  },
+  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "18/10/2026",
     "hora": "12:30",
@@ -2986,6 +3004,15 @@
     "visitant": "CLUB HOQUEI PRAT",
     "resultat": "",
     "pista": "PISTA UE HORTA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "18/10/2026",
+    "hora": "12:30",
+    "local": "HOQUEI CLARET",
+    "visitant": "CHP MCDONALD'S AMPOSTA",
+    "resultat": "",
+    "pista": "PISTA LA CLOTA"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -3006,31 +3033,13 @@
     "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
-    "competicio": "1ª CATALANA GRUP A",
+    "competicio": "2ª CATALANA GRUP A",
     "data": "18/10/2026",
-    "hora": "12:30",
-    "local": "CH RIPOLLET",
-    "visitant": "HOQUEI CLUB CASTELLAR",
+    "hora": "12:45",
+    "local": "HOQUEI CLUB CASTELLAR",
+    "visitant": "CH PALAFRUGELL",
     "resultat": "",
-    "pista": "PAVELLÓ RIPOLLET"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "18/10/2026",
-    "hora": "12:30",
-    "local": "CP BLANES",
-    "visitant": "CLUB PATÍ CENTELLES",
-    "resultat": "",
-    "pista": "CIUTAT ESPORTIVA BLANES BLAVA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "18/10/2026",
-    "hora": "12:30",
-    "local": "HOQUEI CLARET",
-    "visitant": "CHP MCDONALD'S AMPOSTA",
-    "resultat": "",
-    "pista": "PISTA LA CLOTA"
+    "pista": "PAVELLÓ DANI PEDROSA"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -3040,15 +3049,6 @@
     "visitant": "CAPELLADES",
     "resultat": "",
     "pista": "MASIES DE VOLTREGA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "18/10/2026",
-    "hora": "12:45",
-    "local": "HOQUEI CLUB CASTELLAR",
-    "visitant": "CH PALAFRUGELL",
-    "resultat": "",
-    "pista": "PAVELLÓ DANI PEDROSA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -3063,7 +3063,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "18/10/2026",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "PATÍ VIC",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -3085,6 +3085,15 @@
     "visitant": "HCSENTMENAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "18/10/2026",
+    "hora": "17:00",
+    "local": "CH MATARÓ",
+    "visitant": "CHP MARTORELL",
+    "resultat": "",
+    "pista": "CH MATARO"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -3112,15 +3121,6 @@
     "visitant": "CLUB PATÍ VOLTREGÀ",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL CUBELLES"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "18/10/2026",
-    "hora": "17:00",
-    "local": "CH MATARÓ",
-    "visitant": "CHP MARTORELL",
-    "resultat": "",
-    "pista": "CH MATARO"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
@@ -3153,28 +3153,10 @@
     "competicio": "2ª CATALANA GRUP C",
     "data": "18/10/2026",
     "hora": "18:00",
-    "local": "CLUB PATÍ RODA",
-    "visitant": "FENIE ENERGIA CERDANYOLA CCH",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "18/10/2026",
-    "hora": "18:00",
     "local": "CPI SANT IGNASI",
     "visitant": "HOQUEI BANYOLES",
     "resultat": "",
     "pista": "COL·LEGI SANT IGNASI"
-  },
-  {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "18/10/2026",
-    "hora": "18:00",
-    "local": "FENIE ENERGIA CERDANYOLA CCH",
-    "visitant": "CLUB PATI TORRELLES",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -3186,13 +3168,22 @@
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
-    "competicio": "1ª CATALANA GRUP A",
+    "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "18/10/2026",
-    "hora": "18:15",
-    "local": "CLUB PATÍ VOLTREGÀ",
-    "visitant": "CP CONGRÉS",
+    "hora": "18:00",
+    "local": "FENIE ENERGIA CERDANYOLA CCH",
+    "visitant": "CLUB PATI TORRELLES",
     "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+    "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "18/10/2026",
+    "hora": "18:00",
+    "local": "CLUB PATÍ RODA",
+    "visitant": "FENIE ENERGIA CERDANYOLA CCH",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
     "competicio": "NACIONAL CATALANA MASCULINA",
@@ -3204,13 +3195,13 @@
     "pista": "PAVELLÓ POLIESPORTIU DE BELL-LLOC"
   },
   {
-    "competicio": "2ª CATALANA GRUP B",
+    "competicio": "1ª CATALANA GRUP A",
     "data": "18/10/2026",
-    "hora": "18:30",
-    "local": "GENERALI HC PALAU",
-    "visitant": "ELECTRO AD CP MASQUEFA",
+    "hora": "18:15",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "CP CONGRÉS",
     "resultat": "",
-    "pista": "PAVELLO PALAU PLEGAMANS"
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
@@ -3222,6 +3213,15 @@
     "pista": "CH MATARO"
   },
   {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "18/10/2026",
+    "hora": "18:30",
+    "local": "GENERALI HC PALAU",
+    "visitant": "ELECTRO AD CP MASQUEFA",
+    "resultat": "",
+    "pista": "PAVELLO PALAU PLEGAMANS"
+  },
+  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "18/10/2026",
     "hora": "18:45",
@@ -3229,15 +3229,6 @@
     "visitant": "CE ARENYS DE MUNT SOLARTRADEX",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
-  },
-  {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "18/10/2026",
-    "hora": "19:45",
-    "local": "MARTINELIA MANLLEU",
-    "visitant": "ROTOTANK BIGUES I RIELLS",
-    "resultat": "",
-    "pista": "PISTA MANLLEU"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -3249,6 +3240,15 @@
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
   {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "18/10/2026",
+    "hora": "19:45",
+    "local": "MARTINELIA MANLLEU",
+    "visitant": "ROTOTANK BIGUES I RIELLS",
+    "resultat": "",
+    "pista": "PISTA MANLLEU"
+  },
+  {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "18/10/2026",
     "hora": "20:00",
@@ -3258,15 +3258,6 @@
     "pista": "POLIESPORTIU MUNICIPAL DE VILA-SANA"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "18/10/2026",
-    "hora": "20:00",
-    "local": "IGUALADA HC",
-    "visitant": "UEH BARBERÀ",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU DE LES COMES"
-  },
-  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "18/10/2026",
     "hora": "20:00",
@@ -3274,6 +3265,15 @@
     "visitant": "CE NOIA FREIXENET",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "18/10/2026",
+    "hora": "20:00",
+    "local": "IGUALADA HC",
+    "visitant": "UEH BARBERÀ",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -3303,6 +3303,15 @@
     "pista": "PAVELLÓ D ESPORTS CAN VIOLÍ"
   },
   {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "23/10/2026",
+    "hora": "21:30",
+    "local": "CLUB PATI CALAFELL",
+    "visitant": "CAMBRILS CH",
+    "resultat": "",
+    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
+  },
+  {
     "competicio": "2ª CATALANA GRUP B",
     "data": "23/10/2026",
     "hora": "21:30",
@@ -3321,15 +3330,6 @@
     "pista": "CLUB D ESPORTS VENDRELL"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "23/10/2026",
-    "hora": "21:30",
-    "local": "CLUB PATI CALAFELL",
-    "visitant": "CAMBRILS CH",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
-  },
-  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "23/10/2026",
     "hora": "21:30",
@@ -3337,6 +3337,15 @@
     "visitant": "INNOAESTHETICS HC SANT JUST",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL MOLLERUSSA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "23/10/2026",
+    "hora": "21:55",
+    "local": "OXFORD HC SALT",
+    "visitant": "HOQUEI PATINS TONA",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -3357,13 +3366,13 @@
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "23/10/2026",
-    "hora": "21:55",
-    "local": "OXFORD HC SALT",
-    "visitant": "HOQUEI PATINS TONA",
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "24/10/2026",
+    "hora": "16:00",
+    "local": "HOQUEI CLUB CASTELLAR",
+    "visitant": "CLUB HOQUEI VILASSAR",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
+    "pista": "PAVELLÓ DANI PEDROSA"
   },
   {
     "competicio": "2ª CATALANA GRUP A",
@@ -3375,24 +3384,6 @@
     "pista": "POLIESPORTIU MUNICIPAL LA MAURINA"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP A",
-    "data": "24/10/2026",
-    "hora": "16:00",
-    "local": "PHC SANT CUGAT",
-    "visitant": "PONS LLEIDA BELL-LLOC",
-    "resultat": "",
-    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP A",
-    "data": "24/10/2026",
-    "hora": "16:00",
-    "local": "HOQUEI CLUB CASTELLAR",
-    "visitant": "CLUB HOQUEI VILASSAR",
-    "resultat": "",
-    "pista": "PAVELLÓ DANI PEDROSA"
-  },
-  {
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "24/10/2026",
     "hora": "16:00",
@@ -3400,6 +3391,15 @@
     "visitant": "CP VILANOVA LA DAURADA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
+  },
+  {
+    "competicio": "1ª CATALANA FEMENINA GRUP A",
+    "data": "24/10/2026",
+    "hora": "16:00",
+    "local": "VICIO PHC SANT CUGAT",
+    "visitant": "PONS LLEIDA BELL-LLOC",
+    "resultat": "",
+    "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
@@ -3528,6 +3528,42 @@
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
+    "competicio": "1ª CATALANA FEMENINA GRUP A",
+    "data": "24/10/2026",
+    "hora": "19:45",
+    "local": "MOLLET HC",
+    "visitant": "IGUALADA FEMENÍ HCP",
+    "resultat": "",
+    "pista": "PAVELLO MOLLET"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "24/10/2026",
+    "hora": "19:45",
+    "local": "CH OLOT B",
+    "visitant": "CP VILANOVA",
+    "resultat": "",
+    "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "24/10/2026",
+    "hora": "19:45",
+    "local": "CHP SANT FELIU",
+    "visitant": "CP RIUDOMS",
+    "resultat": "",
+    "pista": "PAVELLÓ FRANCESC CASSART"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "24/10/2026",
+    "hora": "19:45",
+    "local": "HOQUEI CLUB CASTELLAR",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "PAVELLÓ DANI PEDROSA"
+  },
+  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "24/10/2026",
     "hora": "19:45",
@@ -3546,42 +3582,6 @@
     "pista": "PAVELLÓ MUNICIPAL MALGRAT"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "24/10/2026",
-    "hora": "19:45",
-    "local": "CHP SANT FELIU",
-    "visitant": "CP RIUDOMS",
-    "resultat": "",
-    "pista": "PAVELLÓ FRANCESC CASSART"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "24/10/2026",
-    "hora": "19:45",
-    "local": "CH OLOT B",
-    "visitant": "CP VILANOVA",
-    "resultat": "",
-    "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
-  },
-  {
-    "competicio": "1ª CATALANA FEMENINA GRUP A",
-    "data": "24/10/2026",
-    "hora": "19:45",
-    "local": "MOLLET HC",
-    "visitant": "IGUALADA FEMENÍ HCP",
-    "resultat": "",
-    "pista": "PAVELLO MOLLET"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "24/10/2026",
-    "hora": "19:45",
-    "local": "HOQUEI CLUB CASTELLAR",
-    "visitant": "CH CALDES RECAM LÀSER",
-    "resultat": "",
-    "pista": "PAVELLÓ DANI PEDROSA"
-  },
-  {
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "24/10/2026",
     "hora": "19:45",
@@ -3591,13 +3591,31 @@
     "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
   },
   {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "competicio": "2ª CATALANA GRUP C",
     "data": "24/10/2026",
     "hora": "20:00",
-    "local": "CLUB PATI VILAFRANCA AKO",
-    "visitant": "CLUB PATI CUBELLES",
+    "local": "CLUB HOQUEI SANTA PERPÈTUA",
+    "visitant": "CP SUBUR SITGES",
     "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
+    "pista": "POLIESPORTIU MUNICIPAL STA PERPETUA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP B",
+    "data": "24/10/2026",
+    "hora": "20:00",
+    "local": "ELECTRO AD CP MASQUEFA",
+    "visitant": "CH MATARÓ",
+    "resultat": "",
+    "pista": "PAVELLÓ DE MASQUEFA"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "24/10/2026",
+    "hora": "20:00",
+    "local": "LLEIDANET ALPICAT",
+    "visitant": "CLUB PATÍ BELL-LLOC",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -3609,22 +3627,13 @@
     "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
   },
   {
-    "competicio": "2ª CATALANA GRUP C",
+    "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "24/10/2026",
     "hora": "20:00",
-    "local": "FENIE ENERGIA CERDANYOLA CCH",
-    "visitant": "CP JONQUERENC",
+    "local": "GIRONA CLUB HOQUEI",
+    "visitant": "HOQUEI CLUB RIPOLL",
     "resultat": "",
-    "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "24/10/2026",
-    "hora": "20:00",
-    "local": "CLUB HOQUEI SANTA PERPÈTUA",
-    "visitant": "CP SUBUR SITGES",
-    "resultat": "",
-    "pista": "POLIESPORTIU MUNICIPAL STA PERPETUA"
+    "pista": "PAVELLÓ MUNICIPAL PALAU 2"
   },
   {
     "competicio": "2ª CATALANA GRUP C",
@@ -3639,10 +3648,28 @@
     "competicio": "1ª CATALANA FEMENINA GRUP B",
     "data": "24/10/2026",
     "hora": "20:00",
+    "local": "CLUB PATI VILAFRANCA AKO",
+    "visitant": "CLUB PATI CUBELLES",
+    "resultat": "",
+    "pista": "POLIESPORTIU DE VILAFRANCA"
+  },
+  {
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
+    "data": "24/10/2026",
+    "hora": "20:00",
     "local": "CLUB PATÍ VOLTREGÀ",
     "visitant": "CP VILANOVA LA DAURADA",
     "resultat": "",
     "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "24/10/2026",
+    "hora": "20:00",
+    "local": "FENIE ENERGIA CERDANYOLA CCH",
+    "visitant": "CP JONQUERENC",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -3652,33 +3679,6 @@
     "visitant": "CLUB PATÍ VILA-SANA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "24/10/2026",
-    "hora": "20:00",
-    "local": "GIRONA CLUB HOQUEI",
-    "visitant": "HOQUEI CLUB RIPOLL",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL PALAU 2"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "24/10/2026",
-    "hora": "20:00",
-    "local": "LLEIDANET ALPICAT",
-    "visitant": "CLUB PATÍ BELL-LLOC",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP B",
-    "data": "24/10/2026",
-    "hora": "20:00",
-    "local": "ELECTRO AD CP MASQUEFA",
-    "visitant": "CH MATARÓ",
-    "resultat": "",
-    "pista": "PAVELLÓ DE MASQUEFA"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -3699,24 +3699,6 @@
     "pista": "POLIESPORTIU MUNICIPAL DE VILA-SANA"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "25/10/2026",
-    "hora": "12:30",
-    "local": "CP BLANES",
-    "visitant": "CP TARADELL",
-    "resultat": "",
-    "pista": "CIUTAT ESPORTIVA BLANES BLAVA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "25/10/2026",
-    "hora": "12:30",
-    "local": "CH PALAFRUGELL",
-    "visitant": "UNIÓ ESPORTIVA D'HORTA",
-    "resultat": "",
-    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
-  },
-  {
     "competicio": "2ª CATALANA GRUP C",
     "data": "25/10/2026",
     "hora": "12:30",
@@ -3735,13 +3717,22 @@
     "pista": "ZONA ESPORTIVA MUNICIPAL MARIA REVERTER"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
+    "competicio": "2ª CATALANA GRUP D",
     "data": "25/10/2026",
     "hora": "12:30",
-    "local": "CLUB PATI VILAFRANCA AKO",
-    "visitant": "CH CALDES RECAM LÀSER",
+    "local": "CP BLANES",
+    "visitant": "CP TARADELL",
     "resultat": "",
-    "pista": "POLIESPORTIU DE VILAFRANCA"
+    "pista": "CIUTAT ESPORTIVA BLANES BLAVA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP A",
+    "data": "25/10/2026",
+    "hora": "12:30",
+    "local": "CH PALAFRUGELL",
+    "visitant": "UNIÓ ESPORTIVA D'HORTA",
+    "resultat": "",
+    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -3751,6 +3742,15 @@
     "visitant": "AUTO VIGATANA PATÍ VIC",
     "resultat": "",
     "pista": "CH MATARO"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "25/10/2026",
+    "hora": "12:30",
+    "local": "CLUB PATI VILAFRANCA AKO",
+    "visitant": "CH CALDES RECAM LÀSER",
+    "resultat": "",
+    "pista": "POLIESPORTIU DE VILAFRANCA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -3780,15 +3780,6 @@
     "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
   },
   {
-    "competicio": "2ª CATALANA GRUP A",
-    "data": "25/10/2026",
-    "hora": "16:30",
-    "local": "CE NOIA FREIXENET",
-    "visitant": "HC VALLS INTEC ENGINYERIA",
-    "resultat": "",
-    "pista": "CLUB ESPORTIU NOIA"
-  },
-  {
     "competicio": "1ª CATALANA GRUP A",
     "data": "25/10/2026",
     "hora": "16:30",
@@ -3798,6 +3789,15 @@
     "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
   },
   {
+    "competicio": "2ª CATALANA GRUP A",
+    "data": "25/10/2026",
+    "hora": "16:30",
+    "local": "CE NOIA FREIXENET",
+    "visitant": "HC VALLS INTEC ENGINYERIA",
+    "resultat": "",
+    "pista": "CLUB ESPORTIU NOIA"
+  },
+  {
     "competicio": "1ª CATALANA GRUP B",
     "data": "25/10/2026",
     "hora": "17:30",
@@ -3805,15 +3805,6 @@
     "visitant": "CLUB PATÍ MONJOS PANSALUD",
     "resultat": "",
     "pista": "PAVELLÓ CELIA ARTIGA"
-  },
-  {
-    "competicio": "2ª CATALANA GRUP D",
-    "data": "25/10/2026",
-    "hora": "18:00",
-    "local": "GEIEG",
-    "visitant": "HC MONTBUI",
-    "resultat": "",
-    "pista": "PAVELLÓ LLUÍS BACHS"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -3834,13 +3825,13 @@
     "pista": "PAVELLO ESPORTIU CP VIC"
   },
   {
-    "competicio": "1ª CATALANA GRUP A",
+    "competicio": "2ª CATALANA GRUP D",
     "data": "25/10/2026",
-    "hora": "18:30",
-    "local": "CLUB ESPORTS VENDRELL",
-    "visitant": "CH RIPOLLET",
+    "hora": "18:00",
+    "local": "GEIEG",
+    "visitant": "HC MONTBUI",
     "resultat": "",
-    "pista": "CLUB D ESPORTS VENDRELL"
+    "pista": "PAVELLÓ LLUÍS BACHS"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -3850,6 +3841,24 @@
     "visitant": "CLUB PATÍ RODA",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP A",
+    "data": "25/10/2026",
+    "hora": "18:30",
+    "local": "CLUB ESPORTS VENDRELL",
+    "visitant": "CH RIPOLLET",
+    "resultat": "",
+    "pista": "CLUB D ESPORTS VENDRELL"
+  },
+  {
+    "competicio": "NACIONAL CATALANA MASCULINA",
+    "data": "25/10/2026",
+    "hora": "18:45",
+    "local": "IGUALADA HC",
+    "visitant": "UEH BARBERÀ",
+    "resultat": "",
+    "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
@@ -3865,27 +3874,9 @@
     "data": "25/10/2026",
     "hora": "18:45",
     "local": "CH JUNEDA",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL DE JUNEDA"
-  },
-  {
-    "competicio": "NACIONAL CATALANA MASCULINA",
-    "data": "25/10/2026",
-    "hora": "18:45",
-    "local": "IGUALADA HC",
-    "visitant": "UEH BARBERÀ",
-    "resultat": "",
-    "pista": "COMPLEX ESPORTIU DE LES COMES"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "25/10/2026",
-    "hora": "19:00",
-    "local": "CH PALAFRUGELL",
-    "visitant": "PHC SANT CUGAT",
-    "resultat": "",
-    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -3904,6 +3895,15 @@
     "visitant": "GENERALI HC PALAU",
     "resultat": "",
     "pista": "ANDORRA HC"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "25/10/2026",
+    "hora": "19:00",
+    "local": "CH PALAFRUGELL",
+    "visitant": "VICIO PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "PAVELLÓ DE PATINATGE PALAFRUGELL"
   },
   {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
@@ -3933,6 +3933,15 @@
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS D AMPOSTA"
   },
   {
+    "competicio": "NACIONAL CATALANA FEMENINA",
+    "data": "25/10/2026",
+    "hora": "20:00",
+    "local": "CLUB PATÍ VOLTREGÀ",
+    "visitant": "VICIO PHC SANT CUGAT",
+    "resultat": "",
+    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
+  },
+  {
     "competicio": "1ª CATALANA FEMENINA GRUP B",
     "data": "25/10/2026",
     "hora": "20:00",
@@ -3940,15 +3949,6 @@
     "visitant": "ROTOTANK BIGUES I RIELLS",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
-  },
-  {
-    "competicio": "NACIONAL CATALANA FEMENINA",
-    "data": "25/10/2026",
-    "hora": "20:00",
-    "local": "CLUB PATÍ VOLTREGÀ",
-    "visitant": "PHC SANT CUGAT",
-    "resultat": "",
-    "pista": "PAVELLÓ ST.HIPÒLIT DE VOLTREGÀ"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -3978,15 +3978,6 @@
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
   },
   {
-    "competicio": "2ª CATALANA GRUP C",
-    "data": "30/10/2026",
-    "hora": "21:30",
-    "local": "HCSENTMENAT",
-    "visitant": "FENIE ENERGIA CERDANYOLA CCH",
-    "resultat": "",
-    "pista": "PAVELLÓ HOQUEI SENTMENAT"
-  },
-  {
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "30/10/2026",
     "hora": "21:30",
@@ -3994,6 +3985,15 @@
     "visitant": "CE ARENYS DE MUNT MUNTBIKES",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL LA NORIA"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP C",
+    "data": "30/10/2026",
+    "hora": "21:30",
+    "local": "HCSENTMENAT",
+    "visitant": "FENIE ENERGIA CERDANYOLA CCH",
+    "resultat": "",
+    "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
   {
     "competicio": "2ª CATALANA GRUP D",
@@ -4017,7 +4017,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "31/10/2026",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "HCSENTMENAT",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -4050,24 +4050,6 @@
     "pista": "PAVELLÓ DE LES CASERNES"
   },
   {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "31/10/2026",
-    "hora": "18:00",
-    "local": "HOQUEI PATINS TONA",
-    "visitant": "CLUB PATI VILAFRANCA AKO",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL DE TONA"
-  },
-  {
-    "competicio": "1ª CATALANA GRUP B",
-    "data": "31/10/2026",
-    "hora": "18:00",
-    "local": "CH LLORET FITEL NETWORK",
-    "visitant": "CHP SANT FELIU",
-    "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
-  },
-  {
     "competicio": "2ª CATALANA GRUP A",
     "data": "31/10/2026",
     "hora": "18:00",
@@ -4080,10 +4062,10 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "31/10/2026",
     "hora": "18:00",
-    "local": "CLUB ESPORTIU OLESA PATÍ",
-    "visitant": "CLUB PATÍ VOLTREGÀ",
+    "local": "ROTOTANK BIGUES I RIELLS",
+    "visitant": "CLUB PATI TORRELLES",
     "resultat": "",
-    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
+    "pista": "PAVELLÓ CAN BADELL"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -4098,10 +4080,28 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "31/10/2026",
     "hora": "18:00",
-    "local": "ROTOTANK BIGUES I RIELLS",
-    "visitant": "CLUB PATI TORRELLES",
+    "local": "CLUB ESPORTIU OLESA PATÍ",
+    "visitant": "CLUB PATÍ VOLTREGÀ",
     "resultat": "",
-    "pista": "PAVELLÓ CAN BADELL"
+    "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "31/10/2026",
+    "hora": "18:00",
+    "local": "CH LLORET FITEL NETWORK",
+    "visitant": "CHP SANT FELIU",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
+  },
+  {
+    "competicio": "1ª CATALANA GRUP B",
+    "data": "31/10/2026",
+    "hora": "18:00",
+    "local": "HOQUEI PATINS TONA",
+    "visitant": "CLUB PATI VILAFRANCA AKO",
+    "resultat": "",
+    "pista": "PAVELLÓ MUNICIPAL DE TONA"
   },
   {
     "competicio": "2ª CATALANA GRUP B",
@@ -4125,19 +4125,28 @@
     "competicio": "2ª CATALANA GRUP D",
     "data": "31/10/2026",
     "hora": "19:00",
+    "local": "CP TARADELL",
+    "visitant": "CLUB PATÍ CENTELLES",
+    "resultat": "",
+    "pista": "PAVELLÓ D ESPORTS EL PUJOLÓ"
+  },
+  {
+    "competicio": "2ª CATALANA GRUP D",
+    "data": "31/10/2026",
+    "hora": "19:00",
     "local": "CLUB PATÍ RIBES FRESER",
     "visitant": "CLUB ESPORTIU OLESA PATÍ",
     "resultat": "",
     "pista": "PAVELLO RIBES DE FRESER"
   },
   {
-    "competicio": "2ª CATALANA GRUP D",
+    "competicio": "1ª CATALANA FEMENINA GRUP B",
     "data": "31/10/2026",
     "hora": "19:00",
-    "local": "CP TARADELL",
-    "visitant": "CLUB PATÍ CENTELLES",
+    "local": "UNIÓ ESPORTIVA D'HORTA",
+    "visitant": "HOQUEI CLUB ALPICAT",
     "resultat": "",
-    "pista": "PAVELLÓ D ESPORTS EL PUJOLÓ"
+    "pista": "PISTA UE HORTA"
   },
   {
     "competicio": "1ª CATALANA GRUP A",
@@ -4156,15 +4165,6 @@
     "visitant": "MARTINELIA MANLLEU",
     "resultat": "",
     "pista": "PAVELLÓ CAN BADELL"
-  },
-  {
-    "competicio": "1ª CATALANA FEMENINA GRUP B",
-    "data": "31/10/2026",
-    "hora": "19:00",
-    "local": "UNIÓ ESPORTIVA D'HORTA",
-    "visitant": "HOQUEI CLUB ALPICAT",
-    "resultat": "",
-    "pista": "PISTA UE HORTA"
   },
   {
     "competicio": "1ª CATALANA GRUP B",
@@ -4323,7 +4323,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "01/11/2026",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CE ARENYS DE MUNT SOLARTRADEX",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -4395,7 +4395,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "01/11/2026",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB PATÍ VILA-SANA",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -4459,7 +4459,7 @@
     "data": "01/11/2026",
     "hora": "17:45",
     "local": "FUTBOL CLUB MARTINENC",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "CENTRO DEPORTIVO MUNICIPAL DEL GUINARDÓ"
   },
@@ -4657,7 +4657,7 @@
     "data": "07/11/2026",
     "hora": "17:30",
     "local": "AMETLLER ORIGEN CP VILAFRANCA",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
@@ -4738,7 +4738,7 @@
     "data": "07/11/2026",
     "hora": "19:45",
     "local": "HOQUEI CLUB CASTELLAR",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ DANI PEDROSA"
   },
@@ -4792,7 +4792,7 @@
     "data": "08/11/2026",
     "hora": "12:30",
     "local": "CLUB PATI VILAFRANCA AKO",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
@@ -4998,7 +4998,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "14/11/2026",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CH MATARÓ",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -5007,7 +5007,7 @@
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "14/11/2026",
     "hora": "16:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "REUS DEPORTIU",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -5358,7 +5358,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "15/11/2026",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "LLEIDANET ALPICAT",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -5430,7 +5430,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "15/11/2026",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CH CALDES RECAM LÀSER",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -5701,7 +5701,7 @@
     "data": "21/11/2026",
     "hora": "17:45",
     "local": "CP VILANOVA LA DAURADA",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ DE LES CASERNES"
   },
@@ -5845,7 +5845,7 @@
     "data": "21/11/2026",
     "hora": "19:45",
     "local": "CAPELLADES",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
   },
@@ -5863,7 +5863,7 @@
     "data": "21/11/2026",
     "hora": "20:00",
     "local": "AUTO VIGATANA PATÍ VIC",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO ESPORTIU CP VIC"
   },
@@ -6205,7 +6205,7 @@
     "data": "22/11/2026",
     "hora": "19:30",
     "local": "SHUM SELVAFIL",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO SHUM"
   },
@@ -6339,7 +6339,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "28/11/2026",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CH CALDES RECAM LÀSER",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -6699,7 +6699,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "29/11/2026",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB HOQUEI CADÍ",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -6753,7 +6753,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "29/11/2026",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "OXFORD HC SALT",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -6979,7 +6979,7 @@
     "data": "05/12/2026",
     "hora": "18:00",
     "local": "HOQUEI PATINS TONA",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL DE TONA"
   },
@@ -7006,7 +7006,7 @@
     "data": "05/12/2026",
     "hora": "19:15",
     "local": "CH OLOT",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "MUNICIPAL D ESPORTS I LLEURE D OLOT"
   },
@@ -7105,7 +7105,7 @@
     "data": "06/12/2026",
     "hora": "12:45",
     "local": "CLUB PATÍ VOLTREGÀ - MASIES",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "MASIES DE VOLTREGA"
   },
@@ -7293,7 +7293,7 @@
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "12/12/2026",
     "hora": "16:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB HOQUEI ARENYS DE MAR",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -7474,7 +7474,7 @@
     "data": "12/12/2026",
     "hora": "19:45",
     "local": "CP RIUDEBITLLES",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO RIUDEBITLLES"
   },
@@ -7599,7 +7599,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "13/12/2026",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "JOIERIA MONER SANT RAMON",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -7653,7 +7653,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "13/12/2026",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "GENERALI HC PALAU",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -7977,7 +7977,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "19/12/2026",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CAMBRILS CH",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -8221,7 +8221,7 @@
     "data": "19/12/2026",
     "hora": "20:00",
     "local": "CE ARENYS DE MUNT MUNTBIKES",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
   },
@@ -8382,7 +8382,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "20/12/2026",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB ESPORTIU OLESA PATÍ",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -8473,7 +8473,7 @@
     "data": "20/12/2026",
     "hora": "18:15",
     "local": "CLUB PATÍ BELL-LLOC",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ POLIESPORTIU DE BELL-LLOC"
   },
@@ -8616,7 +8616,7 @@
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "09/01/2027",
     "hora": "16:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "FENIE ENERGIA CERDANYOLA CCH",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -8833,7 +8833,7 @@
     "data": "09/01/2027",
     "hora": "19:45",
     "local": "CLUB PATÍ MONJOS PANSALUD",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO CP MONJOS"
   },
@@ -8967,7 +8967,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "10/01/2027",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CH CALDES RECAM LÀSER",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -9094,7 +9094,7 @@
     "data": "10/01/2027",
     "hora": "18:00",
     "local": "FENIE ENERGIA CERDANYOLA CCH",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
   },
@@ -9318,7 +9318,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "16/01/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB PATÍ RODA",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -9508,7 +9508,7 @@
     "data": "16/01/2027",
     "hora": "19:45",
     "local": "MOLLET HC",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO MOLLET"
   },
@@ -9723,7 +9723,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "17/01/2027",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "MARTINELIA MANLLEU",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -9769,7 +9769,7 @@
     "data": "17/01/2027",
     "hora": "17:00",
     "local": "BARÇA",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "CAMPUS DE MUNDET UB"
   },
@@ -10246,7 +10246,7 @@
     "data": "23/01/2027",
     "hora": "21:00",
     "local": "CP RIUDOMS",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO MUNICIPAL RIUDOMS"
   },
@@ -10254,7 +10254,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "24/01/2027",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "IGUALADA HC",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -10264,7 +10264,7 @@
     "data": "24/01/2027",
     "hora": "12:30",
     "local": "IGUALADA FEMENÍ HCP",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "COMPLEX ESPORTIU DE LES COMES"
   },
@@ -10335,7 +10335,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "24/01/2027",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "ROTOTANK BIGUES I RIELLS",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -10632,7 +10632,7 @@
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "30/01/2027",
     "hora": "16:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CP BLANES",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -10660,7 +10660,7 @@
     "data": "30/01/2027",
     "hora": "18:00",
     "local": "CH LLORET FITEL NETWORK",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS LLORET"
   },
@@ -10777,7 +10777,7 @@
     "data": "30/01/2027",
     "hora": "19:15",
     "local": "CLUB PATI TORRELLES",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PISTA TORRELLES"
   },
@@ -10786,7 +10786,7 @@
     "data": "30/01/2027",
     "hora": "19:30",
     "local": "HOQUEI CLUB RIPOLL",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "POLIESPORTIU RIPOLL"
   },
@@ -11226,7 +11226,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "06/02/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CHP SANT FELIU",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -11641,7 +11641,7 @@
     "data": "13/02/2027",
     "hora": "19:45",
     "local": "CAPELLADES",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL CAPELLADES"
   },
@@ -11721,7 +11721,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "14/02/2027",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "UEH BARBERÀ",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -11811,7 +11811,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "14/02/2027",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "IGUALADA FEMENÍ GRUPO GUZMÁN",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -12037,7 +12037,7 @@
     "data": "14/02/2027",
     "hora": "20:00",
     "local": "CLUB PATÍ VILA-SANA",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL DE VILA-SANA"
   },
@@ -12108,7 +12108,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "20/02/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CH VILA-SECA-CEH OLIMPIC",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -12117,7 +12117,7 @@
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "20/02/2027",
     "hora": "16:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "FARNERS",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -12388,7 +12388,7 @@
     "data": "20/02/2027",
     "hora": "20:00",
     "local": "GIRONA CLUB HOQUEI",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL PALAU 2"
   },
@@ -12604,7 +12604,7 @@
     "data": "21/02/2027",
     "hora": "18:00",
     "local": "PATÍ VIC",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO ESPORTIU CP VIC"
   },
@@ -12757,7 +12757,7 @@
     "data": "26/02/2027",
     "hora": "21:30",
     "local": "CLUB PATI CALAFELL",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL DE CALAFELL"
   },
@@ -13027,7 +13027,7 @@
     "data": "28/02/2027",
     "hora": "12:00",
     "local": "PONS LLEIDA BELL-LLOC",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO MUNICIPAL ONZE DE SETEMBRE"
   },
@@ -13035,7 +13035,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "28/02/2027",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CH JUNEDA",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -13125,7 +13125,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "28/02/2027",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB PATÍ VOLTREGÀ",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -13395,7 +13395,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "06/03/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CH PALAFRUGELL",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -13441,7 +13441,7 @@
     "data": "06/03/2027",
     "hora": "19:00",
     "local": "CE ARENYS DE MUNT SOLARTRADEX",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL AL TORRENT D EN TERRA"
   },
@@ -13594,7 +13594,7 @@
     "data": "07/03/2027",
     "hora": "12:00",
     "local": "CLUB PATÍ VILA-SANA",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "POLIESPORTIU MUNICIPAL DE VILA-SANA"
   },
@@ -13782,7 +13782,7 @@
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "13/03/2027",
     "hora": "16:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "FUTBOL CLUB MARTINENC",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -13900,7 +13900,7 @@
     "data": "13/03/2027",
     "hora": "19:00",
     "local": "HCSENTMENAT",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ HOQUEI SENTMENAT"
   },
@@ -14079,7 +14079,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "14/03/2027",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "HOQUEI CLUB CASTELLAR",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -14160,7 +14160,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "14/03/2027",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "AMETLLER ORIGEN CP VILAFRANCA",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -14421,7 +14421,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "20/03/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB PATI VILAFRANCA AKO",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -14440,7 +14440,7 @@
     "data": "20/03/2027",
     "hora": "16:00",
     "local": "CH CALDES RECAM LÀSER",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
@@ -14737,7 +14737,7 @@
     "data": "20/03/2027",
     "hora": "21:15",
     "local": "LLEIDANET ALPICAT",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS ANTONI ROURE"
   },
@@ -14908,7 +14908,7 @@
     "data": "21/03/2027",
     "hora": "18:00",
     "local": "REUS DEPORTIU",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO REUS DEPORTIU"
   },
@@ -15105,7 +15105,7 @@
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "03/04/2027",
     "hora": "16:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "SHUM SELVAFIL",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -15402,7 +15402,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "04/04/2027",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CAPELLADES",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -15457,7 +15457,7 @@
     "data": "04/04/2027",
     "hora": "12:30",
     "local": "CH MATARÓ",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "CH MATARO"
   },
@@ -15492,7 +15492,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "04/04/2027",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CP VILANOVA LA DAURADA",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -15744,7 +15744,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "10/04/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "AUTO VIGATANA PATÍ VIC",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -15772,7 +15772,7 @@
     "data": "10/04/2027",
     "hora": "17:00",
     "local": "OXFORD HC SALT",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D ESPORTS DE SALT"
   },
@@ -15961,7 +15961,7 @@
     "data": "10/04/2027",
     "hora": "19:45",
     "local": "CLUB HOQUEI CADÍ",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PISTA 1 LA SEU D URGELL"
   },
@@ -16491,7 +16491,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "18/04/2027",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB PATÍ VOLTREGÀ - MASIES",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -16545,7 +16545,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "18/04/2027",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CH OLOT",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -16555,7 +16555,7 @@
     "data": "18/04/2027",
     "hora": "16:30",
     "local": "CH CALDES RECAM LÀSER",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
@@ -16743,7 +16743,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "24/04/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "HOQUEI PATINS TONA",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -16789,7 +16789,7 @@
     "data": "24/04/2027",
     "hora": "17:00",
     "local": "CLUB HOQUEI ARENYS DE MAR",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ FONS DE LES CREUS"
   },
@@ -17176,7 +17176,7 @@
     "data": "25/04/2027",
     "hora": "13:00",
     "local": "GENERALI HC PALAU",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLO PALAU PLEGAMANS"
   },
@@ -17221,7 +17221,7 @@
     "data": "25/04/2027",
     "hora": "18:00",
     "local": "JOIERIA MONER SANT RAMON",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "POLIESPORTIU DE VILAFRANCA"
   },
@@ -17400,7 +17400,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "01/05/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CP RIUDEBITLLES",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -17427,7 +17427,7 @@
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "01/05/2027",
     "hora": "16:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CE ARENYS DE MUNT MUNTBIKES",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -17446,7 +17446,7 @@
     "data": "01/05/2027",
     "hora": "18:00",
     "local": "CLUB ESPORTIU OLESA PATÍ",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL SALVADOR BOADA"
   },
@@ -17697,7 +17697,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "02/05/2027",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB PATÍ BELL-LLOC",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -18049,7 +18049,7 @@
     "data": "08/05/2027",
     "hora": "19:00",
     "local": "CAMBRILS CH",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "CAMBRILS ESPORT"
   },
@@ -18165,7 +18165,7 @@
     "competicio": "NACIONAL CATALANA FEMENINA",
     "data": "09/05/2027",
     "hora": "13:50",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "FENIE ENERGIA CERDANYOLA CCH",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -18309,7 +18309,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "15/05/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CLUB PATÍ MONJOS PANSALUD",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -18715,7 +18715,7 @@
     "data": "16/05/2027",
     "hora": "18:00",
     "local": "FENIE ENERGIA CERDANYOLA CCH",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "COMPLEX ESPORTIU MUNICIPAL CAN XARAU"
   },
@@ -18769,7 +18769,7 @@
     "data": "16/05/2027",
     "hora": "18:45",
     "local": "CH CALDES RECAM LÀSER",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL D HOQUEI TORRE ROJA"
   },
@@ -18876,7 +18876,7 @@
     "competicio": "1ª CATALANA FEMENINA GRUP A",
     "data": "22/05/2027",
     "hora": "16:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "MOLLET HC",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -19191,7 +19191,7 @@
     "competicio": "NACIONAL CATALANA MASCULINA",
     "data": "23/05/2027",
     "hora": "12:00",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "BARÇA",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
@@ -19345,7 +19345,7 @@
     "data": "23/05/2027",
     "hora": "18:15",
     "local": "MARTINELIA MANLLEU",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PISTA MANLLEU"
   },
@@ -19435,7 +19435,7 @@
     "data": "23/05/2027",
     "hora": "19:45",
     "local": "CLUB PATÍ RODA",
-    "visitant": "PHC SANT CUGAT",
+    "visitant": "VICIO PHC SANT CUGAT",
     "resultat": "",
     "pista": "PAVELLÓ MUNICIPAL RODA DE TER"
   },
@@ -19497,7 +19497,7 @@
     "competicio": "1ª CATALANA GRUP B",
     "data": "29/05/2027",
     "hora": "13:55",
-    "local": "PHC SANT CUGAT",
+    "local": "VICIO PHC SANT CUGAT",
     "visitant": "CP RIUDOMS",
     "resultat": "",
     "pista": "PAVELLÓ ESPORTIU MUNICIPAL ST CUGAT"
